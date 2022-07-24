@@ -1,0 +1,2849 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?6sfk34');
+  src:  url('fonts/icomoon.eot?6sfk34#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?6sfk34') format('truetype'),
+    url('fonts/icomoon.woff?6sfk34') format('woff'),
+    url('fonts/icomoon.svg?6sfk34#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-C:before {
+  content: "\e900";
+}
+.icon-C-Alt:before {
+  content: "\e901";
+}
+.icon-D-Model:before {
+  content: "\e902";
+}
+.icon-DS-Max:before {
+  content: "\e903";
+}
+.icon-D:before {
+  content: "\e904";
+}
+.icon-A:before {
+  content: "\e905";
+}
+.icon-ABAP:before {
+  content: "\e906";
+}
+.icon-ABIF:before {
+  content: "\e907";
+}
+.icon-Acre:before {
+  content: "\e908";
+}
+.icon-ActionScript:before {
+  content: "\e909";
+}
+.icon-Ada:before {
+  content: "\e90a";
+}
+.icon-Adobe:before {
+  content: "\e90b";
+}
+.icon-Adobe-Acrobat:before {
+  content: "\e90c";
+}
+.icon-Adobe-AfterEffects:before {
+  content: "\e90d";
+}
+.icon-Adobe-Animate:before {
+  content: "\e90e";
+}
+.icon-Adobe-Audition:before {
+  content: "\e90f";
+}
+.icon-Adobe-Bridge:before {
+  content: "\e910";
+}
+.icon-Adobe-CharacterAnimator:before {
+  content: "\e911";
+}
+.icon-Adobe-CreativeCloud:before {
+  content: "\e912";
+}
+.icon-Adobe-Dimension:before {
+  content: "\e913";
+}
+.icon-Adobe-Dreamweaver:before {
+  content: "\e914";
+}
+.icon-Adobe-Flash:before {
+  content: "\e915";
+}
+.icon-Adobe-Fuse:before {
+  content: "\e916";
+}
+.icon-Adobe-Illustrator:before {
+  content: "\e917";
+}
+.icon-Adobe-InCopy:before {
+  content: "\e918";
+}
+.icon-Adobe-InDesign:before {
+  content: "\e919";
+}
+.icon-Adobe-Lightroom:before {
+  content: "\e91a";
+}
+.icon-Adobe-MediaEncoder:before {
+  content: "\e91b";
+}
+.icon-Adobe-Photoshop:before {
+  content: "\e91c";
+}
+.icon-Adobe-Prelude:before {
+  content: "\e91d";
+}
+.icon-Adobe-Premiere:before {
+  content: "\e91e";
+}
+.icon-Adobe-PremiereRush:before {
+  content: "\e91f";
+}
+.icon-Adobe-XD:before {
+  content: "\e920";
+}
+.icon-AdonisJS:before {
+  content: "\e921";
+}
+.icon-Aeternity:before {
+  content: "\e922";
+}
+.icon-AffectScript:before {
+  content: "\e923";
+}
+.icon-AffinityDesigner:before {
+  content: "\e924";
+}
+.icon-AGC:before {
+  content: "\e925";
+}
+.icon-Agda:before {
+  content: "\e926";
+}
+.icon-Akka:before {
+  content: "\e927";
+}
+.icon-Alacritty:before {
+  content: "\e928";
+}
+.icon-Alacritty-Alt:before {
+  content: "\e929";
+}
+.icon-Alex:before {
+  content: "\e92a";
+}
+.icon-Alloy:before {
+  content: "\e92b";
+}
+.icon-Alpine-Linux:before {
+  content: "\e92c";
+}
+.icon-AMD:before {
+  content: "\e92d";
+}
+.icon-AmigaOS:before {
+  content: "\e92e";
+}
+.icon-AMPL:before {
+  content: "\e92f";
+}
+.icon-AmuseWiki:before {
+  content: "\e930";
+}
+.icon-Analytica:before {
+  content: "\e931";
+}
+.icon-AngelScript:before {
+  content: "\e932";
+}
+.icon-AnimeStudio:before {
+  content: "\e933";
+}
+.icon-Ansible:before {
+  content: "\e934";
+}
+.icon-Ansible-Alt:before {
+  content: "\e935";
+}
+.icon-ANTLR:before {
+  content: "\e936";
+}
+.icon-Antwar:before {
+  content: "\e937";
+}
+.icon-AnyScript:before {
+  content: "\e938";
+}
+.icon-Apache-ANT:before {
+  content: "\e939";
+}
+.icon-API-Blueprint:before {
+  content: "\e93a";
+}
+.icon-APIExtractor:before {
+  content: "\e93b";
+}
+.icon-APL:before {
+  content: "\e93c";
+}
+.icon-APL-Old:before {
+  content: "\e93d";
+}
+.icon-Apollo:before {
+  content: "\e93e";
+}
+.icon-Apple:before {
+  content: "\e93f";
+}
+.icon-Appveyor:before {
+  content: "\e940";
+}
+.icon-Arc:before {
+  content: "\e941";
+}
+.icon-Arch-Linux:before {
+  content: "\e942";
+}
+.icon-Arduino:before {
+  content: "\e943";
+}
+.icon-ARM:before {
+  content: "\e944";
+}
+.icon-ArtText:before {
+  content: "\e945";
+}
+.icon-ArtText4:before {
+  content: "\e946";
+}
+.icon-AsciiDoc:before {
+  content: "\e947";
+}
+.icon-Asciidoctor:before {
+  content: "\e948";
+}
+.icon-Assembly-AGC:before {
+  content: "\e949";
+}
+.icon-Assembly-AMD:before {
+  content: "\e94a";
+}
+.icon-Assembly-ARM:before {
+  content: "\e94b";
+}
+.icon-Assembly-ATT:before {
+  content: "\e94c";
+}
+.icon-Assembly-AVR:before {
+  content: "\e94d";
+}
+.icon-Assembly-Generic:before {
+  content: "\e94e";
+}
+.icon-Assembly-Hitachi:before {
+  content: "\e94f";
+}
+.icon-Assembly-Intel:before {
+  content: "\e950";
+}
+.icon-Assembly-Motorola:before {
+  content: "\e951";
+}
+.icon-Assembly-PowerPC:before {
+  content: "\e952";
+}
+.icon-Assembly-RISCV:before {
+  content: "\e953";
+}
+.icon-Assembly-SPARC:before {
+  content: "\e954";
+}
+.icon-Assembly-VAX:before {
+  content: "\e955";
+}
+.icon-Assembly-Zilog:before {
+  content: "\e956";
+}
+.icon-Asymptote:before {
+  content: "\e957";
+}
+.icon-Asymptote-Alt:before {
+  content: "\e958";
+}
+.icon-Atoum:before {
+  content: "\e959";
+}
+.icon-ATS:before {
+  content: "\e95a";
+}
+.icon-ATT:before {
+  content: "\e95b";
+}
+.icon-Audacity:before {
+  content: "\e95c";
+}
+.icon-Augeas:before {
+  content: "\e95d";
+}
+.icon-Aurelia:before {
+  content: "\e95e";
+}
+.icon-AutoHotkey:before {
+  content: "\e95f";
+}
+.icon-AutoIt:before {
+  content: "\e960";
+}
+.icon-Automator:before {
+  content: "\e961";
+}
+.icon-AVR:before {
+  content: "\e962";
+}
+.icon-Avro:before {
+  content: "\e963";
+}
+.icon-Awk:before {
+  content: "\e964";
+}
+.icon-Azure-Pipelines:before {
+  content: "\e965";
+}
+.icon-Babel:before {
+  content: "\e966";
+}
+.icon-Ballerina:before {
+  content: "\e967";
+}
+.icon-Bazaar:before {
+  content: "\e968";
+}
+.icon-Bazel:before {
+  content: "\e969";
+}
+.icon-Bazel-Old:before {
+  content: "\e96a";
+}
+.icon-Behat:before {
+  content: "\e96b";
+}
+.icon-BEM:before {
+  content: "\e96c";
+}
+.icon-BibTeX:before {
+  content: "\e96d";
+}
+.icon-Bikeshed:before {
+  content: "\e96e";
+}
+.icon-Biml:before {
+  content: "\e96f";
+}
+.icon-Binder:before {
+  content: "\e970";
+}
+.icon-BinTray:before {
+  content: "\e971";
+}
+.icon-Bison:before {
+  content: "\e972";
+}
+.icon-bitHound:before {
+  content: "\e973";
+}
+.icon-Blender:before {
+  content: "\e974";
+}
+.icon-BlitzBasic:before {
+  content: "\e975";
+}
+.icon-Bloc:before {
+  content: "\e976";
+}
+.icon-Bluespec:before {
+  content: "\e977";
+}
+.icon-BNF:before {
+  content: "\e978";
+}
+.icon-Boo:before {
+  content: "\e979";
+}
+.icon-Bors:before {
+  content: "\e97a";
+}
+.icon-Bosque:before {
+  content: "\e97b";
+}
+.icon-Brainfuck:before {
+  content: "\e97c";
+}
+.icon-Brakeman:before {
+  content: "\e97d";
+}
+.icon-Bro:before {
+  content: "\e97e";
+}
+.icon-Broccoli:before {
+  content: "\e97f";
+}
+.icon-Brotli:before {
+  content: "\e980";
+}
+.icon-Brotli-Old:before {
+  content: "\e981";
+}
+.icon-Browserslist:before {
+  content: "\e982";
+}
+.icon-Browsersync:before {
+  content: "\e983";
+}
+.icon-Brunch:before {
+  content: "\e984";
+}
+.icon-Buck:before {
+  content: "\e985";
+}
+.icon-Build-Boot:before {
+  content: "\e986";
+}
+.icon-Buildkite:before {
+  content: "\e987";
+}
+.icon-Bundler:before {
+  content: "\e988";
+}
+.icon-BYOND:before {
+  content: "\e989";
+}
+.icon-C1:before {
+  content: "\e98a";
+}
+.icon-C2:before {
+  content: "\e98b";
+}
+.icon--Script:before {
+  content: "\e98b";
+}
+.icon-C3:before {
+  content: "\e98c";
+}
+.icon-Cabal:before {
+  content: "\e98d";
+}
+.icon-Caddy:before {
+  content: "\e98e";
+}
+.icon-Caddy-Old:before {
+  content: "\e98f";
+}
+.icon-Caffe:before {
+  content: "\e990";
+}
+.icon-Caffe2:before {
+  content: "\e991";
+}
+.icon-Cairo:before {
+  content: "\e992";
+}
+.icon-Cake:before {
+  content: "\e993";
+}
+.icon-Cakefile:before {
+  content: "\e994";
+}
+.icon-CakePHP:before {
+  content: "\e995";
+}
+.icon-CakePHP-Old:before {
+  content: "\e996";
+}
+.icon-Calva:before {
+  content: "\e997";
+}
+.icon-Carthage:before {
+  content: "\e998";
+}
+.icon-CASC:before {
+  content: "\e999";
+}
+.icon-CDF:before {
+  content: "\e99a";
+}
+.icon-Ceylon:before {
+  content: "\e99b";
+}
+.icon-Chai:before {
+  content: "\e99c";
+}
+.icon-Chapel:before {
+  content: "\e99d";
+}
+.icon-ChartJS:before {
+  content: "\e99e";
+}
+.icon-Cheetah3D:before {
+  content: "\e99f";
+}
+.icon-Chef:before {
+  content: "\e9a0";
+}
+.icon-Chocolatey:before {
+  content: "\e9a1";
+}
+.icon-ChucK:before {
+  content: "\e9a2";
+}
+.icon-CircleCI:before {
+  content: "\e9a3";
+}
+.icon-Cirru:before {
+  content: "\e9a4";
+}
+.icon-CKEditor:before {
+  content: "\e9a5";
+}
+.icon-Clarion:before {
+  content: "\e9a6";
+}
+.icon-Clean:before {
+  content: "\e9a7";
+}
+.icon-Click:before {
+  content: "\e9a8";
+}
+.icon-CLIPS:before {
+  content: "\e9a9";
+}
+.icon-ClojureJS:before {
+  content: "\e9aa";
+}
+.icon-ClosureTemplate:before {
+  content: "\e9ab";
+}
+.icon-CloudFoundry:before {
+  content: "\e9ac";
+}
+.icon-Cmake:before {
+  content: "\e9ad";
+}
+.icon-CNAB:before {
+  content: "\e9ae";
+}
+.icon-COBOL:before {
+  content: "\e9af";
+}
+.icon-CocoaPods:before {
+  content: "\e9b0";
+}
+.icon-Codacy:before {
+  content: "\e9b1";
+}
+.icon-Code-Climate:before {
+  content: "\e9b2";
+}
+.icon-Codecov:before {
+  content: "\e9b3";
+}
+.icon-CodeKit:before {
+  content: "\e9b4";
+}
+.icon-CodeMeta:before {
+  content: "\e9b5";
+}
+.icon-CodeMirror:before {
+  content: "\e9b6";
+}
+.icon-CodeShip:before {
+  content: "\e9b7";
+}
+.icon-ColdFusion:before {
+  content: "\e9b8";
+}
+.icon-Commitizen:before {
+  content: "\e9b9";
+}
+.icon-CommitLint:before {
+  content: "\e9ba";
+}
+.icon-Common-Lisp:before {
+  content: "\e9bb";
+}
+.icon-Component-Pascal:before {
+  content: "\e9bc";
+}
+.icon-Composer:before {
+  content: "\e9bd";
+}
+.icon-Conan:before {
+  content: "\e9be";
+}
+.icon-Conda:before {
+  content: "\e9bf";
+}
+.icon-Config:before {
+  content: "\e9c0";
+}
+.icon-Config-CoffeeScript:before {
+  content: "\e9c1";
+}
+.icon-Config-Go:before {
+  content: "\e9c2";
+}
+.icon-Config-Haskell:before {
+  content: "\e9c3";
+}
+.icon-Config-JS:before {
+  content: "\e9c4";
+}
+.icon-Config-Perl:before {
+  content: "\e9c5";
+}
+.icon-Config-Python:before {
+  content: "\e9c6";
+}
+.icon-Config-React:before {
+  content: "\e9c7";
+}
+.icon-Config-Ruby:before {
+  content: "\e9c8";
+}
+.icon-Config-Rust:before {
+  content: "\e9c9";
+}
+.icon-Config-TypeScript:before {
+  content: "\e9ca";
+}
+.icon-CoNLL:before {
+  content: "\e9cb";
+}
+.icon-Coq:before {
+  content: "\e9cc";
+}
+.icon-Cordova:before {
+  content: "\e9cd";
+}
+.icon-CorelDRAW:before {
+  content: "\e9ce";
+}
+.icon-CorelDRAW-Alt:before {
+  content: "\e9cf";
+}
+.icon-Coveralls:before {
+  content: "\e9d0";
+}
+.icon-CPAN:before {
+  content: "\e9d1";
+}
+.icon-CpcdosC:before {
+  content: "\e9d2";
+}
+.icon-CraftTweaker:before {
+  content: "\e9d3";
+}
+.icon-Creole:before {
+  content: "\e9d4";
+}
+.icon-Crowdin:before {
+  content: "\e9d5";
+}
+.icon-Crystal:before {
+  content: "\e9d6";
+}
+.icon-CSound:before {
+  content: "\e9d7";
+}
+.icon-Cubit:before {
+  content: "\e9d8";
+}
+.icon-Cucumber:before {
+  content: "\e9d9";
+}
+.icon-Cuneiform:before {
+  content: "\e9da";
+}
+.icon-cURL:before {
+  content: "\e9db";
+}
+.icon-Curl-Lang:before {
+  content: "\e9dc";
+}
+.icon-Curry:before {
+  content: "\e9dd";
+}
+.icon-CVS:before {
+  content: "\e9de";
+}
+.icon-CWL:before {
+  content: "\e9df";
+}
+.icon-Cython:before {
+  content: "\e9e0";
+}
+.icon-D3:before {
+  content: "\e9e1";
+}
+.icon-Dafny:before {
+  content: "\e9e2";
+}
+.icon-Darcs-Patch:before {
+  content: "\e9e3";
+}
+.icon-Dashboard:before {
+  content: "\e9e4";
+}
+.icon-DataWeave:before {
+  content: "\e9e5";
+}
+.icon-dBASE:before {
+  content: "\e9e6";
+}
+.icon-Default:before {
+  content: "\e9e7";
+}
+.icon-Delphi:before {
+  content: "\e9e8";
+}
+.icon-Deno:before {
+  content: "\e9e9";
+}
+.icon-Dependabot:before {
+  content: "\e9ea";
+}
+.icon-DevContainer:before {
+  content: "\e9eb";
+}
+.icon-DeviceTree:before {
+  content: "\e9ec";
+}
+.icon-Dhall:before {
+  content: "\e9ed";
+}
+.icon-Dia:before {
+  content: "\e9ee";
+}
+.icon-Diff:before {
+  content: "\e9ef";
+}
+.icon-Digdag:before {
+  content: "\e9f0";
+}
+.icon-DNA:before {
+  content: "\e9f1";
+}
+.icon-DocBook:before {
+  content: "\e9f2";
+}
+.icon-Docker:before {
+  content: "\e9f3";
+}
+.icon-Doclets:before {
+  content: "\e9f4";
+}
+.icon-DocPad:before {
+  content: "\e9f5";
+}
+.icon-Docz:before {
+  content: "\e9f6";
+}
+.icon-Dogescript:before {
+  content: "\e9f7";
+}
+.icon-DOM:before {
+  content: "\e9f8";
+}
+.icon-DoneJS:before {
+  content: "\e9f9";
+}
+.icon-DOSBox:before {
+  content: "\e9fa";
+}
+.icon-DOSBox-Alt:before {
+  content: "\e9fb";
+}
+.icon-dotenv:before {
+  content: "\e9fc";
+}
+.icon-dotjs:before {
+  content: "\e9fd";
+}
+.icon-Doxygen:before {
+  content: "\e9fe";
+}
+.icon-DragonflyBSD:before {
+  content: "\e9ff";
+}
+.icon-Dragula:before {
+  content: "\ea00";
+}
+.icon-drawio:before {
+  content: "\ea01";
+}
+.icon-Drone:before {
+  content: "\ea02";
+}
+.icon-Dub:before {
+  content: "\ea03";
+}
+.icon-DVC:before {
+  content: "\ea04";
+}
+.icon-Dyalog:before {
+  content: "\ea05";
+}
+.icon-DyLib:before {
+  content: "\ea06";
+}
+.icon-E:before {
+  content: "\ea07";
+}
+.icon-Eagle:before {
+  content: "\ea08";
+}
+.icon-EasyBuild:before {
+  content: "\ea09";
+}
+.icon-eC:before {
+  content: "\ea0a";
+}
+.icon-Ecere:before {
+  content: "\ea0b";
+}
+.icon-ECLiPSe-Lang:before {
+  content: "\ea0c";
+}
+.icon-Edge:before {
+  content: "\ea0d";
+}
+.icon-EditorConfig:before {
+  content: "\ea0e";
+}
+.icon-Eiffel:before {
+  content: "\ea0f";
+}
+.icon-EJS:before {
+  content: "\ea10";
+}
+.icon-Electron:before {
+  content: "\ea11";
+}
+.icon-ElementaryOS:before {
+  content: "\ea12";
+}
+.icon-Elm:before {
+  content: "\ea13";
+}
+.icon-Emacs:before {
+  content: "\ea14";
+}
+.icon-Ember:before {
+  content: "\ea15";
+}
+.icon-EmberScript:before {
+  content: "\ea16";
+}
+.icon-Ensime:before {
+  content: "\ea17";
+}
+.icon-EQ:before {
+  content: "\ea18";
+}
+.icon-ESDoc:before {
+  content: "\ea19";
+}
+.icon-ESLint:before {
+  content: "\ea1a";
+}
+.icon-ESLint-Old:before {
+  content: "\ea1b";
+}
+.icon-Expo:before {
+  content: "\ea1c";
+}
+.icon-Fabfile:before {
+  content: "\ea1d";
+}
+.icon-Fabric:before {
+  content: "\ea1e";
+}
+.icon-Factor:before {
+  content: "\ea1f";
+}
+.icon-Falcon:before {
+  content: "\ea20";
+}
+.icon-Fancy:before {
+  content: "\ea21";
+}
+.icon-Fantom:before {
+  content: "\ea22";
+}
+.icon-Fauna:before {
+  content: "\ea23";
+}
+.icon-Faust:before {
+  content: "\ea24";
+}
+.icon-FBX:before {
+  content: "\ea25";
+}
+.icon-Fexl:before {
+  content: "\ea26";
+}
+.icon-FFmpeg:before {
+  content: "\ea27";
+}
+.icon-Fiddle:before {
+  content: "\ea28";
+}
+.icon-Figma:before {
+  content: "\ea29";
+}
+.icon-FinalDraft:before {
+  content: "\ea2a";
+}
+.icon-Finder:before {
+  content: "\ea2b";
+}
+.icon-Firebase:before {
+  content: "\ea2c";
+}
+.icon-Firebase-Bolt:before {
+  content: "\ea2d";
+}
+.icon-Flask:before {
+  content: "\ea2e";
+}
+.icon-Floobits:before {
+  content: "\ea2f";
+}
+.icon-Flow:before {
+  content: "\ea30";
+}
+.icon-Flutter:before {
+  content: "\ea31";
+}
+.icon-Flux:before {
+  content: "\ea32";
+}
+.icon-Font:before {
+  content: "\ea33";
+}
+.icon-Font-Bitmap:before {
+  content: "\ea34";
+}
+.icon-FontForge:before {
+  content: "\ea35";
+}
+.icon-Font-Outline:before {
+  content: "\ea36";
+}
+.icon-Fork:before {
+  content: "\ea37";
+}
+.icon-ForTheRecord:before {
+  content: "\ea38";
+}
+.icon-Fortran:before {
+  content: "\ea39";
+}
+.icon-FOSSA:before {
+  content: "\ea3a";
+}
+.icon-Fossil:before {
+  content: "\ea3b";
+}
+.icon-Fountain:before {
+  content: "\ea3c";
+}
+.icon-Franca:before {
+  content: "\ea3d";
+}
+.icon-FreeDesktop:before {
+  content: "\ea3e";
+}
+.icon-FreeDOS:before {
+  content: "\ea3f";
+}
+.icon-FreeMarker:before {
+  content: "\ea40";
+}
+.icon-FreeMat:before {
+  content: "\ea41";
+}
+.icon-Frege:before {
+  content: "\ea42";
+}
+.icon-ftHTML:before {
+  content: "\ea43";
+}
+.icon-FuelUX:before {
+  content: "\ea44";
+}
+.icon-FuseBox:before {
+  content: "\ea45";
+}
+.icon-Futhark:before {
+  content: "\ea46";
+}
+.icon-Galaxy:before {
+  content: "\ea47";
+}
+.icon-Galen:before {
+  content: "\ea48";
+}
+.icon-GameMaker:before {
+  content: "\ea49";
+}
+.icon-GAMS:before {
+  content: "\ea4a";
+}
+.icon-GAP:before {
+  content: "\ea4b";
+}
+.icon-Gatsby:before {
+  content: "\ea4c";
+}
+.icon-GAUSS:before {
+  content: "\ea4d";
+}
+.icon-GDB:before {
+  content: "\ea4e";
+}
+.icon-Genshi:before {
+  content: "\ea4f";
+}
+.icon-GenStat:before {
+  content: "\ea50";
+}
+.icon-Gentoo:before {
+  content: "\ea51";
+}
+.icon-GF:before {
+  content: "\ea52";
+}
+.icon-Ghostscript:before {
+  content: "\ea53";
+}
+.icon-GIMP:before {
+  content: "\ea54";
+}
+.icon-GitLab:before {
+  content: "\ea55";
+}
+.icon-Gitpod:before {
+  content: "\ea56";
+}
+.icon-Glade:before {
+  content: "\ea57";
+}
+.icon-Glide:before {
+  content: "\ea58";
+}
+.icon-glTF:before {
+  content: "\ea59";
+}
+.icon-Glyphs:before {
+  content: "\ea5a";
+}
+.icon-GN:before {
+  content: "\ea5b";
+}
+.icon-GNU:before {
+  content: "\ea5c";
+}
+.icon-Gnuplot:before {
+  content: "\ea5d";
+}
+.icon-Go:before {
+  content: "\ea5e";
+}
+.icon-Godot:before {
+  content: "\ea5f";
+}
+.icon-Golo:before {
+  content: "\ea60";
+}
+.icon-Go-Old:before {
+  content: "\ea61";
+}
+.icon-GoReleaser:before {
+  content: "\ea62";
+}
+.icon-Gosu:before {
+  content: "\ea63";
+}
+.icon-Gradle:before {
+  content: "\ea64";
+}
+.icon-Grapher:before {
+  content: "\ea65";
+}
+.icon-Graphite:before {
+  content: "\ea66";
+}
+.icon-GraphQL:before {
+  content: "\ea67";
+}
+.icon-GraphQL-CodeGenerator:before {
+  content: "\ea68";
+}
+.icon-GraphViz:before {
+  content: "\ea69";
+}
+.icon-Gravit-Designer:before {
+  content: "\ea6a";
+}
+.icon-Greenkeeper:before {
+  content: "\ea6b";
+}
+.icon-Gridsome:before {
+  content: "\ea6c";
+}
+.icon-Groovy:before {
+  content: "\ea6d";
+}
+.icon-Grunt:before {
+  content: "\ea6e";
+}
+.icon-Gulp:before {
+  content: "\ea6f";
+}
+.icon-Hack:before {
+  content: "\ea70";
+}
+.icon-Haml:before {
+  content: "\ea71";
+}
+.icon-Harbour:before {
+  content: "\ea72";
+}
+.icon-HashiCorp:before {
+  content: "\ea73";
+}
+.icon-Haxe:before {
+  content: "\ea74";
+}
+.icon-HaxeDevelop:before {
+  content: "\ea75";
+}
+.icon-Helix:before {
+  content: "\ea76";
+}
+.icon-HewlettPackard:before {
+  content: "\ea77";
+}
+.icon-HIE:before {
+  content: "\ea78";
+}
+.icon-Hitachi:before {
+  content: "\ea79";
+}
+.icon-HJSON:before {
+  content: "\ea7a";
+}
+.icon-Homebrew:before {
+  content: "\ea7b";
+}
+.icon-Hop:before {
+  content: "\ea7c";
+}
+.icon-Hoplon:before {
+  content: "\ea7d";
+}
+.icon-Houdini:before {
+  content: "\ea7e";
+}
+.icon-HoundCI:before {
+  content: "\ea7f";
+}
+.icon-Hugo:before {
+  content: "\ea80";
+}
+.icon-Husky:before {
+  content: "\ea81";
+}
+.icon-Hy:before {
+  content: "\ea82";
+}
+.icon-Hygen:before {
+  content: "\ea83";
+}
+.icon-Hyper:before {
+  content: "\ea84";
+}
+.icon-IcoMoon:before {
+  content: "\ea85";
+}
+.icon-ICU:before {
+  content: "\ea86";
+}
+.icon-IDL:before {
+  content: "\ea87";
+}
+.icon-Idris:before {
+  content: "\ea88";
+}
+.icon-IGOR-Pro:before {
+  content: "\ea89";
+}
+.icon-illumos:before {
+  content: "\ea8a";
+}
+.icon-Image:before {
+  content: "\ea8b";
+}
+.icon-Imba:before {
+  content: "\ea8c";
+}
+.icon-Imba-Alt:before {
+  content: "\ea8d";
+}
+.icon-Imba-Old:before {
+  content: "\ea8e";
+}
+.icon-Imgbot:before {
+  content: "\ea8f";
+}
+.icon-InfluxData:before {
+  content: "\ea90";
+}
+.icon-Inform7:before {
+  content: "\ea91";
+}
+.icon-Ink:before {
+  content: "\ea92";
+}
+.icon-Inkscape:before {
+  content: "\ea93";
+}
+.icon-InnoSetup:before {
+  content: "\ea94";
+}
+.icon-Intel:before {
+  content: "\ea95";
+}
+.icon-Io:before {
+  content: "\ea96";
+}
+.icon-Ioke .path1:before {
+  content: "\ea97";
+  color: rgb(24, 25, 22);
+}
+.icon-Ioke .path2:before {
+  content: "\ea98";
+  margin-left: -1em;
+  color: rgb(24, 25, 22);
+}
+.icon-Ioke .path3:before {
+  content: "\ea99";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-Ioke .path4:before {
+  content: "\ea9a";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-Ioke .path5:before {
+  content: "\ea9b";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-Ioke .path6:before {
+  content: "\ea9c";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-Ionic-Project:before {
+  content: "\ea9d";
+}
+.icon-Isabelle:before {
+  content: "\ea9e";
+}
+.icon-Istanbul:before {
+  content: "\ea9f";
+}
+.icon-J:before {
+  content: "\eaa0";
+}
+.icon-Jade:before {
+  content: "\eaa1";
+}
+.icon-Jakefile:before {
+  content: "\eaa2";
+}
+.icon-Janet:before {
+  content: "\eaa3";
+}
+.icon-Jasmine:before {
+  content: "\eaa4";
+}
+.icon-Jenkins:before {
+  content: "\eaa5";
+}
+.icon-Jest:before {
+  content: "\eaa6";
+}
+.icon-Jinja:before {
+  content: "\eaa7";
+}
+.icon-Jison:before {
+  content: "\eaa8";
+}
+.icon-Jolie:before {
+  content: "\eaa9";
+}
+.icon-jscpd:before {
+  content: "\eaaa";
+}
+.icon-JSON-1:before {
+  content: "\eaab";
+}
+.icon-JSON-2:before {
+  content: "\eaac";
+}
+.icon-JSON5:before {
+  content: "\eaad";
+}
+.icon-JSON-LD1:before {
+  content: "\eaae";
+}
+.icon-JSON-LD2:before {
+  content: "\eaaf";
+}
+.icon-Jsonnet:before {
+  content: "\eab0";
+}
+.icon-JSX:before {
+  content: "\eab1";
+}
+.icon-JSX-Alt:before {
+  content: "\eab2";
+}
+.icon-JSX-Atom:before {
+  content: "\eab3";
+}
+.icon-Julia:before {
+  content: "\eab4";
+}
+.icon-Junos:before {
+  content: "\eab5";
+}
+.icon-Jupyter:before {
+  content: "\eab6";
+}
+.icon-Kaitai:before {
+  content: "\eab7";
+}
+.icon-Karma:before {
+  content: "\eab8";
+}
+.icon-Keybase:before {
+  content: "\eab9";
+}
+.icon-Keynote:before {
+  content: "\eaba";
+}
+.icon-Khronos:before {
+  content: "\eabb";
+}
+.icon-Kibo:before {
+  content: "\eabc";
+}
+.icon-KiCad:before {
+  content: "\eabd";
+}
+.icon-KitchenCI:before {
+  content: "\eabe";
+}
+.icon-Kivy:before {
+  content: "\eabf";
+}
+.icon-KNIME:before {
+  content: "\eac0";
+}
+.icon-Knockout:before {
+  content: "\eac1";
+}
+.icon-kOS:before {
+  content: "\eac2";
+}
+.icon-Kotlin:before {
+  content: "\eac3";
+}
+.icon-KRL:before {
+  content: "\eac4";
+}
+.icon-Kubernetes:before {
+  content: "\eac5";
+}
+.icon-Kusto:before {
+  content: "\eac6";
+}
+.icon-Kusto-Alt:before {
+  content: "\eac7";
+}
+.icon-Kx:before {
+  content: "\eac8";
+}
+.icon-LabVIEW:before {
+  content: "\eac9";
+}
+.icon-Laravel:before {
+  content: "\eaca";
+}
+.icon-Lark:before {
+  content: "\eacb";
+}
+.icon-Lasso:before {
+  content: "\eacc";
+}
+.icon-LaTeX:before {
+  content: "\eacd";
+}
+.icon-Latino:before {
+  content: "\eace";
+}
+.icon-Leaflet:before {
+  content: "\eacf";
+}
+.icon-Lean:before {
+  content: "\ead0";
+}
+.icon-Lefthook:before {
+  content: "\ead1";
+}
+.icon-Lefthook-Alt:before {
+  content: "\ead2";
+}
+.icon-Leiningen:before {
+  content: "\ead3";
+}
+.icon-Lektor:before {
+  content: "\ead4";
+}
+.icon-Lerna:before {
+  content: "\ead5";
+}
+.icon-Lex:before {
+  content: "\ead6";
+}
+.icon-Lex-Alt:before {
+  content: "\ead7";
+}
+.icon-LFE:before {
+  content: "\ead8";
+}
+.icon-LGTM:before {
+  content: "\ead9";
+}
+.icon-libuv:before {
+  content: "\eada";
+}
+.icon-Lighthouse:before {
+  content: "\eadb";
+}
+.icon-LightWave:before {
+  content: "\eadc";
+}
+.icon-LilyPond:before {
+  content: "\eadd";
+}
+.icon-Lime:before {
+  content: "\eade";
+}
+.icon-LINQPad:before {
+  content: "\eadf";
+}
+.icon-Lisp:before {
+  content: "\eae0";
+}
+.icon-LiveScript:before {
+  content: "\eae1";
+}
+.icon-LLVM:before {
+  content: "\eae2";
+}
+.icon-Logtalk:before {
+  content: "\eae3";
+}
+.icon-LOLCODE:before {
+  content: "\eae4";
+}
+.icon-LookML:before {
+  content: "\eae5";
+}
+.icon-LSL:before {
+  content: "\eae6";
+}
+.icon-Lua:before {
+  content: "\eae7";
+}
+.icon-Macaulay2:before {
+  content: "\eae8";
+}
+.icon-MacVim:before {
+  content: "\eae9";
+}
+.icon-Magit:before {
+  content: "\eaea";
+}
+.icon-Mako:before {
+  content: "\eaeb";
+}
+.icon-Manjaro:before {
+  content: "\eaec";
+}
+.icon-Manpage:before {
+  content: "\eaed";
+}
+.icon-Mapbox:before {
+  content: "\eaee";
+}
+.icon-MarkdownLint:before {
+  content: "\eaef";
+}
+.icon-Marko:before {
+  content: "\eaf0";
+}
+.icon-Mathematica:before {
+  content: "\eaf1";
+}
+.icon-MathJax:before {
+  content: "\eaf2";
+}
+.icon-MATLAB:before {
+  content: "\eaf3";
+}
+.icon-Matroska:before {
+  content: "\eaf4";
+}
+.icon-Max:before {
+  content: "\eaf5";
+}
+.icon-Maya:before {
+  content: "\eaf6";
+}
+.icon-MDX:before {
+  content: "\eaf7";
+}
+.icon-MediaWiki:before {
+  content: "\eaf8";
+}
+.icon-MELPA:before {
+  content: "\eaf9";
+}
+.icon-Mercurial:before {
+  content: "\eafa";
+}
+.icon-Mercury:before {
+  content: "\eafb";
+}
+.icon-Mermaid:before {
+  content: "\eafc";
+}
+.icon-Meson:before {
+  content: "\eafd";
+}
+.icon-Meson-Old:before {
+  content: "\eafe";
+}
+.icon-Metal:before {
+  content: "\eaff";
+}
+.icon-MetaPost:before {
+  content: "\eb00";
+}
+.icon-Meteor:before {
+  content: "\eb01";
+}
+.icon-Microsoft-Access:before {
+  content: "\eb02";
+}
+.icon-Microsoft-Excel:before {
+  content: "\eb03";
+}
+.icon-Microsoft-InfoPath:before {
+  content: "\eb04";
+}
+.icon-Microsoft-Lync:before {
+  content: "\eb05";
+}
+.icon-Microsoft-OneNote:before {
+  content: "\eb06";
+}
+.icon-Microsoft-Outlook:before {
+  content: "\eb07";
+}
+.icon-Microsoft-PowerPoint:before {
+  content: "\eb08";
+}
+.icon-Microsoft-Project:before {
+  content: "\eb09";
+}
+.icon-Microsoft-Publisher:before {
+  content: "\eb0a";
+}
+.icon-Microsoft-Visio:before {
+  content: "\eb0b";
+}
+.icon-Microsoft-Word:before {
+  content: "\eb0c";
+}
+.icon-Minecraft:before {
+  content: "\eb0d";
+}
+.icon-MiniZinc:before {
+  content: "\eb0e";
+}
+.icon-Mint:before {
+  content: "\eb0f";
+}
+.icon-Mirah:before {
+  content: "\eb10";
+}
+.icon-Miranda:before {
+  content: "\eb11";
+}
+.icon-mIRC:before {
+  content: "\eb12";
+}
+.icon-Mixin:before {
+  content: "\eb13";
+}
+.icon-MJML:before {
+  content: "\eb14";
+}
+.icon-Mocha:before {
+  content: "\eb15";
+}
+.icon-Modelica:before {
+  content: "\eb16";
+}
+.icon-ModernWeb:before {
+  content: "\eb17";
+}
+.icon-Modo:before {
+  content: "\eb18";
+}
+.icon-Modula-2:before {
+  content: "\eb19";
+}
+.icon-Modula-3:before {
+  content: "\eb1a";
+}
+.icon-Moho:before {
+  content: "\eb1b";
+}
+.icon-Moleculer:before {
+  content: "\eb1c";
+}
+.icon-Moment:before {
+  content: "\eb1d";
+}
+.icon-Moment-Timezone:before {
+  content: "\eb1e";
+}
+.icon-Monkey:before {
+  content: "\eb1f";
+}
+.icon-Mono:before {
+  content: "\eb20";
+}
+.icon-Monotone:before {
+  content: "\eb21";
+}
+.icon-Motorola:before {
+  content: "\eb22";
+}
+.icon-Moustache:before {
+  content: "\eb23";
+}
+.icon-Mruby:before {
+  content: "\eb24";
+}
+.icon-MS-DOS:before {
+  content: "\eb25";
+}
+.icon-MuPAD:before {
+  content: "\eb26";
+}
+.icon-Nano:before {
+  content: "\eb27";
+}
+.icon-Nanoc:before {
+  content: "\eb28";
+}
+.icon-NAnt:before {
+  content: "\eb29";
+}
+.icon-NASM:before {
+  content: "\eb2a";
+}
+.icon-NDepend:before {
+  content: "\eb2b";
+}
+.icon-Neko:before {
+  content: "\eb2c";
+}
+.icon-Nemerle:before {
+  content: "\eb2d";
+}
+.icon-Neo4J:before {
+  content: "\eb2e";
+}
+.icon-NEON:before {
+  content: "\eb2f";
+}
+.icon-Nessus:before {
+  content: "\eb30";
+}
+.icon-NestJS:before {
+  content: "\eb31";
+}
+.icon-Netlify:before {
+  content: "\eb32";
+}
+.icon-NetLinx:before {
+  content: "\eb33";
+}
+.icon-NetLogo:before {
+  content: "\eb34";
+}
+.icon-New-Relic:before {
+  content: "\eb35";
+}
+.icon-Nextflow:before {
+  content: "\eb36";
+}
+.icon-NextJS:before {
+  content: "\eb37";
+}
+.icon-nginx:before {
+  content: "\eb38";
+}
+.icon-NgRx:before {
+  content: "\eb39";
+}
+.icon-Nib:before {
+  content: "\eb3a";
+}
+.icon-Nickle:before {
+  content: "\eb3b";
+}
+.icon-Nightwatch:before {
+  content: "\eb3c";
+}
+.icon-Nimble:before {
+  content: "\eb3d";
+}
+.icon-Nimrod:before {
+  content: "\eb3e";
+}
+.icon-Nintendo64:before {
+  content: "\eb3f";
+}
+.icon-Nit:before {
+  content: "\eb40";
+}
+.icon-Nix:before {
+  content: "\eb41";
+}
+.icon-Nmap:before {
+  content: "\eb42";
+}
+.icon-Nodemon:before {
+  content: "\eb43";
+}
+.icon-Nokogiri:before {
+  content: "\eb44";
+}
+.icon-Nomad:before {
+  content: "\eb45";
+}
+.icon-Noon:before {
+  content: "\eb46";
+}
+.icon-Normalise:before {
+  content: "\eb47";
+}
+.icon-NPM:before {
+  content: "\eb48";
+}
+.icon-NPM-Old:before {
+  content: "\eb49";
+}
+.icon-NSIS:before {
+  content: "\eb4a";
+}
+.icon-NSIS-Old:before {
+  content: "\eb4b";
+}
+.icon-NSRI:before {
+  content: "\eb4c";
+}
+.icon-NSRI-Alt:before {
+  content: "\eb4d";
+}
+.icon-Nuclide:before {
+  content: "\eb4e";
+}
+.icon-NuGet:before {
+  content: "\eb4f";
+}
+.icon-NumPy:before {
+  content: "\eb50";
+}
+.icon-NumPy-Old:before {
+  content: "\eb51";
+}
+.icon-Nunjucks:before {
+  content: "\eb52";
+}
+.icon-Nuxt:before {
+  content: "\eb53";
+}
+.icon-NVIDIA:before {
+  content: "\eb54";
+}
+.icon-NWScript:before {
+  content: "\eb55";
+}
+.icon-Nx:before {
+  content: "\eb56";
+}
+.icon-NXC:before {
+  content: "\eb57";
+}
+.icon-Oberon:before {
+  content: "\eb58";
+}
+.icon-Objective-J:before {
+  content: "\eb59";
+}
+.icon-OCaml:before {
+  content: "\eb5a";
+}
+.icon-Octave:before {
+  content: "\eb5b";
+}
+.icon-Odin:before {
+  content: "\eb5c";
+}
+.icon-Ogone:before {
+  content: "\eb5d";
+}
+.icon-OmniGraffle:before {
+  content: "\eb5e";
+}
+.icon-OOC:before {
+  content: "\eb5f";
+}
+.icon-Opa:before {
+  content: "\eb60";
+}
+.icon-OpenAPI:before {
+  content: "\eb61";
+}
+.icon-OpenBSD:before {
+  content: "\eb62";
+}
+.icon-OpenBSD-Alt:before {
+  content: "\eb63";
+}
+.icon-OpenCL:before {
+  content: "\eb64";
+}
+.icon-OpenCV:before {
+  content: "\eb65";
+}
+.icon-OpenEXR:before {
+  content: "\eb66";
+}
+.icon-OpenGL:before {
+  content: "\eb67";
+}
+.icon-OpenIndiana:before {
+  content: "\eb68";
+}
+.icon-OpenOffice:before {
+  content: "\eb69";
+}
+.icon-OpenPolicyAgent:before {
+  content: "\eb6a";
+}
+.icon-OpensCAD:before {
+  content: "\eb6b";
+}
+.icon-OpenSolaris:before {
+  content: "\eb6c";
+}
+.icon-OpenStack:before {
+  content: "\eb6d";
+}
+.icon-OpenVMS:before {
+  content: "\eb6e";
+}
+.icon-OpenVPN:before {
+  content: "\eb6f";
+}
+.icon-OpenZFS:before {
+  content: "\eb70";
+}
+.icon-Org-Mode:before {
+  content: "\eb71";
+}
+.icon-OS2:before {
+  content: "\eb72";
+}
+.icon-OWL:before {
+  content: "\eb73";
+}
+.icon-Ox:before {
+  content: "\eb74";
+}
+.icon-Oxygene:before {
+  content: "\eb75";
+}
+.icon-Oz:before {
+  content: "\eb76";
+}
+.icon-P4:before {
+  content: "\eb77";
+}
+.icon-Pan:before {
+  content: "\eb78";
+}
+.icon-Papyrus:before {
+  content: "\eb79";
+}
+.icon-Parrot:before {
+  content: "\eb7a";
+}
+.icon-Pascal:before {
+  content: "\eb7b";
+}
+.icon-Patch:before {
+  content: "\eb7c";
+}
+.icon-Patreon:before {
+  content: "\eb7d";
+}
+.icon-PAWN:before {
+  content: "\eb7e";
+}
+.icon-PCD:before {
+  content: "\eb7f";
+}
+.icon-PegJS:before {
+  content: "\eb80";
+}
+.icon-Perl6:before {
+  content: "\eb81";
+}
+.icon-Phalcon:before {
+  content: "\eb82";
+}
+.icon-Phoenix:before {
+  content: "\eb83";
+}
+.icon-PhotoRec:before {
+  content: "\eb84";
+}
+.icon-PHP:before {
+  content: "\eb85";
+}
+.icon-PHPUnit:before {
+  content: "\eb86";
+}
+.icon-PhraseApp:before {
+  content: "\eb87";
+}
+.icon-Pickle:before {
+  content: "\eb88";
+}
+.icon-PICO-8:before {
+  content: "\eb89";
+}
+.icon-PicoLisp:before {
+  content: "\eb8a";
+}
+.icon-Pike:before {
+  content: "\eb8b";
+}
+.icon-PineScript:before {
+  content: "\eb8c";
+}
+.icon-Pipenv:before {
+  content: "\eb8d";
+}
+.icon-pkgsrc:before {
+  content: "\eb8e";
+}
+.icon-PlatformIO:before {
+  content: "\eb8f";
+}
+.icon-PM2:before {
+  content: "\eb90";
+}
+.icon-PNPM:before {
+  content: "\eb91";
+}
+.icon-Pod:before {
+  content: "\eb92";
+}
+.icon-PogoScript:before {
+  content: "\eb93";
+}
+.icon-PointWise:before {
+  content: "\eb94";
+}
+.icon-Polymer:before {
+  content: "\eb95";
+}
+.icon-Pony:before {
+  content: "\eb96";
+}
+.icon-PostCSS:before {
+  content: "\eb97";
+}
+.icon-PostScript:before {
+  content: "\eb98";
+}
+.icon-POV-Ray:before {
+  content: "\eb99";
+}
+.icon-PowerBuilder:before {
+  content: "\eb9a";
+}
+.icon-PowerPC:before {
+  content: "\eb9b";
+}
+.icon-PowerShell:before {
+  content: "\eb9c";
+}
+.icon-Precision:before {
+  content: "\eb9d";
+}
+.icon-Precommit:before {
+  content: "\eb9e";
+}
+.icon-Prettier:before {
+  content: "\eb9f";
+}
+.icon-Prisma:before {
+  content: "\eba0";
+}
+.icon-Processing:before {
+  content: "\eba1";
+}
+.icon-Progress:before {
+  content: "\eba2";
+}
+.icon-Progress-Old:before {
+  content: "\eba3";
+}
+.icon-Propeller:before {
+  content: "\eba4";
+}
+.icon-PROS:before {
+  content: "\eba5";
+}
+.icon-Proselint:before {
+  content: "\eba6";
+}
+.icon-Protractor:before {
+  content: "\eba7";
+}
+.icon-Pug:before {
+  content: "\eba8";
+}
+.icon-Pug-Old:before {
+  content: "\eba9";
+}
+.icon-PullApprove:before {
+  content: "\ebaa";
+}
+.icon-Puppet:before {
+  content: "\ebab";
+}
+.icon-Pure:before {
+  content: "\ebac";
+}
+.icon-PureBasic:before {
+  content: "\ebad";
+}
+.icon-PureScript:before {
+  content: "\ebae";
+}
+.icon-PyPi:before {
+  content: "\ebaf";
+}
+.icon-Pyret:before {
+  content: "\ebb0";
+}
+.icon-pytest:before {
+  content: "\ebb1";
+}
+.icon-PyUp:before {
+  content: "\ebb2";
+}
+.icon-Q:before {
+  content: "\ebb3";
+}
+.icon-Qiskit:before {
+  content: "\ebb4";
+}
+.icon-QlikView:before {
+  content: "\ebb5";
+}
+.icon-QT:before {
+  content: "\ebb6";
+}
+.icon-Quasar:before {
+  content: "\ebb7";
+}
+.icon-R:before {
+  content: "\ebb8";
+}
+.icon-Racket:before {
+  content: "\ebb9";
+}
+.icon-RAML:before {
+  content: "\ebba";
+}
+.icon-Rascal:before {
+  content: "\ebbb";
+}
+.icon-Razzle:before {
+  content: "\ebbc";
+}
+.icon-RData:before {
+  content: "\ebbd";
+}
+.icon-RDoc:before {
+  content: "\ebbe";
+}
+.icon-ReactOS:before {
+  content: "\ebbf";
+}
+.icon-ReadTheDocs:before {
+  content: "\ebc0";
+}
+.icon-REALbasic:before {
+  content: "\ebc1";
+}
+.icon-Reason:before {
+  content: "\ebc2";
+}
+.icon-ReasonStudios:before {
+  content: "\ebc3";
+}
+.icon-ReasonStudios-Alt:before {
+  content: "\ebc4";
+}
+.icon-Rebol:before {
+  content: "\ebc5";
+}
+.icon-Red:before {
+  content: "\ebc6";
+}
+.icon-Red-Old:before {
+  content: "\ebc7";
+}
+.icon-Redux:before {
+  content: "\ebc8";
+}
+.icon-Reek:before {
+  content: "\ebc9";
+}
+.icon-RegEx:before {
+  content: "\ebca";
+}
+.icon-Remark:before {
+  content: "\ebcb";
+}
+.icon-Renovate:before {
+  content: "\ebcc";
+}
+.icon-ReScript:before {
+  content: "\ebcd";
+}
+.icon-restQL:before {
+  content: "\ebce";
+}
+.icon-reStructuredText:before {
+  content: "\ebcf";
+}
+.icon-Rexx:before {
+  content: "\ebd0";
+}
+.icon-Rhino3D:before {
+  content: "\ebd1";
+}
+.icon-Ring:before {
+  content: "\ebd2";
+}
+.icon-Riot:before {
+  content: "\ebd3";
+}
+.icon-Riot-Old:before {
+  content: "\ebd4";
+}
+.icon-RISC-V:before {
+  content: "\ebd5";
+}
+.icon-Rmarkdown:before {
+  content: "\ebd6";
+}
+.icon-RobotFramework:before {
+  content: "\ebd7";
+}
+.icon-RobotFramework-Old:before {
+  content: "\ebd8";
+}
+.icon-Robots:before {
+  content: "\ebd9";
+}
+.icon-Rollup:before {
+  content: "\ebda";
+}
+.icon-Rollup-Old:before {
+  content: "\ebdb";
+}
+.icon-RSpec:before {
+  content: "\ebdc";
+}
+.icon-RStudio:before {
+  content: "\ebdd";
+}
+.icon-rsync:before {
+  content: "\ebde";
+}
+.icon-Rubocop:before {
+  content: "\ebdf";
+}
+.icon-RubyGems:before {
+  content: "\ebe0";
+}
+.icon-SAC:before {
+  content: "\ebe1";
+}
+.icon-Sage:before {
+  content: "\ebe2";
+}
+.icon-Sails:before {
+  content: "\ebe3";
+}
+.icon-SaltStack:before {
+  content: "\ebe4";
+}
+.icon-San:before {
+  content: "\ebe5";
+}
+.icon-Sandbox:before {
+  content: "\ebe6";
+}
+.icon-SAS:before {
+  content: "\ebe7";
+}
+.icon-SBT:before {
+  content: "\ebe8";
+}
+.icon-Scheme:before {
+  content: "\ebe9";
+}
+.icon-Scilab:before {
+  content: "\ebea";
+}
+.icon-Scilla:before {
+  content: "\ebeb";
+}
+.icon-Scratch:before {
+  content: "\ebec";
+}
+.icon-Scrutinizer:before {
+  content: "\ebed";
+}
+.icon-Self:before {
+  content: "\ebee";
+}
+.icon-SemanticRelease:before {
+  content: "\ebef";
+}
+.icon-Sentry:before {
+  content: "\ebf0";
+}
+.icon-Sequelize:before {
+  content: "\ebf1";
+}
+.icon-Serverless:before {
+  content: "\ebf2";
+}
+.icon-Service-Fabric:before {
+  content: "\ebf3";
+}
+.icon-ShadowCLJS:before {
+  content: "\ebf4";
+}
+.icon-ShellCheck:before {
+  content: "\ebf5";
+}
+.icon-Shen:before {
+  content: "\ebf6";
+}
+.icon-Shipit:before {
+  content: "\ebf7";
+}
+.icon-Shippable:before {
+  content: "\ebf8";
+}
+.icon-Shopify:before {
+  content: "\ebf9";
+}
+.icon-Shuriken:before {
+  content: "\ebfa";
+}
+.icon-Sigils:before {
+  content: "\ebfb";
+}
+.icon-SiliconGraphics:before {
+  content: "\ebfc";
+}
+.icon-SilverStripe:before {
+  content: "\ebfd";
+}
+.icon-Sinatra:before {
+  content: "\ebfe";
+}
+.icon-Sketch:before {
+  content: "\ebff";
+}
+.icon-SketchUp-LayOut:before {
+  content: "\ec00";
+}
+.icon-SketchUp-Make:before {
+  content: "\ec01";
+}
+.icon-SketchUp-StyleBuilder:before {
+  content: "\ec02";
+}
+.icon-Slash:before {
+  content: "\ec03";
+}
+.icon-SmartOS:before {
+  content: "\ec04";
+}
+.icon-SmartOS-Alt:before {
+  content: "\ec05";
+}
+.icon-Snapcraft:before {
+  content: "\ec06";
+}
+.icon-Snort:before {
+  content: "\ec07";
+}
+.icon-Snowpack:before {
+  content: "\ec08";
+}
+.icon-Snyk:before {
+  content: "\ec09";
+}
+.icon-Solidarity:before {
+  content: "\ec0a";
+}
+.icon-Solidity:before {
+  content: "\ec0b";
+}
+.icon-Sophia:before {
+  content: "\ec0c";
+}
+.icon-Sorbet:before {
+  content: "\ec0d";
+}
+.icon-Source:before {
+  content: "\ec0e";
+}
+.icon-Spacemacs:before {
+  content: "\ec0f";
+}
+.icon-Spacengine:before {
+  content: "\ec10";
+}
+.icon-SPARC:before {
+  content: "\ec11";
+}
+.icon-Spray:before {
+  content: "\ec12";
+}
+.icon-SQF:before {
+  content: "\ec13";
+}
+.icon-SQLite:before {
+  content: "\ec14";
+}
+.icon-SquareSpace:before {
+  content: "\ec15";
+}
+.icon-Stan:before {
+  content: "\ec16";
+}
+.icon-Stata:before {
+  content: "\ec17";
+}
+.icon-StdlibJS:before {
+  content: "\ec18";
+}
+.icon-Stencil:before {
+  content: "\ec19";
+}
+.icon-Stitches:before {
+  content: "\ec1a";
+}
+.icon-Storybook:before {
+  content: "\ec1b";
+}
+.icon-Storyist:before {
+  content: "\ec1c";
+}
+.icon-Strings:before {
+  content: "\ec1d";
+}
+.icon-Stylable:before {
+  content: "\ec1e";
+}
+.icon-StyledComponents:before {
+  content: "\ec1f";
+}
+.icon-Stylelint:before {
+  content: "\ec20";
+}
+.icon-StylishHaskell:before {
+  content: "\ec21";
+}
+.icon-Stylus:before {
+  content: "\ec22";
+}
+.icon-Stylus-Orb:before {
+  content: "\ec23";
+}
+.icon-Stylus-S:before {
+  content: "\ec24";
+}
+.icon-Sublime:before {
+  content: "\ec25";
+}
+.icon-SuperCollider:before {
+  content: "\ec26";
+}
+.icon-Svelte:before {
+  content: "\ec27";
+}
+.icon-SVN:before {
+  content: "\ec28";
+}
+.icon-Swagger:before {
+  content: "\ec29";
+}
+.icon-SystemVerilog:before {
+  content: "\ec2a";
+}
+.icon-Tag:before {
+  content: "\ec2b";
+}
+.icon-Tailwind:before {
+  content: "\ec2c";
+}
+.icon-Tcl:before {
+  content: "\ec2d";
+}
+.icon-Telegram:before {
+  content: "\ec2e";
+}
+.icon-TemplateToolkit:before {
+  content: "\ec2f";
+}
+.icon-TempleOS:before {
+  content: "\ec30";
+}
+.icon-Terminal:before {
+  content: "\ec31";
+}
+.icon-Tern:before {
+  content: "\ec32";
+}
+.icon-Terraform:before {
+  content: "\ec33";
+}
+.icon-Terser:before {
+  content: "\ec34";
+}
+.icon-TestCafe:before {
+  content: "\ec35";
+}
+.icon-Test-CoffeeScript:before {
+  content: "\ec36";
+}
+.icon-Test-Directory:before {
+  content: "\ec37";
+}
+.icon-Test-Generic:before {
+  content: "\ec38";
+}
+.icon-Test-Go:before {
+  content: "\ec39";
+}
+.icon-Test-Haskell:before {
+  content: "\ec3a";
+}
+.icon-Test-JS:before {
+  content: "\ec3b";
+}
+.icon-Test-Perl:before {
+  content: "\ec3c";
+}
+.icon-Test-Python:before {
+  content: "\ec3d";
+}
+.icon-Test-React:before {
+  content: "\ec3e";
+}
+.icon-Test-Ruby:before {
+  content: "\ec3f";
+}
+.icon-Test-Rust:before {
+  content: "\ec40";
+}
+.icon-Test-TypeScript:before {
+  content: "\ec41";
+}
+.icon-Textile:before {
+  content: "\ec42";
+}
+.icon-TextMate:before {
+  content: "\ec43";
+}
+.icon-TFS:before {
+  content: "\ec44";
+}
+.icon-Thor:before {
+  content: "\ec45";
+}
+.icon-Tilt:before {
+  content: "\ec46";
+}
+.icon-TinyMCE:before {
+  content: "\ec47";
+}
+.icon-Tipe:before {
+  content: "\ec48";
+}
+.icon-TLA:before {
+  content: "\ec49";
+}
+.icon-tmux:before {
+  content: "\ec4a";
+}
+.icon-TOML:before {
+  content: "\ec4b";
+}
+.icon-TortoiseSVN:before {
+  content: "\ec4c";
+}
+.icon-TOTVS:before {
+  content: "\ec4d";
+}
+.icon-Truffle:before {
+  content: "\ec4e";
+}
+.icon-TSX:before {
+  content: "\ec4f";
+}
+.icon-TSX-Alt:before {
+  content: "\ec50";
+}
+.icon-TTCN-3:before {
+  content: "\ec51";
+}
+.icon-Turing:before {
+  content: "\ec52";
+}
+.icon-Twig:before {
+  content: "\ec53";
+}
+.icon-Twine:before {
+  content: "\ec54";
+}
+.icon-TXL:before {
+  content: "\ec55";
+}
+.icon-TypeDoc:before {
+  content: "\ec56";
+}
+.icon-TypeScript:before {
+  content: "\ec57";
+}
+.icon-TypeScript-Alt:before {
+  content: "\ec58";
+}
+.icon-Typings:before {
+  content: "\ec59";
+}
+.icon-UFO:before {
+  content: "\ec5a";
+}
+.icon-Unibeautify:before {
+  content: "\ec5b";
+}
+.icon-Unicode:before {
+  content: "\ec5c";
+}
+.icon-UNO:before {
+  content: "\ec5d";
+}
+.icon-UnrealScript:before {
+  content: "\ec5e";
+}
+.icon-UrWeb:before {
+  content: "\ec5f";
+}
+.icon-V:before {
+  content: "\ec60";
+}
+.icon-V8:before {
+  content: "\ec61";
+}
+.icon-V8-Turbofan:before {
+  content: "\ec62";
+}
+.icon-Vagrant:before {
+  content: "\ec63";
+}
+.icon-Vala:before {
+  content: "\ec64";
+}
+.icon-VAX:before {
+  content: "\ec65";
+}
+.icon-VCL:before {
+  content: "\ec66";
+}
+.icon-Velocity:before {
+  content: "\ec67";
+}
+.icon-Verilog:before {
+  content: "\ec68";
+}
+.icon-VertexShader:before {
+  content: "\ec69";
+}
+.icon-VHDL:before {
+  content: "\ec6a";
+}
+.icon-Video:before {
+  content: "\ec6b";
+}
+.icon-VirtualBox:before {
+  content: "\ec6c";
+}
+.icon-VirtualBox-Alt:before {
+  content: "\ec6d";
+}
+.icon-Vite:before {
+  content: "\ec6e";
+}
+.icon-VMware:before {
+  content: "\ec6f";
+}
+.icon-V-Ray:before {
+  content: "\ec70";
+}
+.icon-VSCode:before {
+  content: "\ec71";
+}
+.icon-VSTS:before {
+  content: "\ec72";
+}
+.icon-Vue:before {
+  content: "\ec73";
+}
+.icon-Vyper:before {
+  content: "\ec74";
+}
+.icon-W3C:before {
+  content: "\ec75";
+}
+.icon-Wallaby:before {
+  content: "\ec76";
+}
+.icon-Walt:before {
+  content: "\ec77";
+}
+.icon-Warcraft-III:before {
+  content: "\ec78";
+}
+.icon-WASI:before {
+  content: "\ec79";
+}
+.icon-Watchman:before {
+  content: "\ec7a";
+}
+.icon-WDL:before {
+  content: "\ec7b";
+}
+.icon-WebAssembly:before {
+  content: "\ec7c";
+}
+.icon-WebGL:before {
+  content: "\ec7d";
+}
+.icon-Webhint:before {
+  content: "\ec7e";
+}
+.icon-Webpack:before {
+  content: "\ec7f";
+}
+.icon-Webpack-Old:before {
+  content: "\ec80";
+}
+.icon-WebVTT:before {
+  content: "\ec81";
+}
+.icon-Wenyan:before {
+  content: "\ec82";
+}
+.icon-Wercker:before {
+  content: "\ec83";
+}
+.icon-Wget:before {
+  content: "\ec84";
+}
+.icon-Windi:before {
+  content: "\ec85";
+}
+.icon-Wine:before {
+  content: "\ec86";
+}
+.icon-WinUI:before {
+  content: "\ec87";
+}
+.icon-WiX:before {
+  content: "\ec88";
+}
+.icon-Wolfram:before {
+  content: "\ec89";
+}
+.icon-Workbox:before {
+  content: "\ec8a";
+}
+.icon-Wurst:before {
+  content: "\ec8b";
+}
+.icon-X10:before {
+  content: "\ec8c";
+}
+.icon-Xamarin:before {
+  content: "\ec8d";
+}
+.icon-xmake:before {
+  content: "\ec8e";
+}
+.icon-XMOS:before {
+  content: "\ec8f";
+}
+.icon-XPages:before {
+  content: "\ec90";
+}
+.icon-Xtend:before {
+  content: "\ec91";
+}
+.icon-Xubuntu:before {
+  content: "\ec92";
+}
+.icon-YAML:before {
+  content: "\ec93";
+}
+.icon-YAML-Alt1:before {
+  content: "\ec94";
+}
+.icon-YAML-Alt2:before {
+  content: "\ec95";
+}
+.icon-YAML-Alt3:before {
+  content: "\ec96";
+}
+.icon-YAML-Alt4:before {
+  content: "\ec97";
+}
+.icon-YAMLLint:before {
+  content: "\ec98";
+}
+.icon-Yandex:before {
+  content: "\ec99";
+}
+.icon-YANG:before {
+  content: "\ec9a";
+}
+.icon-YARA:before {
+  content: "\ec9b";
+}
+.icon-Yarn:before {
+  content: "\ec9c";
+}
+.icon-Yasm:before {
+  content: "\ec9d";
+}
+.icon-Yorick:before {
+  content: "\ec9e";
+}
+.icon-YUI:before {
+  content: "\ec9f";
+}
+.icon-ZBrush:before {
+  content: "\eca0";
+}
+.icon-Zeit:before {
+  content: "\eca1";
+}
+.icon-Zephir:before {
+  content: "\eca2";
+}
+.icon-Zig:before {
+  content: "\eca3";
+}
+.icon-Zilog:before {
+  content: "\eca4";
+}
+.icon-Zimpl:before {
+  content: "\eca5";
+}
+.icon-ZorinOS:before {
+  content: "\eca6";
+}
+.icon-Zork:before {
+  content: "\eca7";
+}
