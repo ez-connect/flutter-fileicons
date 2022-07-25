@@ -41,7 +41,7 @@ flutter:
   fonts:
     - family: FileIcons
       fonts:
-        - asset: assets/fonts/file-icons.ttf
+        - asset: assets/fonts/FileIcons.ttf
   #
   # For details regarding fonts in packages, see
   # https://flutter.dev/custom-fonts/#from-packages

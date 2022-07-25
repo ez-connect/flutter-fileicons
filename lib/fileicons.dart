@@ -14,2796 +14,3730 @@ class FileIconsData extends IconData {
 
 /// Use with the Icon class to show specific icons.
 class FileIcons {
-  /// c
-  static const IconData c = FileIconsData(0xe900);
+  /// 1c_alt
+  static const i1c_alt = FileIconsData(0xea01);
 
-  /// c_alt
-  static const IconData c_alt = FileIconsData(0xe901);
+  /// 1c
+  static const i1c = FileIconsData(0xea02);
 
-  /// d_model
-  static const IconData d_model = FileIconsData(0xe902);
+  /// 3d_model
+  static const i3d_model = FileIconsData(0xea03);
 
-  /// ds_max
-  static const IconData ds_max = FileIconsData(0xe903);
+  /// 3ds_max
+  static const i3ds_max = FileIconsData(0xea04);
 
-  /// d
-  static const IconData d = FileIconsData(0xe904);
+  /// 4d
+  static const i4d = FileIconsData(0xea05);
 
-  /// a
-  static const IconData a = FileIconsData(0xe905);
+  /// a+
+  static const a_plus = FileIconsData(0xea06);
 
   /// abap
-  static const IconData abap = FileIconsData(0xe906);
+  static const abap = FileIconsData(0xea07);
 
   /// abif
-  static const IconData abif = FileIconsData(0xe907);
+  static const abif = FileIconsData(0xea08);
 
   /// acre
-  static const IconData acre = FileIconsData(0xe908);
+  static const acre = FileIconsData(0xea09);
 
   /// actionscript
-  static const IconData actionscript = FileIconsData(0xe909);
+  static const actionscript = FileIconsData(0xea0a);
 
   /// ada
-  static const IconData ada = FileIconsData(0xe90a);
-
-  /// adobe
-  static const IconData adobe = FileIconsData(0xe90b);
+  static const ada = FileIconsData(0xea0b);
 
   /// adobe_acrobat
-  static const IconData adobe_acrobat = FileIconsData(0xe90c);
+  static const adobe_acrobat = FileIconsData(0xea0c);
 
   /// adobe_aftereffects
-  static const IconData adobe_aftereffects = FileIconsData(0xe90d);
+  static const adobe_aftereffects = FileIconsData(0xea0d);
 
   /// adobe_animate
-  static const IconData adobe_animate = FileIconsData(0xe90e);
+  static const adobe_animate = FileIconsData(0xea0e);
 
   /// adobe_audition
-  static const IconData adobe_audition = FileIconsData(0xe90f);
+  static const adobe_audition = FileIconsData(0xea0f);
 
   /// adobe_bridge
-  static const IconData adobe_bridge = FileIconsData(0xe910);
+  static const adobe_bridge = FileIconsData(0xea10);
 
   /// adobe_characteranimator
-  static const IconData adobe_characteranimator = FileIconsData(0xe911);
+  static const adobe_characteranimator = FileIconsData(0xea11);
 
   /// adobe_creativecloud
-  static const IconData adobe_creativecloud = FileIconsData(0xe912);
+  static const adobe_creativecloud = FileIconsData(0xea12);
 
   /// adobe_dimension
-  static const IconData adobe_dimension = FileIconsData(0xe913);
+  static const adobe_dimension = FileIconsData(0xea13);
 
   /// adobe_dreamweaver
-  static const IconData adobe_dreamweaver = FileIconsData(0xe914);
+  static const adobe_dreamweaver = FileIconsData(0xea14);
 
   /// adobe_flash
-  static const IconData adobe_flash = FileIconsData(0xe915);
+  static const adobe_flash = FileIconsData(0xea15);
 
   /// adobe_fuse
-  static const IconData adobe_fuse = FileIconsData(0xe916);
+  static const adobe_fuse = FileIconsData(0xea16);
 
   /// adobe_illustrator
-  static const IconData adobe_illustrator = FileIconsData(0xe917);
+  static const adobe_illustrator = FileIconsData(0xea17);
 
   /// adobe_incopy
-  static const IconData adobe_incopy = FileIconsData(0xe918);
+  static const adobe_incopy = FileIconsData(0xea18);
 
   /// adobe_indesign
-  static const IconData adobe_indesign = FileIconsData(0xe919);
+  static const adobe_indesign = FileIconsData(0xea19);
 
   /// adobe_lightroom
-  static const IconData adobe_lightroom = FileIconsData(0xe91a);
+  static const adobe_lightroom = FileIconsData(0xea1a);
 
   /// adobe_mediaencoder
-  static const IconData adobe_mediaencoder = FileIconsData(0xe91b);
+  static const adobe_mediaencoder = FileIconsData(0xea1b);
 
   /// adobe_photoshop
-  static const IconData adobe_photoshop = FileIconsData(0xe91c);
+  static const adobe_photoshop = FileIconsData(0xea1c);
 
   /// adobe_prelude
-  static const IconData adobe_prelude = FileIconsData(0xe91d);
+  static const adobe_prelude = FileIconsData(0xea1d);
 
   /// adobe_premiere
-  static const IconData adobe_premiere = FileIconsData(0xe91e);
+  static const adobe_premiere = FileIconsData(0xea1e);
 
   /// adobe_premiererush
-  static const IconData adobe_premiererush = FileIconsData(0xe91f);
+  static const adobe_premiererush = FileIconsData(0xea1f);
 
   /// adobe_xd
-  static const IconData adobe_xd = FileIconsData(0xe920);
+  static const adobe_xd = FileIconsData(0xea20);
+
+  /// adobe
+  static const adobe = FileIconsData(0xea21);
 
   /// adonisjs
-  static const IconData adonisjs = FileIconsData(0xe921);
+  static const adonisjs = FileIconsData(0xea22);
 
   /// aeternity
-  static const IconData aeternity = FileIconsData(0xe922);
+  static const aeternity = FileIconsData(0xea23);
 
   /// affectscript
-  static const IconData affectscript = FileIconsData(0xe923);
+  static const affectscript = FileIconsData(0xea24);
 
   /// affinitydesigner
-  static const IconData affinitydesigner = FileIconsData(0xe924);
+  static const affinitydesigner = FileIconsData(0xea25);
 
   /// agc
-  static const IconData agc = FileIconsData(0xe925);
+  static const agc = FileIconsData(0xea26);
 
   /// agda
-  static const IconData agda = FileIconsData(0xe926);
+  static const agda = FileIconsData(0xea27);
 
   /// akka
-  static const IconData akka = FileIconsData(0xe927);
-
-  /// alacritty
-  static const IconData alacritty = FileIconsData(0xe928);
+  static const akka = FileIconsData(0xea28);
 
   /// alacritty_alt
-  static const IconData alacritty_alt = FileIconsData(0xe929);
+  static const alacritty_alt = FileIconsData(0xea29);
+
+  /// alacritty
+  static const alacritty = FileIconsData(0xea2a);
 
   /// alex
-  static const IconData alex = FileIconsData(0xe92a);
+  static const alex = FileIconsData(0xea2b);
 
   /// alloy
-  static const IconData alloy = FileIconsData(0xe92b);
+  static const alloy = FileIconsData(0xea2c);
 
   /// alpine_linux
-  static const IconData alpine_linux = FileIconsData(0xe92c);
+  static const alpine_linux = FileIconsData(0xea2d);
 
   /// amd
-  static const IconData amd = FileIconsData(0xe92d);
+  static const amd = FileIconsData(0xea2e);
 
   /// amigaos
-  static const IconData amigaos = FileIconsData(0xe92e);
+  static const amigaos = FileIconsData(0xea2f);
 
   /// ampl
-  static const IconData ampl = FileIconsData(0xe92f);
+  static const ampl = FileIconsData(0xea30);
 
   /// amusewiki
-  static const IconData amusewiki = FileIconsData(0xe930);
+  static const amusewiki = FileIconsData(0xea31);
 
   /// analytica
-  static const IconData analytica = FileIconsData(0xe931);
+  static const analytica = FileIconsData(0xea32);
 
   /// angelscript
-  static const IconData angelscript = FileIconsData(0xe932);
+  static const angelscript = FileIconsData(0xea33);
 
   /// animestudio
-  static const IconData animestudio = FileIconsData(0xe933);
-
-  /// ansible
-  static const IconData ansible = FileIconsData(0xe934);
+  static const animestudio = FileIconsData(0xea34);
 
   /// ansible_alt
-  static const IconData ansible_alt = FileIconsData(0xe935);
+  static const ansible_alt = FileIconsData(0xea35);
+
+  /// ansible
+  static const ansible = FileIconsData(0xea36);
 
   /// antlr
-  static const IconData antlr = FileIconsData(0xe936);
+  static const antlr = FileIconsData(0xea37);
 
   /// antwar
-  static const IconData antwar = FileIconsData(0xe937);
+  static const antwar = FileIconsData(0xea38);
 
   /// anyscript
-  static const IconData anyscript = FileIconsData(0xe938);
+  static const anyscript = FileIconsData(0xea39);
 
   /// apache_ant
-  static const IconData apache_ant = FileIconsData(0xe939);
+  static const apache_ant = FileIconsData(0xea3a);
 
   /// api_blueprint
-  static const IconData api_blueprint = FileIconsData(0xe93a);
+  static const api_blueprint = FileIconsData(0xea3b);
 
   /// apiextractor
-  static const IconData apiextractor = FileIconsData(0xe93b);
-
-  /// apl
-  static const IconData apl = FileIconsData(0xe93c);
+  static const apiextractor = FileIconsData(0xea3c);
 
   /// apl_old
-  static const IconData apl_old = FileIconsData(0xe93d);
+  static const apl_old = FileIconsData(0xea3d);
+
+  /// apl
+  static const apl = FileIconsData(0xea3e);
 
   /// apollo
-  static const IconData apollo = FileIconsData(0xe93e);
+  static const apollo = FileIconsData(0xea3f);
 
   /// apple
-  static const IconData apple = FileIconsData(0xe93f);
+  static const apple = FileIconsData(0xea40);
 
   /// appveyor
-  static const IconData appveyor = FileIconsData(0xe940);
+  static const appveyor = FileIconsData(0xea41);
 
   /// arc
-  static const IconData arc = FileIconsData(0xe941);
+  static const arc = FileIconsData(0xea42);
 
   /// arch_linux
-  static const IconData arch_linux = FileIconsData(0xe942);
+  static const arch_linux = FileIconsData(0xea43);
 
   /// arduino
-  static const IconData arduino = FileIconsData(0xe943);
+  static const arduino = FileIconsData(0xea44);
 
   /// arm
-  static const IconData arm = FileIconsData(0xe944);
+  static const arm = FileIconsData(0xea45);
 
   /// arttext
-  static const IconData arttext = FileIconsData(0xe945);
+  static const arttext = FileIconsData(0xea46);
 
   /// arttext4
-  static const IconData arttext4 = FileIconsData(0xe946);
+  static const arttext4 = FileIconsData(0xea47);
 
   /// asciidoc
-  static const IconData asciidoc = FileIconsData(0xe947);
+  static const asciidoc = FileIconsData(0xea48);
 
   /// asciidoctor
-  static const IconData asciidoctor = FileIconsData(0xe948);
+  static const asciidoctor = FileIconsData(0xea49);
 
   /// assembly_agc
-  static const IconData assembly_agc = FileIconsData(0xe949);
+  static const assembly_agc = FileIconsData(0xea4a);
 
   /// assembly_amd
-  static const IconData assembly_amd = FileIconsData(0xe94a);
+  static const assembly_amd = FileIconsData(0xea4b);
 
   /// assembly_arm
-  static const IconData assembly_arm = FileIconsData(0xe94b);
+  static const assembly_arm = FileIconsData(0xea4c);
 
   /// assembly_att
-  static const IconData assembly_att = FileIconsData(0xe94c);
+  static const assembly_att = FileIconsData(0xea4d);
 
   /// assembly_avr
-  static const IconData assembly_avr = FileIconsData(0xe94d);
+  static const assembly_avr = FileIconsData(0xea4e);
 
   /// assembly_generic
-  static const IconData assembly_generic = FileIconsData(0xe94e);
+  static const assembly_generic = FileIconsData(0xea4f);
 
   /// assembly_hitachi
-  static const IconData assembly_hitachi = FileIconsData(0xe94f);
+  static const assembly_hitachi = FileIconsData(0xea50);
 
   /// assembly_intel
-  static const IconData assembly_intel = FileIconsData(0xe950);
+  static const assembly_intel = FileIconsData(0xea51);
 
   /// assembly_motorola
-  static const IconData assembly_motorola = FileIconsData(0xe951);
+  static const assembly_motorola = FileIconsData(0xea52);
 
   /// assembly_powerpc
-  static const IconData assembly_powerpc = FileIconsData(0xe952);
+  static const assembly_powerpc = FileIconsData(0xea53);
 
   /// assembly_riscv
-  static const IconData assembly_riscv = FileIconsData(0xe953);
+  static const assembly_riscv = FileIconsData(0xea54);
 
   /// assembly_sparc
-  static const IconData assembly_sparc = FileIconsData(0xe954);
+  static const assembly_sparc = FileIconsData(0xea55);
 
   /// assembly_vax
-  static const IconData assembly_vax = FileIconsData(0xe955);
+  static const assembly_vax = FileIconsData(0xea56);
 
   /// assembly_zilog
-  static const IconData assembly_zilog = FileIconsData(0xe956);
-
-  /// asymptote
-  static const IconData asymptote = FileIconsData(0xe957);
+  static const assembly_zilog = FileIconsData(0xea57);
 
   /// asymptote_alt
-  static const IconData asymptote_alt = FileIconsData(0xe958);
+  static const asymptote_alt = FileIconsData(0xea58);
+
+  /// asymptote
+  static const asymptote = FileIconsData(0xea59);
 
   /// atoum
-  static const IconData atoum = FileIconsData(0xe959);
+  static const atoum = FileIconsData(0xea5a);
 
   /// ats
-  static const IconData ats = FileIconsData(0xe95a);
+  static const ats = FileIconsData(0xea5b);
 
   /// att
-  static const IconData att = FileIconsData(0xe95b);
+  static const att = FileIconsData(0xea5c);
 
   /// audacity
-  static const IconData audacity = FileIconsData(0xe95c);
+  static const audacity = FileIconsData(0xea5d);
 
   /// augeas
-  static const IconData augeas = FileIconsData(0xe95d);
+  static const augeas = FileIconsData(0xea5e);
 
   /// aurelia
-  static const IconData aurelia = FileIconsData(0xe95e);
+  static const aurelia = FileIconsData(0xea5f);
 
   /// autohotkey
-  static const IconData autohotkey = FileIconsData(0xe95f);
+  static const autohotkey = FileIconsData(0xea60);
 
   /// autoit
-  static const IconData autoit = FileIconsData(0xe960);
+  static const autoit = FileIconsData(0xea61);
 
   /// automator
-  static const IconData automator = FileIconsData(0xe961);
+  static const automator = FileIconsData(0xea62);
 
   /// avr
-  static const IconData avr = FileIconsData(0xe962);
+  static const avr = FileIconsData(0xea63);
 
   /// avro
-  static const IconData avro = FileIconsData(0xe963);
+  static const avro = FileIconsData(0xea64);
 
   /// awk
-  static const IconData awk = FileIconsData(0xe964);
+  static const awk = FileIconsData(0xea65);
 
   /// azure_pipelines
-  static const IconData azure_pipelines = FileIconsData(0xe965);
+  static const azure_pipelines = FileIconsData(0xea66);
 
   /// babel
-  static const IconData babel = FileIconsData(0xe966);
+  static const babel = FileIconsData(0xea67);
 
   /// ballerina
-  static const IconData ballerina = FileIconsData(0xe967);
+  static const ballerina = FileIconsData(0xea68);
 
   /// bazaar
-  static const IconData bazaar = FileIconsData(0xe968);
-
-  /// bazel
-  static const IconData bazel = FileIconsData(0xe969);
+  static const bazaar = FileIconsData(0xea69);
 
   /// bazel_old
-  static const IconData bazel_old = FileIconsData(0xe96a);
+  static const bazel_old = FileIconsData(0xea6a);
+
+  /// bazel
+  static const bazel = FileIconsData(0xea6b);
 
   /// behat
-  static const IconData behat = FileIconsData(0xe96b);
+  static const behat = FileIconsData(0xea6c);
 
   /// bem
-  static const IconData bem = FileIconsData(0xe96c);
+  static const bem = FileIconsData(0xea6d);
 
   /// bibtex
-  static const IconData bibtex = FileIconsData(0xe96d);
+  static const bibtex = FileIconsData(0xea6e);
 
   /// bikeshed
-  static const IconData bikeshed = FileIconsData(0xe96e);
+  static const bikeshed = FileIconsData(0xea6f);
 
   /// biml
-  static const IconData biml = FileIconsData(0xe96f);
+  static const biml = FileIconsData(0xea70);
 
   /// binder
-  static const IconData binder = FileIconsData(0xe970);
+  static const binder = FileIconsData(0xea71);
 
   /// bintray
-  static const IconData bintray = FileIconsData(0xe971);
+  static const bintray = FileIconsData(0xea72);
 
   /// bison
-  static const IconData bison = FileIconsData(0xe972);
+  static const bison = FileIconsData(0xea73);
 
   /// bithound
-  static const IconData bithound = FileIconsData(0xe973);
+  static const bithound = FileIconsData(0xea74);
 
   /// blender
-  static const IconData blender = FileIconsData(0xe974);
+  static const blender = FileIconsData(0xea75);
 
   /// blitzbasic
-  static const IconData blitzbasic = FileIconsData(0xe975);
+  static const blitzbasic = FileIconsData(0xea76);
 
   /// bloc
-  static const IconData bloc = FileIconsData(0xe976);
+  static const bloc = FileIconsData(0xea77);
 
   /// bluespec
-  static const IconData bluespec = FileIconsData(0xe977);
+  static const bluespec = FileIconsData(0xea78);
 
   /// bnf
-  static const IconData bnf = FileIconsData(0xe978);
+  static const bnf = FileIconsData(0xea79);
 
   /// boo
-  static const IconData boo = FileIconsData(0xe979);
+  static const boo = FileIconsData(0xea7a);
 
   /// bors
-  static const IconData bors = FileIconsData(0xe97a);
+  static const bors = FileIconsData(0xea7b);
 
   /// bosque
-  static const IconData bosque = FileIconsData(0xe97b);
+  static const bosque = FileIconsData(0xea7c);
 
   /// brainfuck
-  static const IconData brainfuck = FileIconsData(0xe97c);
+  static const brainfuck = FileIconsData(0xea7d);
 
   /// brakeman
-  static const IconData brakeman = FileIconsData(0xe97d);
+  static const brakeman = FileIconsData(0xea7e);
 
   /// bro
-  static const IconData bro = FileIconsData(0xe97e);
+  static const bro = FileIconsData(0xea7f);
 
   /// broccoli
-  static const IconData broccoli = FileIconsData(0xe97f);
-
-  /// brotli
-  static const IconData brotli = FileIconsData(0xe980);
+  static const broccoli = FileIconsData(0xea80);
 
   /// brotli_old
-  static const IconData brotli_old = FileIconsData(0xe981);
+  static const brotli_old = FileIconsData(0xea81);
+
+  /// brotli
+  static const brotli = FileIconsData(0xea82);
 
   /// browserslist
-  static const IconData browserslist = FileIconsData(0xe982);
+  static const browserslist = FileIconsData(0xea83);
 
   /// browsersync
-  static const IconData browsersync = FileIconsData(0xe983);
+  static const browsersync = FileIconsData(0xea84);
 
   /// brunch
-  static const IconData brunch = FileIconsData(0xe984);
+  static const brunch = FileIconsData(0xea85);
 
   /// buck
-  static const IconData buck = FileIconsData(0xe985);
+  static const buck = FileIconsData(0xea86);
 
   /// build_boot
-  static const IconData build_boot = FileIconsData(0xe986);
+  static const build_boot = FileIconsData(0xea87);
 
   /// buildkite
-  static const IconData buildkite = FileIconsData(0xe987);
+  static const buildkite = FileIconsData(0xea88);
 
   /// bundler
-  static const IconData bundler = FileIconsData(0xe988);
+  static const bundler = FileIconsData(0xea89);
 
   /// byond
-  static const IconData byond = FileIconsData(0xe989);
+  static const byond = FileIconsData(0xea8a);
 
-  /// c1
-  static const IconData c1 = FileIconsData(0xe98a);
+  /// c#_script
+  static const c_sharp_script = FileIconsData(0xea8b);
 
-  /// c2
-  static const IconData c2 = FileIconsData(0xe98b);
+  /// c#
+  static const c_sharp = FileIconsData(0xea8c);
 
-  /// underscore_
-  static const IconData underscore_ = FileIconsData(0xe98b);
-
-  /// c3
-  static const IconData c3 = FileIconsData(0xe98c);
+  /// c++
+  static const c_plus_plus = FileIconsData(0xea8d);
 
   /// cabal
-  static const IconData cabal = FileIconsData(0xe98d);
-
-  /// caddy
-  static const IconData caddy = FileIconsData(0xe98e);
+  static const cabal = FileIconsData(0xea8e);
 
   /// caddy_old
-  static const IconData caddy_old = FileIconsData(0xe98f);
+  static const caddy_old = FileIconsData(0xea8f);
+
+  /// caddy
+  static const caddy = FileIconsData(0xea90);
 
   /// caffe
-  static const IconData caffe = FileIconsData(0xe990);
+  static const caffe = FileIconsData(0xea91);
 
   /// caffe2
-  static const IconData caffe2 = FileIconsData(0xe991);
+  static const caffe2 = FileIconsData(0xea92);
 
   /// cairo
-  static const IconData cairo = FileIconsData(0xe992);
+  static const cairo = FileIconsData(0xea93);
 
   /// cake
-  static const IconData cake = FileIconsData(0xe993);
+  static const cake = FileIconsData(0xea94);
 
   /// cakefile
-  static const IconData cakefile = FileIconsData(0xe994);
-
-  /// cakephp
-  static const IconData cakephp = FileIconsData(0xe995);
+  static const cakefile = FileIconsData(0xea95);
 
   /// cakephp_old
-  static const IconData cakephp_old = FileIconsData(0xe996);
+  static const cakephp_old = FileIconsData(0xea96);
+
+  /// cakephp
+  static const cakephp = FileIconsData(0xea97);
 
   /// calva
-  static const IconData calva = FileIconsData(0xe997);
+  static const calva = FileIconsData(0xea98);
 
   /// carthage
-  static const IconData carthage = FileIconsData(0xe998);
+  static const carthage = FileIconsData(0xea99);
 
   /// casc
-  static const IconData casc = FileIconsData(0xe999);
+  static const casc = FileIconsData(0xea9a);
 
   /// cdf
-  static const IconData cdf = FileIconsData(0xe99a);
+  static const cdf = FileIconsData(0xea9b);
 
   /// ceylon
-  static const IconData ceylon = FileIconsData(0xe99b);
+  static const ceylon = FileIconsData(0xea9c);
 
   /// chai
-  static const IconData chai = FileIconsData(0xe99c);
+  static const chai = FileIconsData(0xea9d);
 
   /// chapel
-  static const IconData chapel = FileIconsData(0xe99d);
+  static const chapel = FileIconsData(0xea9e);
 
   /// chartjs
-  static const IconData chartjs = FileIconsData(0xe99e);
+  static const chartjs = FileIconsData(0xea9f);
 
   /// cheetah3d
-  static const IconData cheetah3d = FileIconsData(0xe99f);
+  static const cheetah3d = FileIconsData(0xeaa0);
 
   /// chef
-  static const IconData chef = FileIconsData(0xe9a0);
+  static const chef = FileIconsData(0xeaa1);
 
   /// chocolatey
-  static const IconData chocolatey = FileIconsData(0xe9a1);
+  static const chocolatey = FileIconsData(0xeaa2);
 
   /// chuck
-  static const IconData chuck = FileIconsData(0xe9a2);
+  static const chuck = FileIconsData(0xeaa3);
 
   /// circleci
-  static const IconData circleci = FileIconsData(0xe9a3);
+  static const circleci = FileIconsData(0xeaa4);
 
   /// cirru
-  static const IconData cirru = FileIconsData(0xe9a4);
+  static const cirru = FileIconsData(0xeaa5);
 
   /// ckeditor
-  static const IconData ckeditor = FileIconsData(0xe9a5);
+  static const ckeditor = FileIconsData(0xeaa6);
 
   /// clarion
-  static const IconData clarion = FileIconsData(0xe9a6);
+  static const clarion = FileIconsData(0xeaa7);
 
   /// clean
-  static const IconData clean = FileIconsData(0xe9a7);
+  static const clean = FileIconsData(0xeaa8);
 
   /// click
-  static const IconData click = FileIconsData(0xe9a8);
+  static const click = FileIconsData(0xeaa9);
 
   /// clips
-  static const IconData clips = FileIconsData(0xe9a9);
+  static const clips = FileIconsData(0xeaaa);
 
   /// clojurejs
-  static const IconData clojurejs = FileIconsData(0xe9aa);
+  static const clojurejs = FileIconsData(0xeaab);
 
   /// closuretemplate
-  static const IconData closuretemplate = FileIconsData(0xe9ab);
+  static const closuretemplate = FileIconsData(0xeaac);
 
   /// cloudfoundry
-  static const IconData cloudfoundry = FileIconsData(0xe9ac);
+  static const cloudfoundry = FileIconsData(0xeaad);
 
   /// cmake
-  static const IconData cmake = FileIconsData(0xe9ad);
+  static const cmake = FileIconsData(0xeaae);
 
   /// cnab
-  static const IconData cnab = FileIconsData(0xe9ae);
+  static const cnab = FileIconsData(0xeaaf);
 
   /// cobol
-  static const IconData cobol = FileIconsData(0xe9af);
+  static const cobol = FileIconsData(0xeab0);
 
   /// cocoapods
-  static const IconData cocoapods = FileIconsData(0xe9b0);
+  static const cocoapods = FileIconsData(0xeab1);
 
   /// codacy
-  static const IconData codacy = FileIconsData(0xe9b1);
+  static const codacy = FileIconsData(0xeab2);
 
   /// code_climate
-  static const IconData code_climate = FileIconsData(0xe9b2);
+  static const code_climate = FileIconsData(0xeab3);
 
   /// codecov
-  static const IconData codecov = FileIconsData(0xe9b3);
+  static const codecov = FileIconsData(0xeab4);
 
   /// codekit
-  static const IconData codekit = FileIconsData(0xe9b4);
+  static const codekit = FileIconsData(0xeab5);
 
   /// codemeta
-  static const IconData codemeta = FileIconsData(0xe9b5);
+  static const codemeta = FileIconsData(0xeab6);
 
   /// codemirror
-  static const IconData codemirror = FileIconsData(0xe9b6);
+  static const codemirror = FileIconsData(0xeab7);
 
   /// codeship
-  static const IconData codeship = FileIconsData(0xe9b7);
+  static const codeship = FileIconsData(0xeab8);
 
   /// coldfusion
-  static const IconData coldfusion = FileIconsData(0xe9b8);
+  static const coldfusion = FileIconsData(0xeab9);
 
   /// commitizen
-  static const IconData commitizen = FileIconsData(0xe9b9);
+  static const commitizen = FileIconsData(0xeaba);
 
   /// commitlint
-  static const IconData commitlint = FileIconsData(0xe9ba);
+  static const commitlint = FileIconsData(0xeabb);
 
   /// common_lisp
-  static const IconData common_lisp = FileIconsData(0xe9bb);
+  static const common_lisp = FileIconsData(0xeabc);
 
   /// component_pascal
-  static const IconData component_pascal = FileIconsData(0xe9bc);
+  static const component_pascal = FileIconsData(0xeabd);
 
   /// composer
-  static const IconData composer = FileIconsData(0xe9bd);
+  static const composer = FileIconsData(0xeabe);
 
   /// conan
-  static const IconData conan = FileIconsData(0xe9be);
+  static const conan = FileIconsData(0xeabf);
 
   /// conda
-  static const IconData conda = FileIconsData(0xe9bf);
-
-  /// config
-  static const IconData config = FileIconsData(0xe9c0);
+  static const conda = FileIconsData(0xeac0);
 
   /// config_coffeescript
-  static const IconData config_coffeescript = FileIconsData(0xe9c1);
+  static const config_coffeescript = FileIconsData(0xeac1);
 
   /// config_go
-  static const IconData config_go = FileIconsData(0xe9c2);
+  static const config_go = FileIconsData(0xeac2);
 
   /// config_haskell
-  static const IconData config_haskell = FileIconsData(0xe9c3);
+  static const config_haskell = FileIconsData(0xeac3);
 
   /// config_js
-  static const IconData config_js = FileIconsData(0xe9c4);
+  static const config_js = FileIconsData(0xeac4);
 
   /// config_perl
-  static const IconData config_perl = FileIconsData(0xe9c5);
+  static const config_perl = FileIconsData(0xeac5);
 
   /// config_python
-  static const IconData config_python = FileIconsData(0xe9c6);
+  static const config_python = FileIconsData(0xeac6);
 
   /// config_react
-  static const IconData config_react = FileIconsData(0xe9c7);
+  static const config_react = FileIconsData(0xeac7);
 
   /// config_ruby
-  static const IconData config_ruby = FileIconsData(0xe9c8);
+  static const config_ruby = FileIconsData(0xeac8);
 
   /// config_rust
-  static const IconData config_rust = FileIconsData(0xe9c9);
+  static const config_rust = FileIconsData(0xeac9);
 
   /// config_typescript
-  static const IconData config_typescript = FileIconsData(0xe9ca);
+  static const config_typescript = FileIconsData(0xeaca);
+
+  /// config
+  static const config = FileIconsData(0xeacb);
 
   /// conll
-  static const IconData conll = FileIconsData(0xe9cb);
+  static const conll = FileIconsData(0xeacc);
 
   /// coq
-  static const IconData coq = FileIconsData(0xe9cc);
+  static const coq = FileIconsData(0xeacd);
 
   /// cordova
-  static const IconData cordova = FileIconsData(0xe9cd);
-
-  /// coreldraw
-  static const IconData coreldraw = FileIconsData(0xe9ce);
+  static const cordova = FileIconsData(0xeace);
 
   /// coreldraw_alt
-  static const IconData coreldraw_alt = FileIconsData(0xe9cf);
+  static const coreldraw_alt = FileIconsData(0xeacf);
+
+  /// coreldraw
+  static const coreldraw = FileIconsData(0xead0);
 
   /// coveralls
-  static const IconData coveralls = FileIconsData(0xe9d0);
+  static const coveralls = FileIconsData(0xead1);
 
   /// cpan
-  static const IconData cpan = FileIconsData(0xe9d1);
+  static const cpan = FileIconsData(0xead2);
 
-  /// cpcdosc
-  static const IconData cpcdosc = FileIconsData(0xe9d2);
+  /// cpcdosc+
+  static const cpcdosc_plus = FileIconsData(0xead3);
 
   /// crafttweaker
-  static const IconData crafttweaker = FileIconsData(0xe9d3);
+  static const crafttweaker = FileIconsData(0xead4);
 
   /// creole
-  static const IconData creole = FileIconsData(0xe9d4);
+  static const creole = FileIconsData(0xead5);
 
   /// crowdin
-  static const IconData crowdin = FileIconsData(0xe9d5);
+  static const crowdin = FileIconsData(0xead6);
 
   /// crystal
-  static const IconData crystal = FileIconsData(0xe9d6);
+  static const crystal = FileIconsData(0xead7);
 
   /// csound
-  static const IconData csound = FileIconsData(0xe9d7);
+  static const csound = FileIconsData(0xead8);
 
   /// cubit
-  static const IconData cubit = FileIconsData(0xe9d8);
+  static const cubit = FileIconsData(0xead9);
 
   /// cucumber
-  static const IconData cucumber = FileIconsData(0xe9d9);
+  static const cucumber = FileIconsData(0xeada);
 
   /// cuneiform
-  static const IconData cuneiform = FileIconsData(0xe9da);
-
-  /// curl
-  static const IconData curl = FileIconsData(0xe9db);
+  static const cuneiform = FileIconsData(0xeadb);
 
   /// curl_lang
-  static const IconData curl_lang = FileIconsData(0xe9dc);
+  static const curl_lang = FileIconsData(0xeadc);
+
+  /// curl
+  static const curl = FileIconsData(0xeadd);
 
   /// curry
-  static const IconData curry = FileIconsData(0xe9dd);
+  static const curry = FileIconsData(0xeade);
 
   /// cvs
-  static const IconData cvs = FileIconsData(0xe9de);
+  static const cvs = FileIconsData(0xeadf);
 
   /// cwl
-  static const IconData cwl = FileIconsData(0xe9df);
+  static const cwl = FileIconsData(0xeae0);
 
   /// cython
-  static const IconData cython = FileIconsData(0xe9e0);
+  static const cython = FileIconsData(0xeae1);
 
   /// d3
-  static const IconData d3 = FileIconsData(0xe9e1);
+  static const d3 = FileIconsData(0xeae2);
 
   /// dafny
-  static const IconData dafny = FileIconsData(0xe9e2);
+  static const dafny = FileIconsData(0xeae3);
 
   /// darcs_patch
-  static const IconData darcs_patch = FileIconsData(0xe9e3);
+  static const darcs_patch = FileIconsData(0xeae4);
 
   /// dashboard
-  static const IconData dashboard = FileIconsData(0xe9e4);
+  static const dashboard = FileIconsData(0xeae5);
 
   /// dataweave
-  static const IconData dataweave = FileIconsData(0xe9e5);
+  static const dataweave = FileIconsData(0xeae6);
 
   /// dbase
-  static const IconData dbase = FileIconsData(0xe9e6);
+  static const dbase = FileIconsData(0xeae7);
 
-  /// default_icon
-  static const IconData default_icon = FileIconsData(0xe9e7);
+  /// default
+  static const default_icon = FileIconsData(0xeae8);
 
   /// delphi
-  static const IconData delphi = FileIconsData(0xe9e8);
+  static const delphi = FileIconsData(0xeae9);
 
   /// deno
-  static const IconData deno = FileIconsData(0xe9e9);
+  static const deno = FileIconsData(0xeaea);
 
   /// dependabot
-  static const IconData dependabot = FileIconsData(0xe9ea);
+  static const dependabot = FileIconsData(0xeaeb);
 
   /// devcontainer
-  static const IconData devcontainer = FileIconsData(0xe9eb);
+  static const devcontainer = FileIconsData(0xeaec);
 
   /// devicetree
-  static const IconData devicetree = FileIconsData(0xe9ec);
+  static const devicetree = FileIconsData(0xeaed);
 
   /// dhall
-  static const IconData dhall = FileIconsData(0xe9ed);
+  static const dhall = FileIconsData(0xeaee);
 
   /// dia
-  static const IconData dia = FileIconsData(0xe9ee);
+  static const dia = FileIconsData(0xeaef);
 
   /// diff
-  static const IconData diff = FileIconsData(0xe9ef);
+  static const diff = FileIconsData(0xeaf0);
 
   /// digdag
-  static const IconData digdag = FileIconsData(0xe9f0);
+  static const digdag = FileIconsData(0xeaf1);
 
   /// dna
-  static const IconData dna = FileIconsData(0xe9f1);
+  static const dna = FileIconsData(0xeaf2);
 
   /// docbook
-  static const IconData docbook = FileIconsData(0xe9f2);
+  static const docbook = FileIconsData(0xeaf3);
 
   /// docker
-  static const IconData docker = FileIconsData(0xe9f3);
+  static const docker = FileIconsData(0xeaf4);
 
   /// doclets
-  static const IconData doclets = FileIconsData(0xe9f4);
+  static const doclets = FileIconsData(0xeaf5);
 
   /// docpad
-  static const IconData docpad = FileIconsData(0xe9f5);
+  static const docpad = FileIconsData(0xeaf6);
 
   /// docz
-  static const IconData docz = FileIconsData(0xe9f6);
+  static const docz = FileIconsData(0xeaf7);
 
   /// dogescript
-  static const IconData dogescript = FileIconsData(0xe9f7);
+  static const dogescript = FileIconsData(0xeaf8);
 
   /// dom
-  static const IconData dom = FileIconsData(0xe9f8);
+  static const dom = FileIconsData(0xeaf9);
 
   /// donejs
-  static const IconData donejs = FileIconsData(0xe9f9);
-
-  /// dosbox
-  static const IconData dosbox = FileIconsData(0xe9fa);
+  static const donejs = FileIconsData(0xeafa);
 
   /// dosbox_alt
-  static const IconData dosbox_alt = FileIconsData(0xe9fb);
+  static const dosbox_alt = FileIconsData(0xeafb);
+
+  /// dosbox
+  static const dosbox = FileIconsData(0xeafc);
 
   /// dotenv
-  static const IconData dotenv = FileIconsData(0xe9fc);
+  static const dotenv = FileIconsData(0xeafd);
 
   /// dotjs
-  static const IconData dotjs = FileIconsData(0xe9fd);
+  static const dotjs = FileIconsData(0xeafe);
 
   /// doxygen
-  static const IconData doxygen = FileIconsData(0xe9fe);
+  static const doxygen = FileIconsData(0xeaff);
 
   /// dragonflybsd
-  static const IconData dragonflybsd = FileIconsData(0xe9ff);
+  static const dragonflybsd = FileIconsData(0xeb00);
 
   /// dragula
-  static const IconData dragula = FileIconsData(0xea00);
+  static const dragula = FileIconsData(0xeb01);
 
-  /// drawio
-  static const IconData drawio = FileIconsData(0xea01);
+  /// draw.io
+  static const draw_io = FileIconsData(0xeb02);
 
   /// drone
-  static const IconData drone = FileIconsData(0xea02);
+  static const drone = FileIconsData(0xeb03);
 
   /// dub
-  static const IconData dub = FileIconsData(0xea03);
+  static const dub = FileIconsData(0xeb04);
 
   /// dvc
-  static const IconData dvc = FileIconsData(0xea04);
+  static const dvc = FileIconsData(0xeb05);
 
   /// dyalog
-  static const IconData dyalog = FileIconsData(0xea05);
+  static const dyalog = FileIconsData(0xeb06);
 
   /// dylib
-  static const IconData dylib = FileIconsData(0xea06);
+  static const dylib = FileIconsData(0xeb07);
 
   /// e
-  static const IconData e = FileIconsData(0xea07);
+  static const e = FileIconsData(0xeb08);
 
   /// eagle
-  static const IconData eagle = FileIconsData(0xea08);
+  static const eagle = FileIconsData(0xeb09);
 
   /// easybuild
-  static const IconData easybuild = FileIconsData(0xea09);
+  static const easybuild = FileIconsData(0xeb0a);
 
   /// ec
-  static const IconData ec = FileIconsData(0xea0a);
+  static const ec = FileIconsData(0xeb0b);
 
   /// ecere
-  static const IconData ecere = FileIconsData(0xea0b);
+  static const ecere = FileIconsData(0xeb0c);
 
   /// eclipse_lang
-  static const IconData eclipse_lang = FileIconsData(0xea0c);
+  static const eclipse_lang = FileIconsData(0xeb0d);
 
   /// edge
-  static const IconData edge = FileIconsData(0xea0d);
+  static const edge = FileIconsData(0xeb0e);
 
   /// editorconfig
-  static const IconData editorconfig = FileIconsData(0xea0e);
+  static const editorconfig = FileIconsData(0xeb0f);
 
   /// eiffel
-  static const IconData eiffel = FileIconsData(0xea0f);
+  static const eiffel = FileIconsData(0xeb10);
 
   /// ejs
-  static const IconData ejs = FileIconsData(0xea10);
+  static const ejs = FileIconsData(0xeb11);
 
   /// electron
-  static const IconData electron = FileIconsData(0xea11);
+  static const electron = FileIconsData(0xeb12);
 
   /// elementaryos
-  static const IconData elementaryos = FileIconsData(0xea12);
+  static const elementaryos = FileIconsData(0xeb13);
 
   /// elm
-  static const IconData elm = FileIconsData(0xea13);
+  static const elm = FileIconsData(0xeb14);
 
   /// emacs
-  static const IconData emacs = FileIconsData(0xea14);
+  static const emacs = FileIconsData(0xeb15);
 
   /// ember
-  static const IconData ember = FileIconsData(0xea15);
+  static const ember = FileIconsData(0xeb16);
 
   /// emberscript
-  static const IconData emberscript = FileIconsData(0xea16);
+  static const emberscript = FileIconsData(0xeb17);
 
   /// ensime
-  static const IconData ensime = FileIconsData(0xea17);
+  static const ensime = FileIconsData(0xeb18);
 
   /// eq
-  static const IconData eq = FileIconsData(0xea18);
+  static const eq = FileIconsData(0xeb19);
 
   /// esdoc
-  static const IconData esdoc = FileIconsData(0xea19);
-
-  /// eslint
-  static const IconData eslint = FileIconsData(0xea1a);
+  static const esdoc = FileIconsData(0xeb1a);
 
   /// eslint_old
-  static const IconData eslint_old = FileIconsData(0xea1b);
+  static const eslint_old = FileIconsData(0xeb1b);
+
+  /// eslint
+  static const eslint = FileIconsData(0xeb1c);
 
   /// expo
-  static const IconData expo = FileIconsData(0xea1c);
+  static const expo = FileIconsData(0xeb1d);
 
   /// fabfile
-  static const IconData fabfile = FileIconsData(0xea1d);
+  static const fabfile = FileIconsData(0xeb1e);
 
   /// fabric
-  static const IconData fabric = FileIconsData(0xea1e);
+  static const fabric = FileIconsData(0xeb1f);
 
   /// factor
-  static const IconData factor = FileIconsData(0xea1f);
+  static const factor = FileIconsData(0xeb20);
 
   /// falcon
-  static const IconData falcon = FileIconsData(0xea20);
+  static const falcon = FileIconsData(0xeb21);
 
   /// fancy
-  static const IconData fancy = FileIconsData(0xea21);
+  static const fancy = FileIconsData(0xeb22);
 
   /// fantom
-  static const IconData fantom = FileIconsData(0xea22);
+  static const fantom = FileIconsData(0xeb23);
 
   /// fauna
-  static const IconData fauna = FileIconsData(0xea23);
+  static const fauna = FileIconsData(0xeb24);
 
   /// faust
-  static const IconData faust = FileIconsData(0xea24);
+  static const faust = FileIconsData(0xeb25);
 
   /// fbx
-  static const IconData fbx = FileIconsData(0xea25);
+  static const fbx = FileIconsData(0xeb26);
 
   /// fexl
-  static const IconData fexl = FileIconsData(0xea26);
+  static const fexl = FileIconsData(0xeb27);
 
   /// ffmpeg
-  static const IconData ffmpeg = FileIconsData(0xea27);
+  static const ffmpeg = FileIconsData(0xeb28);
 
   /// fiddle
-  static const IconData fiddle = FileIconsData(0xea28);
+  static const fiddle = FileIconsData(0xeb29);
 
   /// figma
-  static const IconData figma = FileIconsData(0xea29);
+  static const figma = FileIconsData(0xeb2a);
 
   /// finaldraft
-  static const IconData finaldraft = FileIconsData(0xea2a);
+  static const finaldraft = FileIconsData(0xeb2b);
 
   /// finder
-  static const IconData finder = FileIconsData(0xea2b);
-
-  /// firebase
-  static const IconData firebase = FileIconsData(0xea2c);
+  static const finder = FileIconsData(0xeb2c);
 
   /// firebase_bolt
-  static const IconData firebase_bolt = FileIconsData(0xea2d);
+  static const firebase_bolt = FileIconsData(0xeb2d);
+
+  /// firebase
+  static const firebase = FileIconsData(0xeb2e);
 
   /// flask
-  static const IconData flask = FileIconsData(0xea2e);
+  static const flask = FileIconsData(0xeb2f);
 
   /// floobits
-  static const IconData floobits = FileIconsData(0xea2f);
+  static const floobits = FileIconsData(0xeb30);
 
   /// flow
-  static const IconData flow = FileIconsData(0xea30);
+  static const flow = FileIconsData(0xeb31);
 
   /// flutter
-  static const IconData flutter = FileIconsData(0xea31);
+  static const flutter = FileIconsData(0xeb32);
 
   /// flux
-  static const IconData flux = FileIconsData(0xea32);
-
-  /// font
-  static const IconData font = FileIconsData(0xea33);
+  static const flux = FileIconsData(0xeb33);
 
   /// font_bitmap
-  static const IconData font_bitmap = FileIconsData(0xea34);
-
-  /// fontforge
-  static const IconData fontforge = FileIconsData(0xea35);
+  static const font_bitmap = FileIconsData(0xeb34);
 
   /// font_outline
-  static const IconData font_outline = FileIconsData(0xea36);
+  static const font_outline = FileIconsData(0xeb35);
+
+  /// font
+  static const font = FileIconsData(0xeb36);
+
+  /// fontforge
+  static const fontforge = FileIconsData(0xeb37);
 
   /// fork
-  static const IconData fork = FileIconsData(0xea37);
+  static const fork = FileIconsData(0xeb38);
 
   /// fortherecord
-  static const IconData fortherecord = FileIconsData(0xea38);
+  static const fortherecord = FileIconsData(0xeb39);
 
   /// fortran
-  static const IconData fortran = FileIconsData(0xea39);
+  static const fortran = FileIconsData(0xeb3a);
 
   /// fossa
-  static const IconData fossa = FileIconsData(0xea3a);
+  static const fossa = FileIconsData(0xeb3b);
 
   /// fossil
-  static const IconData fossil = FileIconsData(0xea3b);
+  static const fossil = FileIconsData(0xeb3c);
 
   /// fountain
-  static const IconData fountain = FileIconsData(0xea3c);
+  static const fountain = FileIconsData(0xeb3d);
 
   /// franca
-  static const IconData franca = FileIconsData(0xea3d);
+  static const franca = FileIconsData(0xeb3e);
 
   /// freedesktop
-  static const IconData freedesktop = FileIconsData(0xea3e);
+  static const freedesktop = FileIconsData(0xeb3f);
 
   /// freedos
-  static const IconData freedos = FileIconsData(0xea3f);
+  static const freedos = FileIconsData(0xeb40);
 
   /// freemarker
-  static const IconData freemarker = FileIconsData(0xea40);
+  static const freemarker = FileIconsData(0xeb41);
 
   /// freemat
-  static const IconData freemat = FileIconsData(0xea41);
+  static const freemat = FileIconsData(0xeb42);
 
   /// frege
-  static const IconData frege = FileIconsData(0xea42);
+  static const frege = FileIconsData(0xeb43);
 
   /// fthtml
-  static const IconData fthtml = FileIconsData(0xea43);
+  static const fthtml = FileIconsData(0xeb44);
 
   /// fuelux
-  static const IconData fuelux = FileIconsData(0xea44);
+  static const fuelux = FileIconsData(0xeb45);
 
   /// fusebox
-  static const IconData fusebox = FileIconsData(0xea45);
+  static const fusebox = FileIconsData(0xeb46);
 
   /// futhark
-  static const IconData futhark = FileIconsData(0xea46);
+  static const futhark = FileIconsData(0xeb47);
 
   /// galaxy
-  static const IconData galaxy = FileIconsData(0xea47);
+  static const galaxy = FileIconsData(0xeb48);
 
   /// galen
-  static const IconData galen = FileIconsData(0xea48);
+  static const galen = FileIconsData(0xeb49);
 
   /// gamemaker
-  static const IconData gamemaker = FileIconsData(0xea49);
+  static const gamemaker = FileIconsData(0xeb4a);
 
   /// gams
-  static const IconData gams = FileIconsData(0xea4a);
+  static const gams = FileIconsData(0xeb4b);
 
   /// gap
-  static const IconData gap = FileIconsData(0xea4b);
+  static const gap = FileIconsData(0xeb4c);
 
   /// gatsby
-  static const IconData gatsby = FileIconsData(0xea4c);
+  static const gatsby = FileIconsData(0xeb4d);
 
   /// gauss
-  static const IconData gauss = FileIconsData(0xea4d);
+  static const gauss = FileIconsData(0xeb4e);
 
   /// gdb
-  static const IconData gdb = FileIconsData(0xea4e);
+  static const gdb = FileIconsData(0xeb4f);
 
   /// genshi
-  static const IconData genshi = FileIconsData(0xea4f);
+  static const genshi = FileIconsData(0xeb50);
 
   /// genstat
-  static const IconData genstat = FileIconsData(0xea50);
+  static const genstat = FileIconsData(0xeb51);
 
   /// gentoo
-  static const IconData gentoo = FileIconsData(0xea51);
+  static const gentoo = FileIconsData(0xeb52);
 
   /// gf
-  static const IconData gf = FileIconsData(0xea52);
+  static const gf = FileIconsData(0xeb53);
 
   /// ghostscript
-  static const IconData ghostscript = FileIconsData(0xea53);
+  static const ghostscript = FileIconsData(0xeb54);
 
   /// gimp
-  static const IconData gimp = FileIconsData(0xea54);
+  static const gimp = FileIconsData(0xeb55);
 
   /// gitlab
-  static const IconData gitlab = FileIconsData(0xea55);
+  static const gitlab = FileIconsData(0xeb56);
 
   /// gitpod
-  static const IconData gitpod = FileIconsData(0xea56);
+  static const gitpod = FileIconsData(0xeb57);
 
   /// glade
-  static const IconData glade = FileIconsData(0xea57);
+  static const glade = FileIconsData(0xeb58);
 
   /// glide
-  static const IconData glide = FileIconsData(0xea58);
+  static const glide = FileIconsData(0xeb59);
 
   /// gltf
-  static const IconData gltf = FileIconsData(0xea59);
+  static const gltf = FileIconsData(0xeb5a);
 
   /// glyphs
-  static const IconData glyphs = FileIconsData(0xea5a);
+  static const glyphs = FileIconsData(0xeb5b);
 
   /// gn
-  static const IconData gn = FileIconsData(0xea5b);
+  static const gn = FileIconsData(0xeb5c);
 
   /// gnu
-  static const IconData gnu = FileIconsData(0xea5c);
+  static const gnu = FileIconsData(0xeb5d);
 
   /// gnuplot
-  static const IconData gnuplot = FileIconsData(0xea5d);
-
-  /// go
-  static const IconData go = FileIconsData(0xea5e);
-
-  /// godot
-  static const IconData godot = FileIconsData(0xea5f);
-
-  /// golo
-  static const IconData golo = FileIconsData(0xea60);
+  static const gnuplot = FileIconsData(0xeb5e);
 
   /// go_old
-  static const IconData go_old = FileIconsData(0xea61);
+  static const go_old = FileIconsData(0xeb5f);
+
+  /// go
+  static const go = FileIconsData(0xeb60);
+
+  /// godot
+  static const godot = FileIconsData(0xeb61);
+
+  /// golo
+  static const golo = FileIconsData(0xeb62);
 
   /// goreleaser
-  static const IconData goreleaser = FileIconsData(0xea62);
+  static const goreleaser = FileIconsData(0xeb63);
 
   /// gosu
-  static const IconData gosu = FileIconsData(0xea63);
+  static const gosu = FileIconsData(0xeb64);
 
   /// gradle
-  static const IconData gradle = FileIconsData(0xea64);
+  static const gradle = FileIconsData(0xeb65);
 
   /// grapher
-  static const IconData grapher = FileIconsData(0xea65);
+  static const grapher = FileIconsData(0xeb66);
 
   /// graphite
-  static const IconData graphite = FileIconsData(0xea66);
-
-  /// graphql
-  static const IconData graphql = FileIconsData(0xea67);
+  static const graphite = FileIconsData(0xeb67);
 
   /// graphql_codegenerator
-  static const IconData graphql_codegenerator = FileIconsData(0xea68);
+  static const graphql_codegenerator = FileIconsData(0xeb68);
+
+  /// graphql
+  static const graphql = FileIconsData(0xeb69);
 
   /// graphviz
-  static const IconData graphviz = FileIconsData(0xea69);
+  static const graphviz = FileIconsData(0xeb6a);
 
   /// gravit_designer
-  static const IconData gravit_designer = FileIconsData(0xea6a);
+  static const gravit_designer = FileIconsData(0xeb6b);
 
   /// greenkeeper
-  static const IconData greenkeeper = FileIconsData(0xea6b);
+  static const greenkeeper = FileIconsData(0xeb6c);
 
   /// gridsome
-  static const IconData gridsome = FileIconsData(0xea6c);
+  static const gridsome = FileIconsData(0xeb6d);
 
   /// groovy
-  static const IconData groovy = FileIconsData(0xea6d);
+  static const groovy = FileIconsData(0xeb6e);
 
   /// grunt
-  static const IconData grunt = FileIconsData(0xea6e);
+  static const grunt = FileIconsData(0xeb6f);
 
   /// gulp
-  static const IconData gulp = FileIconsData(0xea6f);
+  static const gulp = FileIconsData(0xeb70);
 
   /// hack
-  static const IconData hack = FileIconsData(0xea70);
+  static const hack = FileIconsData(0xeb71);
 
   /// haml
-  static const IconData haml = FileIconsData(0xea71);
+  static const haml = FileIconsData(0xeb72);
 
   /// harbour
-  static const IconData harbour = FileIconsData(0xea72);
+  static const harbour = FileIconsData(0xeb73);
 
   /// hashicorp
-  static const IconData hashicorp = FileIconsData(0xea73);
+  static const hashicorp = FileIconsData(0xeb74);
 
   /// haxe
-  static const IconData haxe = FileIconsData(0xea74);
+  static const haxe = FileIconsData(0xeb75);
 
   /// haxedevelop
-  static const IconData haxedevelop = FileIconsData(0xea75);
+  static const haxedevelop = FileIconsData(0xeb76);
 
   /// helix
-  static const IconData helix = FileIconsData(0xea76);
+  static const helix = FileIconsData(0xeb77);
 
   /// hewlettpackard
-  static const IconData hewlettpackard = FileIconsData(0xea77);
+  static const hewlettpackard = FileIconsData(0xeb78);
 
   /// hie
-  static const IconData hie = FileIconsData(0xea78);
+  static const hie = FileIconsData(0xeb79);
 
   /// hitachi
-  static const IconData hitachi = FileIconsData(0xea79);
+  static const hitachi = FileIconsData(0xeb7a);
 
   /// hjson
-  static const IconData hjson = FileIconsData(0xea7a);
+  static const hjson = FileIconsData(0xeb7b);
 
   /// homebrew
-  static const IconData homebrew = FileIconsData(0xea7b);
+  static const homebrew = FileIconsData(0xeb7c);
 
   /// hop
-  static const IconData hop = FileIconsData(0xea7c);
+  static const hop = FileIconsData(0xeb7d);
 
   /// hoplon
-  static const IconData hoplon = FileIconsData(0xea7d);
+  static const hoplon = FileIconsData(0xeb7e);
 
   /// houdini
-  static const IconData houdini = FileIconsData(0xea7e);
+  static const houdini = FileIconsData(0xeb7f);
 
   /// houndci
-  static const IconData houndci = FileIconsData(0xea7f);
+  static const houndci = FileIconsData(0xeb80);
 
   /// hugo
-  static const IconData hugo = FileIconsData(0xea80);
+  static const hugo = FileIconsData(0xeb81);
 
   /// husky
-  static const IconData husky = FileIconsData(0xea81);
+  static const husky = FileIconsData(0xeb82);
 
   /// hy
-  static const IconData hy = FileIconsData(0xea82);
+  static const hy = FileIconsData(0xeb83);
 
   /// hygen
-  static const IconData hygen = FileIconsData(0xea83);
+  static const hygen = FileIconsData(0xeb84);
 
   /// hyper
-  static const IconData hyper = FileIconsData(0xea84);
+  static const hyper = FileIconsData(0xeb85);
 
   /// icomoon
-  static const IconData icomoon = FileIconsData(0xea85);
+  static const icomoon = FileIconsData(0xeb86);
 
   /// icu
-  static const IconData icu = FileIconsData(0xea86);
+  static const icu = FileIconsData(0xeb87);
 
   /// idl
-  static const IconData idl = FileIconsData(0xea87);
+  static const idl = FileIconsData(0xeb88);
 
   /// idris
-  static const IconData idris = FileIconsData(0xea88);
+  static const idris = FileIconsData(0xeb89);
 
   /// igor_pro
-  static const IconData igor_pro = FileIconsData(0xea89);
+  static const igor_pro = FileIconsData(0xeb8a);
 
   /// illumos
-  static const IconData illumos = FileIconsData(0xea8a);
+  static const illumos = FileIconsData(0xeb8b);
 
   /// image
-  static const IconData image = FileIconsData(0xea8b);
-
-  /// imba
-  static const IconData imba = FileIconsData(0xea8c);
+  static const image = FileIconsData(0xeb8c);
 
   /// imba_alt
-  static const IconData imba_alt = FileIconsData(0xea8d);
+  static const imba_alt = FileIconsData(0xeb8d);
 
   /// imba_old
-  static const IconData imba_old = FileIconsData(0xea8e);
+  static const imba_old = FileIconsData(0xeb8e);
+
+  /// imba
+  static const imba = FileIconsData(0xeb8f);
 
   /// imgbot
-  static const IconData imgbot = FileIconsData(0xea8f);
+  static const imgbot = FileIconsData(0xeb90);
 
   /// influxdata
-  static const IconData influxdata = FileIconsData(0xea90);
+  static const influxdata = FileIconsData(0xeb91);
 
   /// inform7
-  static const IconData inform7 = FileIconsData(0xea91);
+  static const inform7 = FileIconsData(0xeb92);
 
   /// ink
-  static const IconData ink = FileIconsData(0xea92);
+  static const ink = FileIconsData(0xeb93);
 
   /// inkscape
-  static const IconData inkscape = FileIconsData(0xea93);
+  static const inkscape = FileIconsData(0xeb94);
 
   /// innosetup
-  static const IconData innosetup = FileIconsData(0xea94);
+  static const innosetup = FileIconsData(0xeb95);
 
   /// intel
-  static const IconData intel = FileIconsData(0xea95);
+  static const intel = FileIconsData(0xeb96);
 
   /// io
-  static const IconData io = FileIconsData(0xea96);
+  static const io = FileIconsData(0xeb97);
+
+  /// ioke
+  static const ioke = FileIconsData(0xeb98);
 
   /// ionic_project
-  static const IconData ionic_project = FileIconsData(0xea9d);
+  static const ionic_project = FileIconsData(0xeb99);
 
   /// isabelle
-  static const IconData isabelle = FileIconsData(0xea9e);
+  static const isabelle = FileIconsData(0xeb9a);
 
   /// istanbul
-  static const IconData istanbul = FileIconsData(0xea9f);
+  static const istanbul = FileIconsData(0xeb9b);
 
   /// j
-  static const IconData j = FileIconsData(0xeaa0);
+  static const j = FileIconsData(0xeb9c);
 
   /// jade
-  static const IconData jade = FileIconsData(0xeaa1);
+  static const jade = FileIconsData(0xeb9d);
 
   /// jakefile
-  static const IconData jakefile = FileIconsData(0xeaa2);
+  static const jakefile = FileIconsData(0xeb9e);
 
   /// janet
-  static const IconData janet = FileIconsData(0xeaa3);
+  static const janet = FileIconsData(0xeb9f);
 
   /// jasmine
-  static const IconData jasmine = FileIconsData(0xeaa4);
+  static const jasmine = FileIconsData(0xeba0);
 
   /// jenkins
-  static const IconData jenkins = FileIconsData(0xeaa5);
+  static const jenkins = FileIconsData(0xeba1);
 
   /// jest
-  static const IconData jest = FileIconsData(0xeaa6);
+  static const jest = FileIconsData(0xeba2);
 
   /// jinja
-  static const IconData jinja = FileIconsData(0xeaa7);
+  static const jinja = FileIconsData(0xeba3);
 
   /// jison
-  static const IconData jison = FileIconsData(0xeaa8);
+  static const jison = FileIconsData(0xeba4);
 
   /// jolie
-  static const IconData jolie = FileIconsData(0xeaa9);
+  static const jolie = FileIconsData(0xeba5);
 
   /// jscpd
-  static const IconData jscpd = FileIconsData(0xeaaa);
+  static const jscpd = FileIconsData(0xeba6);
 
   /// json_1
-  static const IconData json_1 = FileIconsData(0xeaab);
+  static const json_1 = FileIconsData(0xeba7);
 
   /// json_2
-  static const IconData json_2 = FileIconsData(0xeaac);
-
-  /// json5
-  static const IconData json5 = FileIconsData(0xeaad);
+  static const json_2 = FileIconsData(0xeba8);
 
   /// json_ld1
-  static const IconData json_ld1 = FileIconsData(0xeaae);
+  static const json_ld1 = FileIconsData(0xeba9);
 
   /// json_ld2
-  static const IconData json_ld2 = FileIconsData(0xeaaf);
+  static const json_ld2 = FileIconsData(0xebaa);
+
+  /// json5
+  static const json5 = FileIconsData(0xebab);
 
   /// jsonnet
-  static const IconData jsonnet = FileIconsData(0xeab0);
-
-  /// jsx
-  static const IconData jsx = FileIconsData(0xeab1);
+  static const jsonnet = FileIconsData(0xebac);
 
   /// jsx_alt
-  static const IconData jsx_alt = FileIconsData(0xeab2);
+  static const jsx_alt = FileIconsData(0xebad);
 
   /// jsx_atom
-  static const IconData jsx_atom = FileIconsData(0xeab3);
+  static const jsx_atom = FileIconsData(0xebae);
+
+  /// jsx
+  static const jsx = FileIconsData(0xebaf);
 
   /// julia
-  static const IconData julia = FileIconsData(0xeab4);
+  static const julia = FileIconsData(0xebb0);
 
   /// junos
-  static const IconData junos = FileIconsData(0xeab5);
+  static const junos = FileIconsData(0xebb1);
 
   /// jupyter
-  static const IconData jupyter = FileIconsData(0xeab6);
+  static const jupyter = FileIconsData(0xebb2);
 
   /// kaitai
-  static const IconData kaitai = FileIconsData(0xeab7);
+  static const kaitai = FileIconsData(0xebb3);
 
   /// karma
-  static const IconData karma = FileIconsData(0xeab8);
+  static const karma = FileIconsData(0xebb4);
 
   /// keybase
-  static const IconData keybase = FileIconsData(0xeab9);
+  static const keybase = FileIconsData(0xebb5);
 
   /// keynote
-  static const IconData keynote = FileIconsData(0xeaba);
+  static const keynote = FileIconsData(0xebb6);
 
   /// khronos
-  static const IconData khronos = FileIconsData(0xeabb);
+  static const khronos = FileIconsData(0xebb7);
 
   /// kibo
-  static const IconData kibo = FileIconsData(0xeabc);
+  static const kibo = FileIconsData(0xebb8);
 
   /// kicad
-  static const IconData kicad = FileIconsData(0xeabd);
+  static const kicad = FileIconsData(0xebb9);
 
   /// kitchenci
-  static const IconData kitchenci = FileIconsData(0xeabe);
+  static const kitchenci = FileIconsData(0xebba);
 
   /// kivy
-  static const IconData kivy = FileIconsData(0xeabf);
+  static const kivy = FileIconsData(0xebbb);
 
   /// knime
-  static const IconData knime = FileIconsData(0xeac0);
+  static const knime = FileIconsData(0xebbc);
 
   /// knockout
-  static const IconData knockout = FileIconsData(0xeac1);
+  static const knockout = FileIconsData(0xebbd);
 
   /// kos
-  static const IconData kos = FileIconsData(0xeac2);
+  static const kos = FileIconsData(0xebbe);
 
   /// kotlin
-  static const IconData kotlin = FileIconsData(0xeac3);
+  static const kotlin = FileIconsData(0xebbf);
 
   /// krl
-  static const IconData krl = FileIconsData(0xeac4);
+  static const krl = FileIconsData(0xebc0);
 
   /// kubernetes
-  static const IconData kubernetes = FileIconsData(0xeac5);
-
-  /// kusto
-  static const IconData kusto = FileIconsData(0xeac6);
+  static const kubernetes = FileIconsData(0xebc1);
 
   /// kusto_alt
-  static const IconData kusto_alt = FileIconsData(0xeac7);
+  static const kusto_alt = FileIconsData(0xebc2);
+
+  /// kusto
+  static const kusto = FileIconsData(0xebc3);
 
   /// kx
-  static const IconData kx = FileIconsData(0xeac8);
+  static const kx = FileIconsData(0xebc4);
 
   /// labview
-  static const IconData labview = FileIconsData(0xeac9);
+  static const labview = FileIconsData(0xebc5);
 
   /// laravel
-  static const IconData laravel = FileIconsData(0xeaca);
+  static const laravel = FileIconsData(0xebc6);
 
   /// lark
-  static const IconData lark = FileIconsData(0xeacb);
+  static const lark = FileIconsData(0xebc7);
 
   /// lasso
-  static const IconData lasso = FileIconsData(0xeacc);
+  static const lasso = FileIconsData(0xebc8);
 
   /// latex
-  static const IconData latex = FileIconsData(0xeacd);
+  static const latex = FileIconsData(0xebc9);
 
   /// latino
-  static const IconData latino = FileIconsData(0xeace);
+  static const latino = FileIconsData(0xebca);
 
   /// leaflet
-  static const IconData leaflet = FileIconsData(0xeacf);
+  static const leaflet = FileIconsData(0xebcb);
 
   /// lean
-  static const IconData lean = FileIconsData(0xead0);
-
-  /// lefthook
-  static const IconData lefthook = FileIconsData(0xead1);
+  static const lean = FileIconsData(0xebcc);
 
   /// lefthook_alt
-  static const IconData lefthook_alt = FileIconsData(0xead2);
+  static const lefthook_alt = FileIconsData(0xebcd);
+
+  /// lefthook
+  static const lefthook = FileIconsData(0xebce);
 
   /// leiningen
-  static const IconData leiningen = FileIconsData(0xead3);
+  static const leiningen = FileIconsData(0xebcf);
 
   /// lektor
-  static const IconData lektor = FileIconsData(0xead4);
+  static const lektor = FileIconsData(0xebd0);
 
   /// lerna
-  static const IconData lerna = FileIconsData(0xead5);
-
-  /// lex
-  static const IconData lex = FileIconsData(0xead6);
+  static const lerna = FileIconsData(0xebd1);
 
   /// lex_alt
-  static const IconData lex_alt = FileIconsData(0xead7);
+  static const lex_alt = FileIconsData(0xebd2);
+
+  /// lex
+  static const lex = FileIconsData(0xebd3);
 
   /// lfe
-  static const IconData lfe = FileIconsData(0xead8);
+  static const lfe = FileIconsData(0xebd4);
 
   /// lgtm
-  static const IconData lgtm = FileIconsData(0xead9);
+  static const lgtm = FileIconsData(0xebd5);
 
   /// libuv
-  static const IconData libuv = FileIconsData(0xeada);
+  static const libuv = FileIconsData(0xebd6);
 
   /// lighthouse
-  static const IconData lighthouse = FileIconsData(0xeadb);
+  static const lighthouse = FileIconsData(0xebd7);
 
   /// lightwave
-  static const IconData lightwave = FileIconsData(0xeadc);
+  static const lightwave = FileIconsData(0xebd8);
 
   /// lilypond
-  static const IconData lilypond = FileIconsData(0xeadd);
+  static const lilypond = FileIconsData(0xebd9);
 
   /// lime
-  static const IconData lime = FileIconsData(0xeade);
+  static const lime = FileIconsData(0xebda);
 
   /// linqpad
-  static const IconData linqpad = FileIconsData(0xeadf);
+  static const linqpad = FileIconsData(0xebdb);
 
   /// lisp
-  static const IconData lisp = FileIconsData(0xeae0);
+  static const lisp = FileIconsData(0xebdc);
 
   /// livescript
-  static const IconData livescript = FileIconsData(0xeae1);
+  static const livescript = FileIconsData(0xebdd);
 
   /// llvm
-  static const IconData llvm = FileIconsData(0xeae2);
+  static const llvm = FileIconsData(0xebde);
 
   /// logtalk
-  static const IconData logtalk = FileIconsData(0xeae3);
+  static const logtalk = FileIconsData(0xebdf);
 
   /// lolcode
-  static const IconData lolcode = FileIconsData(0xeae4);
+  static const lolcode = FileIconsData(0xebe0);
 
   /// lookml
-  static const IconData lookml = FileIconsData(0xeae5);
+  static const lookml = FileIconsData(0xebe1);
 
   /// lsl
-  static const IconData lsl = FileIconsData(0xeae6);
+  static const lsl = FileIconsData(0xebe2);
 
   /// lua
-  static const IconData lua = FileIconsData(0xeae7);
+  static const lua = FileIconsData(0xebe3);
 
   /// macaulay2
-  static const IconData macaulay2 = FileIconsData(0xeae8);
+  static const macaulay2 = FileIconsData(0xebe4);
 
   /// macvim
-  static const IconData macvim = FileIconsData(0xeae9);
+  static const macvim = FileIconsData(0xebe5);
 
   /// magit
-  static const IconData magit = FileIconsData(0xeaea);
+  static const magit = FileIconsData(0xebe6);
 
   /// mako
-  static const IconData mako = FileIconsData(0xeaeb);
+  static const mako = FileIconsData(0xebe7);
 
   /// manjaro
-  static const IconData manjaro = FileIconsData(0xeaec);
+  static const manjaro = FileIconsData(0xebe8);
 
   /// manpage
-  static const IconData manpage = FileIconsData(0xeaed);
+  static const manpage = FileIconsData(0xebe9);
 
   /// mapbox
-  static const IconData mapbox = FileIconsData(0xeaee);
+  static const mapbox = FileIconsData(0xebea);
 
   /// markdownlint
-  static const IconData markdownlint = FileIconsData(0xeaef);
+  static const markdownlint = FileIconsData(0xebeb);
 
   /// marko
-  static const IconData marko = FileIconsData(0xeaf0);
+  static const marko = FileIconsData(0xebec);
 
   /// mathematica
-  static const IconData mathematica = FileIconsData(0xeaf1);
+  static const mathematica = FileIconsData(0xebed);
 
   /// mathjax
-  static const IconData mathjax = FileIconsData(0xeaf2);
+  static const mathjax = FileIconsData(0xebee);
 
   /// matlab
-  static const IconData matlab = FileIconsData(0xeaf3);
+  static const matlab = FileIconsData(0xebef);
 
   /// matroska
-  static const IconData matroska = FileIconsData(0xeaf4);
+  static const matroska = FileIconsData(0xebf0);
 
   /// max
-  static const IconData max = FileIconsData(0xeaf5);
+  static const max = FileIconsData(0xebf1);
 
   /// maya
-  static const IconData maya = FileIconsData(0xeaf6);
+  static const maya = FileIconsData(0xebf2);
 
   /// mdx
-  static const IconData mdx = FileIconsData(0xeaf7);
+  static const mdx = FileIconsData(0xebf3);
 
   /// mediawiki
-  static const IconData mediawiki = FileIconsData(0xeaf8);
+  static const mediawiki = FileIconsData(0xebf4);
 
   /// melpa
-  static const IconData melpa = FileIconsData(0xeaf9);
+  static const melpa = FileIconsData(0xebf5);
 
   /// mercurial
-  static const IconData mercurial = FileIconsData(0xeafa);
+  static const mercurial = FileIconsData(0xebf6);
 
   /// mercury
-  static const IconData mercury = FileIconsData(0xeafb);
+  static const mercury = FileIconsData(0xebf7);
 
   /// mermaid
-  static const IconData mermaid = FileIconsData(0xeafc);
-
-  /// meson
-  static const IconData meson = FileIconsData(0xeafd);
+  static const mermaid = FileIconsData(0xebf8);
 
   /// meson_old
-  static const IconData meson_old = FileIconsData(0xeafe);
+  static const meson_old = FileIconsData(0xebf9);
+
+  /// meson
+  static const meson = FileIconsData(0xebfa);
 
   /// metal
-  static const IconData metal = FileIconsData(0xeaff);
+  static const metal = FileIconsData(0xebfb);
 
   /// metapost
-  static const IconData metapost = FileIconsData(0xeb00);
+  static const metapost = FileIconsData(0xebfc);
 
   /// meteor
-  static const IconData meteor = FileIconsData(0xeb01);
+  static const meteor = FileIconsData(0xebfd);
 
   /// microsoft_access
-  static const IconData microsoft_access = FileIconsData(0xeb02);
+  static const microsoft_access = FileIconsData(0xebfe);
 
   /// microsoft_excel
-  static const IconData microsoft_excel = FileIconsData(0xeb03);
+  static const microsoft_excel = FileIconsData(0xebff);
 
   /// microsoft_infopath
-  static const IconData microsoft_infopath = FileIconsData(0xeb04);
+  static const microsoft_infopath = FileIconsData(0xec00);
 
   /// microsoft_lync
-  static const IconData microsoft_lync = FileIconsData(0xeb05);
+  static const microsoft_lync = FileIconsData(0xec01);
 
   /// microsoft_onenote
-  static const IconData microsoft_onenote = FileIconsData(0xeb06);
+  static const microsoft_onenote = FileIconsData(0xec02);
 
   /// microsoft_outlook
-  static const IconData microsoft_outlook = FileIconsData(0xeb07);
+  static const microsoft_outlook = FileIconsData(0xec03);
 
   /// microsoft_powerpoint
-  static const IconData microsoft_powerpoint = FileIconsData(0xeb08);
+  static const microsoft_powerpoint = FileIconsData(0xec04);
 
   /// microsoft_project
-  static const IconData microsoft_project = FileIconsData(0xeb09);
+  static const microsoft_project = FileIconsData(0xec05);
 
   /// microsoft_publisher
-  static const IconData microsoft_publisher = FileIconsData(0xeb0a);
+  static const microsoft_publisher = FileIconsData(0xec06);
 
   /// microsoft_visio
-  static const IconData microsoft_visio = FileIconsData(0xeb0b);
+  static const microsoft_visio = FileIconsData(0xec07);
 
   /// microsoft_word
-  static const IconData microsoft_word = FileIconsData(0xeb0c);
+  static const microsoft_word = FileIconsData(0xec08);
 
   /// minecraft
-  static const IconData minecraft = FileIconsData(0xeb0d);
+  static const minecraft = FileIconsData(0xec09);
 
   /// minizinc
-  static const IconData minizinc = FileIconsData(0xeb0e);
+  static const minizinc = FileIconsData(0xec0a);
 
   /// mint
-  static const IconData mint = FileIconsData(0xeb0f);
+  static const mint = FileIconsData(0xec0b);
 
   /// mirah
-  static const IconData mirah = FileIconsData(0xeb10);
+  static const mirah = FileIconsData(0xec0c);
 
   /// miranda
-  static const IconData miranda = FileIconsData(0xeb11);
+  static const miranda = FileIconsData(0xec0d);
 
   /// mirc
-  static const IconData mirc = FileIconsData(0xeb12);
+  static const mirc = FileIconsData(0xec0e);
 
-  /// mixin_icon
-  static const IconData mixin_icon = FileIconsData(0xeb13);
+  /// mixin
+  static const mixin_icon = FileIconsData(0xec0f);
 
   /// mjml
-  static const IconData mjml = FileIconsData(0xeb14);
+  static const mjml = FileIconsData(0xec10);
 
   /// mocha
-  static const IconData mocha = FileIconsData(0xeb15);
+  static const mocha = FileIconsData(0xec11);
 
   /// modelica
-  static const IconData modelica = FileIconsData(0xeb16);
+  static const modelica = FileIconsData(0xec12);
 
   /// modernweb
-  static const IconData modernweb = FileIconsData(0xeb17);
+  static const modernweb = FileIconsData(0xec13);
 
   /// modo
-  static const IconData modo = FileIconsData(0xeb18);
+  static const modo = FileIconsData(0xec14);
 
   /// modula_2
-  static const IconData modula_2 = FileIconsData(0xeb19);
+  static const modula_2 = FileIconsData(0xec15);
 
   /// modula_3
-  static const IconData modula_3 = FileIconsData(0xeb1a);
+  static const modula_3 = FileIconsData(0xec16);
 
   /// moho
-  static const IconData moho = FileIconsData(0xeb1b);
+  static const moho = FileIconsData(0xec17);
 
   /// moleculer
-  static const IconData moleculer = FileIconsData(0xeb1c);
-
-  /// moment
-  static const IconData moment = FileIconsData(0xeb1d);
+  static const moleculer = FileIconsData(0xec18);
 
   /// moment_timezone
-  static const IconData moment_timezone = FileIconsData(0xeb1e);
+  static const moment_timezone = FileIconsData(0xec19);
+
+  /// moment
+  static const moment = FileIconsData(0xec1a);
 
   /// monkey
-  static const IconData monkey = FileIconsData(0xeb1f);
+  static const monkey = FileIconsData(0xec1b);
 
   /// mono
-  static const IconData mono = FileIconsData(0xeb20);
+  static const mono = FileIconsData(0xec1c);
 
   /// monotone
-  static const IconData monotone = FileIconsData(0xeb21);
+  static const monotone = FileIconsData(0xec1d);
 
   /// motorola
-  static const IconData motorola = FileIconsData(0xeb22);
+  static const motorola = FileIconsData(0xec1e);
 
   /// moustache
-  static const IconData moustache = FileIconsData(0xeb23);
+  static const moustache = FileIconsData(0xec1f);
 
   /// mruby
-  static const IconData mruby = FileIconsData(0xeb24);
+  static const mruby = FileIconsData(0xec20);
 
   /// ms_dos
-  static const IconData ms_dos = FileIconsData(0xeb25);
+  static const ms_dos = FileIconsData(0xec21);
 
   /// mupad
-  static const IconData mupad = FileIconsData(0xeb26);
+  static const mupad = FileIconsData(0xec22);
 
   /// nano
-  static const IconData nano = FileIconsData(0xeb27);
+  static const nano = FileIconsData(0xec23);
 
   /// nanoc
-  static const IconData nanoc = FileIconsData(0xeb28);
+  static const nanoc = FileIconsData(0xec24);
 
   /// nant
-  static const IconData nant = FileIconsData(0xeb29);
+  static const nant = FileIconsData(0xec25);
 
   /// nasm
-  static const IconData nasm = FileIconsData(0xeb2a);
+  static const nasm = FileIconsData(0xec26);
 
   /// ndepend
-  static const IconData ndepend = FileIconsData(0xeb2b);
+  static const ndepend = FileIconsData(0xec27);
 
   /// neko
-  static const IconData neko = FileIconsData(0xeb2c);
+  static const neko = FileIconsData(0xec28);
 
   /// nemerle
-  static const IconData nemerle = FileIconsData(0xeb2d);
+  static const nemerle = FileIconsData(0xec29);
 
   /// neo4j
-  static const IconData neo4j = FileIconsData(0xeb2e);
+  static const neo4j = FileIconsData(0xec2a);
 
   /// neon
-  static const IconData neon = FileIconsData(0xeb2f);
+  static const neon = FileIconsData(0xec2b);
 
   /// nessus
-  static const IconData nessus = FileIconsData(0xeb30);
+  static const nessus = FileIconsData(0xec2c);
 
   /// nestjs
-  static const IconData nestjs = FileIconsData(0xeb31);
+  static const nestjs = FileIconsData(0xec2d);
 
   /// netlify
-  static const IconData netlify = FileIconsData(0xeb32);
+  static const netlify = FileIconsData(0xec2e);
 
   /// netlinx
-  static const IconData netlinx = FileIconsData(0xeb33);
+  static const netlinx = FileIconsData(0xec2f);
 
   /// netlogo
-  static const IconData netlogo = FileIconsData(0xeb34);
+  static const netlogo = FileIconsData(0xec30);
 
   /// new_relic
-  static const IconData new_relic = FileIconsData(0xeb35);
+  static const new_relic = FileIconsData(0xec31);
 
   /// nextflow
-  static const IconData nextflow = FileIconsData(0xeb36);
+  static const nextflow = FileIconsData(0xec32);
 
   /// nextjs
-  static const IconData nextjs = FileIconsData(0xeb37);
+  static const nextjs = FileIconsData(0xec33);
 
   /// nginx
-  static const IconData nginx = FileIconsData(0xeb38);
+  static const nginx = FileIconsData(0xec34);
 
   /// ngrx
-  static const IconData ngrx = FileIconsData(0xeb39);
+  static const ngrx = FileIconsData(0xec35);
 
   /// nib
-  static const IconData nib = FileIconsData(0xeb3a);
+  static const nib = FileIconsData(0xec36);
 
   /// nickle
-  static const IconData nickle = FileIconsData(0xeb3b);
+  static const nickle = FileIconsData(0xec37);
 
   /// nightwatch
-  static const IconData nightwatch = FileIconsData(0xeb3c);
+  static const nightwatch = FileIconsData(0xec38);
 
   /// nimble
-  static const IconData nimble = FileIconsData(0xeb3d);
+  static const nimble = FileIconsData(0xec39);
 
   /// nimrod
-  static const IconData nimrod = FileIconsData(0xeb3e);
+  static const nimrod = FileIconsData(0xec3a);
 
   /// nintendo64
-  static const IconData nintendo64 = FileIconsData(0xeb3f);
+  static const nintendo64 = FileIconsData(0xec3b);
 
   /// nit
-  static const IconData nit = FileIconsData(0xeb40);
+  static const nit = FileIconsData(0xec3c);
 
   /// nix
-  static const IconData nix = FileIconsData(0xeb41);
+  static const nix = FileIconsData(0xec3d);
 
   /// nmap
-  static const IconData nmap = FileIconsData(0xeb42);
+  static const nmap = FileIconsData(0xec3e);
 
   /// nodemon
-  static const IconData nodemon = FileIconsData(0xeb43);
+  static const nodemon = FileIconsData(0xec3f);
 
   /// nokogiri
-  static const IconData nokogiri = FileIconsData(0xeb44);
+  static const nokogiri = FileIconsData(0xec40);
 
   /// nomad
-  static const IconData nomad = FileIconsData(0xeb45);
+  static const nomad = FileIconsData(0xec41);
 
   /// noon
-  static const IconData noon = FileIconsData(0xeb46);
+  static const noon = FileIconsData(0xec42);
 
   /// normalise
-  static const IconData normalise = FileIconsData(0xeb47);
-
-  /// npm
-  static const IconData npm = FileIconsData(0xeb48);
+  static const normalise = FileIconsData(0xec43);
 
   /// npm_old
-  static const IconData npm_old = FileIconsData(0xeb49);
+  static const npm_old = FileIconsData(0xec44);
 
-  /// nsis
-  static const IconData nsis = FileIconsData(0xeb4a);
+  /// npm
+  static const npm = FileIconsData(0xec45);
 
   /// nsis_old
-  static const IconData nsis_old = FileIconsData(0xeb4b);
+  static const nsis_old = FileIconsData(0xec46);
 
-  /// nsri
-  static const IconData nsri = FileIconsData(0xeb4c);
+  /// nsis
+  static const nsis = FileIconsData(0xec47);
 
   /// nsri_alt
-  static const IconData nsri_alt = FileIconsData(0xeb4d);
+  static const nsri_alt = FileIconsData(0xec48);
+
+  /// nsri
+  static const nsri = FileIconsData(0xec49);
 
   /// nuclide
-  static const IconData nuclide = FileIconsData(0xeb4e);
+  static const nuclide = FileIconsData(0xec4a);
 
   /// nuget
-  static const IconData nuget = FileIconsData(0xeb4f);
-
-  /// numpy
-  static const IconData numpy = FileIconsData(0xeb50);
+  static const nuget = FileIconsData(0xec4b);
 
   /// numpy_old
-  static const IconData numpy_old = FileIconsData(0xeb51);
+  static const numpy_old = FileIconsData(0xec4c);
+
+  /// numpy
+  static const numpy = FileIconsData(0xec4d);
 
   /// nunjucks
-  static const IconData nunjucks = FileIconsData(0xeb52);
+  static const nunjucks = FileIconsData(0xec4e);
 
   /// nuxt
-  static const IconData nuxt = FileIconsData(0xeb53);
+  static const nuxt = FileIconsData(0xec4f);
 
   /// nvidia
-  static const IconData nvidia = FileIconsData(0xeb54);
+  static const nvidia = FileIconsData(0xec50);
 
   /// nwscript
-  static const IconData nwscript = FileIconsData(0xeb55);
+  static const nwscript = FileIconsData(0xec51);
 
   /// nx
-  static const IconData nx = FileIconsData(0xeb56);
+  static const nx = FileIconsData(0xec52);
 
   /// nxc
-  static const IconData nxc = FileIconsData(0xeb57);
+  static const nxc = FileIconsData(0xec53);
 
   /// oberon
-  static const IconData oberon = FileIconsData(0xeb58);
+  static const oberon = FileIconsData(0xec54);
 
   /// objective_j
-  static const IconData objective_j = FileIconsData(0xeb59);
+  static const objective_j = FileIconsData(0xec55);
 
   /// ocaml
-  static const IconData ocaml = FileIconsData(0xeb5a);
+  static const ocaml = FileIconsData(0xec56);
 
   /// octave
-  static const IconData octave = FileIconsData(0xeb5b);
+  static const octave = FileIconsData(0xec57);
 
   /// odin
-  static const IconData odin = FileIconsData(0xeb5c);
+  static const odin = FileIconsData(0xec58);
 
   /// ogone
-  static const IconData ogone = FileIconsData(0xeb5d);
+  static const ogone = FileIconsData(0xec59);
 
   /// omnigraffle
-  static const IconData omnigraffle = FileIconsData(0xeb5e);
+  static const omnigraffle = FileIconsData(0xec5a);
 
   /// ooc
-  static const IconData ooc = FileIconsData(0xeb5f);
+  static const ooc = FileIconsData(0xec5b);
 
   /// opa
-  static const IconData opa = FileIconsData(0xeb60);
+  static const opa = FileIconsData(0xec5c);
 
   /// openapi
-  static const IconData openapi = FileIconsData(0xeb61);
-
-  /// openbsd
-  static const IconData openbsd = FileIconsData(0xeb62);
+  static const openapi = FileIconsData(0xec5d);
 
   /// openbsd_alt
-  static const IconData openbsd_alt = FileIconsData(0xeb63);
+  static const openbsd_alt = FileIconsData(0xec5e);
+
+  /// openbsd
+  static const openbsd = FileIconsData(0xec5f);
 
   /// opencl
-  static const IconData opencl = FileIconsData(0xeb64);
+  static const opencl = FileIconsData(0xec60);
 
   /// opencv
-  static const IconData opencv = FileIconsData(0xeb65);
+  static const opencv = FileIconsData(0xec61);
 
   /// openexr
-  static const IconData openexr = FileIconsData(0xeb66);
+  static const openexr = FileIconsData(0xec62);
 
   /// opengl
-  static const IconData opengl = FileIconsData(0xeb67);
+  static const opengl = FileIconsData(0xec63);
 
   /// openindiana
-  static const IconData openindiana = FileIconsData(0xeb68);
+  static const openindiana = FileIconsData(0xec64);
 
   /// openoffice
-  static const IconData openoffice = FileIconsData(0xeb69);
+  static const openoffice = FileIconsData(0xec65);
 
   /// openpolicyagent
-  static const IconData openpolicyagent = FileIconsData(0xeb6a);
+  static const openpolicyagent = FileIconsData(0xec66);
 
   /// openscad
-  static const IconData openscad = FileIconsData(0xeb6b);
+  static const openscad = FileIconsData(0xec67);
 
   /// opensolaris
-  static const IconData opensolaris = FileIconsData(0xeb6c);
+  static const opensolaris = FileIconsData(0xec68);
 
   /// openstack
-  static const IconData openstack = FileIconsData(0xeb6d);
+  static const openstack = FileIconsData(0xec69);
 
   /// openvms
-  static const IconData openvms = FileIconsData(0xeb6e);
+  static const openvms = FileIconsData(0xec6a);
 
   /// openvpn
-  static const IconData openvpn = FileIconsData(0xeb6f);
+  static const openvpn = FileIconsData(0xec6b);
 
   /// openzfs
-  static const IconData openzfs = FileIconsData(0xeb70);
+  static const openzfs = FileIconsData(0xec6c);
 
   /// org_mode
-  static const IconData org_mode = FileIconsData(0xeb71);
+  static const org_mode = FileIconsData(0xec6d);
 
   /// os2
-  static const IconData os2 = FileIconsData(0xeb72);
+  static const os2 = FileIconsData(0xec6e);
 
   /// owl
-  static const IconData owl = FileIconsData(0xeb73);
+  static const owl = FileIconsData(0xec6f);
 
   /// ox
-  static const IconData ox = FileIconsData(0xeb74);
+  static const ox = FileIconsData(0xec70);
 
   /// oxygene
-  static const IconData oxygene = FileIconsData(0xeb75);
+  static const oxygene = FileIconsData(0xec71);
 
   /// oz
-  static const IconData oz = FileIconsData(0xeb76);
+  static const oz = FileIconsData(0xec72);
 
   /// p4
-  static const IconData p4 = FileIconsData(0xeb77);
+  static const p4 = FileIconsData(0xec73);
 
   /// pan
-  static const IconData pan = FileIconsData(0xeb78);
+  static const pan = FileIconsData(0xec74);
 
   /// papyrus
-  static const IconData papyrus = FileIconsData(0xeb79);
+  static const papyrus = FileIconsData(0xec75);
 
   /// parrot
-  static const IconData parrot = FileIconsData(0xeb7a);
+  static const parrot = FileIconsData(0xec76);
 
   /// pascal
-  static const IconData pascal = FileIconsData(0xeb7b);
+  static const pascal = FileIconsData(0xec77);
 
   /// patch
-  static const IconData patch = FileIconsData(0xeb7c);
+  static const patch = FileIconsData(0xec78);
 
   /// patreon
-  static const IconData patreon = FileIconsData(0xeb7d);
+  static const patreon = FileIconsData(0xec79);
 
   /// pawn
-  static const IconData pawn = FileIconsData(0xeb7e);
+  static const pawn = FileIconsData(0xec7a);
 
   /// pcd
-  static const IconData pcd = FileIconsData(0xeb7f);
+  static const pcd = FileIconsData(0xec7b);
 
   /// pegjs
-  static const IconData pegjs = FileIconsData(0xeb80);
+  static const pegjs = FileIconsData(0xec7c);
 
   /// perl6
-  static const IconData perl6 = FileIconsData(0xeb81);
+  static const perl6 = FileIconsData(0xec7d);
 
   /// phalcon
-  static const IconData phalcon = FileIconsData(0xeb82);
+  static const phalcon = FileIconsData(0xec7e);
 
   /// phoenix
-  static const IconData phoenix = FileIconsData(0xeb83);
+  static const phoenix = FileIconsData(0xec7f);
 
   /// photorec
-  static const IconData photorec = FileIconsData(0xeb84);
+  static const photorec = FileIconsData(0xec80);
 
   /// php
-  static const IconData php = FileIconsData(0xeb85);
+  static const php = FileIconsData(0xec81);
 
   /// phpunit
-  static const IconData phpunit = FileIconsData(0xeb86);
+  static const phpunit = FileIconsData(0xec82);
 
   /// phraseapp
-  static const IconData phraseapp = FileIconsData(0xeb87);
+  static const phraseapp = FileIconsData(0xec83);
 
   /// pickle
-  static const IconData pickle = FileIconsData(0xeb88);
+  static const pickle = FileIconsData(0xec84);
 
   /// pico_8
-  static const IconData pico_8 = FileIconsData(0xeb89);
+  static const pico_8 = FileIconsData(0xec85);
 
   /// picolisp
-  static const IconData picolisp = FileIconsData(0xeb8a);
+  static const picolisp = FileIconsData(0xec86);
 
   /// pike
-  static const IconData pike = FileIconsData(0xeb8b);
+  static const pike = FileIconsData(0xec87);
 
   /// pinescript
-  static const IconData pinescript = FileIconsData(0xeb8c);
+  static const pinescript = FileIconsData(0xec88);
 
   /// pipenv
-  static const IconData pipenv = FileIconsData(0xeb8d);
+  static const pipenv = FileIconsData(0xec89);
 
   /// pkgsrc
-  static const IconData pkgsrc = FileIconsData(0xeb8e);
+  static const pkgsrc = FileIconsData(0xec8a);
 
   /// platformio
-  static const IconData platformio = FileIconsData(0xeb8f);
+  static const platformio = FileIconsData(0xec8b);
 
   /// pm2
-  static const IconData pm2 = FileIconsData(0xeb90);
+  static const pm2 = FileIconsData(0xec8c);
 
   /// pnpm
-  static const IconData pnpm = FileIconsData(0xeb91);
+  static const pnpm = FileIconsData(0xec8d);
 
   /// pod
-  static const IconData pod = FileIconsData(0xeb92);
+  static const pod = FileIconsData(0xec8e);
 
   /// pogoscript
-  static const IconData pogoscript = FileIconsData(0xeb93);
+  static const pogoscript = FileIconsData(0xec8f);
 
   /// pointwise
-  static const IconData pointwise = FileIconsData(0xeb94);
+  static const pointwise = FileIconsData(0xec90);
 
   /// polymer
-  static const IconData polymer = FileIconsData(0xeb95);
+  static const polymer = FileIconsData(0xec91);
 
   /// pony
-  static const IconData pony = FileIconsData(0xeb96);
+  static const pony = FileIconsData(0xec92);
 
   /// postcss
-  static const IconData postcss = FileIconsData(0xeb97);
+  static const postcss = FileIconsData(0xec93);
 
   /// postscript
-  static const IconData postscript = FileIconsData(0xeb98);
+  static const postscript = FileIconsData(0xec94);
 
   /// pov_ray
-  static const IconData pov_ray = FileIconsData(0xeb99);
+  static const pov_ray = FileIconsData(0xec95);
 
   /// powerbuilder
-  static const IconData powerbuilder = FileIconsData(0xeb9a);
+  static const powerbuilder = FileIconsData(0xec96);
 
   /// powerpc
-  static const IconData powerpc = FileIconsData(0xeb9b);
+  static const powerpc = FileIconsData(0xec97);
 
   /// powershell
-  static const IconData powershell = FileIconsData(0xeb9c);
+  static const powershell = FileIconsData(0xec98);
 
   /// precision
-  static const IconData precision = FileIconsData(0xeb9d);
+  static const precision = FileIconsData(0xec99);
 
   /// precommit
-  static const IconData precommit = FileIconsData(0xeb9e);
+  static const precommit = FileIconsData(0xec9a);
 
   /// prettier
-  static const IconData prettier = FileIconsData(0xeb9f);
+  static const prettier = FileIconsData(0xec9b);
 
   /// prisma
-  static const IconData prisma = FileIconsData(0xeba0);
+  static const prisma = FileIconsData(0xec9c);
 
   /// processing
-  static const IconData processing = FileIconsData(0xeba1);
-
-  /// progress
-  static const IconData progress = FileIconsData(0xeba2);
+  static const processing = FileIconsData(0xec9d);
 
   /// progress_old
-  static const IconData progress_old = FileIconsData(0xeba3);
+  static const progress_old = FileIconsData(0xec9e);
+
+  /// progress
+  static const progress = FileIconsData(0xec9f);
 
   /// propeller
-  static const IconData propeller = FileIconsData(0xeba4);
+  static const propeller = FileIconsData(0xeca0);
 
   /// pros
-  static const IconData pros = FileIconsData(0xeba5);
+  static const pros = FileIconsData(0xeca1);
 
   /// proselint
-  static const IconData proselint = FileIconsData(0xeba6);
+  static const proselint = FileIconsData(0xeca2);
 
   /// protractor
-  static const IconData protractor = FileIconsData(0xeba7);
-
-  /// pug
-  static const IconData pug = FileIconsData(0xeba8);
+  static const protractor = FileIconsData(0xeca3);
 
   /// pug_old
-  static const IconData pug_old = FileIconsData(0xeba9);
+  static const pug_old = FileIconsData(0xeca4);
+
+  /// pug
+  static const pug = FileIconsData(0xeca5);
 
   /// pullapprove
-  static const IconData pullapprove = FileIconsData(0xebaa);
+  static const pullapprove = FileIconsData(0xeca6);
 
   /// puppet
-  static const IconData puppet = FileIconsData(0xebab);
+  static const puppet = FileIconsData(0xeca7);
 
   /// pure
-  static const IconData pure = FileIconsData(0xebac);
+  static const pure = FileIconsData(0xeca8);
 
   /// purebasic
-  static const IconData purebasic = FileIconsData(0xebad);
+  static const purebasic = FileIconsData(0xeca9);
 
   /// purescript
-  static const IconData purescript = FileIconsData(0xebae);
+  static const purescript = FileIconsData(0xecaa);
 
   /// pypi
-  static const IconData pypi = FileIconsData(0xebaf);
+  static const pypi = FileIconsData(0xecab);
 
   /// pyret
-  static const IconData pyret = FileIconsData(0xebb0);
+  static const pyret = FileIconsData(0xecac);
 
   /// pytest
-  static const IconData pytest = FileIconsData(0xebb1);
+  static const pytest = FileIconsData(0xecad);
 
   /// pyup
-  static const IconData pyup = FileIconsData(0xebb2);
+  static const pyup = FileIconsData(0xecae);
 
-  /// q
-  static const IconData q = FileIconsData(0xebb3);
+  /// q#
+  static const q_sharp = FileIconsData(0xecaf);
 
   /// qiskit
-  static const IconData qiskit = FileIconsData(0xebb4);
+  static const qiskit = FileIconsData(0xecb0);
 
   /// qlikview
-  static const IconData qlikview = FileIconsData(0xebb5);
+  static const qlikview = FileIconsData(0xecb1);
 
   /// qt
-  static const IconData qt = FileIconsData(0xebb6);
+  static const qt = FileIconsData(0xecb2);
 
   /// quasar
-  static const IconData quasar = FileIconsData(0xebb7);
+  static const quasar = FileIconsData(0xecb3);
 
   /// r
-  static const IconData r = FileIconsData(0xebb8);
+  static const r = FileIconsData(0xecb4);
 
   /// racket
-  static const IconData racket = FileIconsData(0xebb9);
+  static const racket = FileIconsData(0xecb5);
 
   /// raml
-  static const IconData raml = FileIconsData(0xebba);
+  static const raml = FileIconsData(0xecb6);
 
   /// rascal
-  static const IconData rascal = FileIconsData(0xebbb);
+  static const rascal = FileIconsData(0xecb7);
 
   /// razzle
-  static const IconData razzle = FileIconsData(0xebbc);
+  static const razzle = FileIconsData(0xecb8);
 
   /// rdata
-  static const IconData rdata = FileIconsData(0xebbd);
+  static const rdata = FileIconsData(0xecb9);
 
   /// rdoc
-  static const IconData rdoc = FileIconsData(0xebbe);
+  static const rdoc = FileIconsData(0xecba);
 
   /// reactos
-  static const IconData reactos = FileIconsData(0xebbf);
+  static const reactos = FileIconsData(0xecbb);
 
   /// readthedocs
-  static const IconData readthedocs = FileIconsData(0xebc0);
+  static const readthedocs = FileIconsData(0xecbc);
 
   /// realbasic
-  static const IconData realbasic = FileIconsData(0xebc1);
+  static const realbasic = FileIconsData(0xecbd);
 
   /// reason
-  static const IconData reason = FileIconsData(0xebc2);
-
-  /// reasonstudios
-  static const IconData reasonstudios = FileIconsData(0xebc3);
+  static const reason = FileIconsData(0xecbe);
 
   /// reasonstudios_alt
-  static const IconData reasonstudios_alt = FileIconsData(0xebc4);
+  static const reasonstudios_alt = FileIconsData(0xecbf);
+
+  /// reasonstudios
+  static const reasonstudios = FileIconsData(0xecc0);
 
   /// rebol
-  static const IconData rebol = FileIconsData(0xebc5);
-
-  /// red
-  static const IconData red = FileIconsData(0xebc6);
+  static const rebol = FileIconsData(0xecc1);
 
   /// red_old
-  static const IconData red_old = FileIconsData(0xebc7);
+  static const red_old = FileIconsData(0xecc2);
+
+  /// red
+  static const red = FileIconsData(0xecc3);
 
   /// redux
-  static const IconData redux = FileIconsData(0xebc8);
+  static const redux = FileIconsData(0xecc4);
 
   /// reek
-  static const IconData reek = FileIconsData(0xebc9);
+  static const reek = FileIconsData(0xecc5);
 
   /// regex
-  static const IconData regex = FileIconsData(0xebca);
+  static const regex = FileIconsData(0xecc6);
 
   /// remark
-  static const IconData remark = FileIconsData(0xebcb);
+  static const remark = FileIconsData(0xecc7);
 
   /// renovate
-  static const IconData renovate = FileIconsData(0xebcc);
+  static const renovate = FileIconsData(0xecc8);
 
   /// rescript
-  static const IconData rescript = FileIconsData(0xebcd);
+  static const rescript = FileIconsData(0xecc9);
 
   /// restql
-  static const IconData restql = FileIconsData(0xebce);
+  static const restql = FileIconsData(0xecca);
 
   /// restructuredtext
-  static const IconData restructuredtext = FileIconsData(0xebcf);
+  static const restructuredtext = FileIconsData(0xeccb);
 
   /// rexx
-  static const IconData rexx = FileIconsData(0xebd0);
+  static const rexx = FileIconsData(0xeccc);
 
   /// rhino3d
-  static const IconData rhino3d = FileIconsData(0xebd1);
+  static const rhino3d = FileIconsData(0xeccd);
 
   /// ring
-  static const IconData ring = FileIconsData(0xebd2);
-
-  /// riot
-  static const IconData riot = FileIconsData(0xebd3);
+  static const ring = FileIconsData(0xecce);
 
   /// riot_old
-  static const IconData riot_old = FileIconsData(0xebd4);
+  static const riot_old = FileIconsData(0xeccf);
+
+  /// riot
+  static const riot = FileIconsData(0xecd0);
 
   /// risc_v
-  static const IconData risc_v = FileIconsData(0xebd5);
+  static const risc_v = FileIconsData(0xecd1);
 
   /// rmarkdown
-  static const IconData rmarkdown = FileIconsData(0xebd6);
-
-  /// robotframework
-  static const IconData robotframework = FileIconsData(0xebd7);
+  static const rmarkdown = FileIconsData(0xecd2);
 
   /// robotframework_old
-  static const IconData robotframework_old = FileIconsData(0xebd8);
+  static const robotframework_old = FileIconsData(0xecd3);
+
+  /// robotframework
+  static const robotframework = FileIconsData(0xecd4);
 
   /// robots
-  static const IconData robots = FileIconsData(0xebd9);
-
-  /// rollup
-  static const IconData rollup = FileIconsData(0xebda);
+  static const robots = FileIconsData(0xecd5);
 
   /// rollup_old
-  static const IconData rollup_old = FileIconsData(0xebdb);
+  static const rollup_old = FileIconsData(0xecd6);
+
+  /// rollup
+  static const rollup = FileIconsData(0xecd7);
 
   /// rspec
-  static const IconData rspec = FileIconsData(0xebdc);
+  static const rspec = FileIconsData(0xecd8);
 
   /// rstudio
-  static const IconData rstudio = FileIconsData(0xebdd);
+  static const rstudio = FileIconsData(0xecd9);
 
   /// rsync
-  static const IconData rsync = FileIconsData(0xebde);
+  static const rsync = FileIconsData(0xecda);
 
   /// rubocop
-  static const IconData rubocop = FileIconsData(0xebdf);
+  static const rubocop = FileIconsData(0xecdb);
 
   /// rubygems
-  static const IconData rubygems = FileIconsData(0xebe0);
+  static const rubygems = FileIconsData(0xecdc);
 
   /// sac
-  static const IconData sac = FileIconsData(0xebe1);
+  static const sac = FileIconsData(0xecdd);
 
   /// sage
-  static const IconData sage = FileIconsData(0xebe2);
+  static const sage = FileIconsData(0xecde);
 
   /// sails
-  static const IconData sails = FileIconsData(0xebe3);
+  static const sails = FileIconsData(0xecdf);
 
   /// saltstack
-  static const IconData saltstack = FileIconsData(0xebe4);
+  static const saltstack = FileIconsData(0xece0);
 
   /// san
-  static const IconData san = FileIconsData(0xebe5);
+  static const san = FileIconsData(0xece1);
 
   /// sandbox
-  static const IconData sandbox = FileIconsData(0xebe6);
+  static const sandbox = FileIconsData(0xece2);
 
   /// sas
-  static const IconData sas = FileIconsData(0xebe7);
+  static const sas = FileIconsData(0xece3);
 
   /// sbt
-  static const IconData sbt = FileIconsData(0xebe8);
+  static const sbt = FileIconsData(0xece4);
 
   /// scheme
-  static const IconData scheme = FileIconsData(0xebe9);
+  static const scheme = FileIconsData(0xece5);
 
   /// scilab
-  static const IconData scilab = FileIconsData(0xebea);
+  static const scilab = FileIconsData(0xece6);
 
   /// scilla
-  static const IconData scilla = FileIconsData(0xebeb);
+  static const scilla = FileIconsData(0xece7);
 
   /// scratch
-  static const IconData scratch = FileIconsData(0xebec);
+  static const scratch = FileIconsData(0xece8);
 
   /// scrutinizer
-  static const IconData scrutinizer = FileIconsData(0xebed);
+  static const scrutinizer = FileIconsData(0xece9);
 
   /// self
-  static const IconData self = FileIconsData(0xebee);
+  static const self = FileIconsData(0xecea);
 
   /// semanticrelease
-  static const IconData semanticrelease = FileIconsData(0xebef);
+  static const semanticrelease = FileIconsData(0xeceb);
 
   /// sentry
-  static const IconData sentry = FileIconsData(0xebf0);
+  static const sentry = FileIconsData(0xecec);
 
   /// sequelize
-  static const IconData sequelize = FileIconsData(0xebf1);
+  static const sequelize = FileIconsData(0xeced);
 
   /// serverless
-  static const IconData serverless = FileIconsData(0xebf2);
+  static const serverless = FileIconsData(0xecee);
 
   /// service_fabric
-  static const IconData service_fabric = FileIconsData(0xebf3);
+  static const service_fabric = FileIconsData(0xecef);
 
   /// shadowcljs
-  static const IconData shadowcljs = FileIconsData(0xebf4);
+  static const shadowcljs = FileIconsData(0xecf0);
 
   /// shellcheck
-  static const IconData shellcheck = FileIconsData(0xebf5);
+  static const shellcheck = FileIconsData(0xecf1);
 
   /// shen
-  static const IconData shen = FileIconsData(0xebf6);
+  static const shen = FileIconsData(0xecf2);
 
   /// shipit
-  static const IconData shipit = FileIconsData(0xebf7);
+  static const shipit = FileIconsData(0xecf3);
 
   /// shippable
-  static const IconData shippable = FileIconsData(0xebf8);
+  static const shippable = FileIconsData(0xecf4);
 
   /// shopify
-  static const IconData shopify = FileIconsData(0xebf9);
+  static const shopify = FileIconsData(0xecf5);
 
   /// shuriken
-  static const IconData shuriken = FileIconsData(0xebfa);
+  static const shuriken = FileIconsData(0xecf6);
 
   /// sigils
-  static const IconData sigils = FileIconsData(0xebfb);
+  static const sigils = FileIconsData(0xecf7);
 
   /// silicongraphics
-  static const IconData silicongraphics = FileIconsData(0xebfc);
+  static const silicongraphics = FileIconsData(0xecf8);
 
   /// silverstripe
-  static const IconData silverstripe = FileIconsData(0xebfd);
+  static const silverstripe = FileIconsData(0xecf9);
 
   /// sinatra
-  static const IconData sinatra = FileIconsData(0xebfe);
+  static const sinatra = FileIconsData(0xecfa);
 
   /// sketch
-  static const IconData sketch = FileIconsData(0xebff);
+  static const sketch = FileIconsData(0xecfb);
 
   /// sketchup_layout
-  static const IconData sketchup_layout = FileIconsData(0xec00);
+  static const sketchup_layout = FileIconsData(0xecfc);
 
   /// sketchup_make
-  static const IconData sketchup_make = FileIconsData(0xec01);
+  static const sketchup_make = FileIconsData(0xecfd);
 
   /// sketchup_stylebuilder
-  static const IconData sketchup_stylebuilder = FileIconsData(0xec02);
+  static const sketchup_stylebuilder = FileIconsData(0xecfe);
 
   /// slash
-  static const IconData slash = FileIconsData(0xec03);
-
-  /// smartos
-  static const IconData smartos = FileIconsData(0xec04);
+  static const slash = FileIconsData(0xecff);
 
   /// smartos_alt
-  static const IconData smartos_alt = FileIconsData(0xec05);
+  static const smartos_alt = FileIconsData(0xed00);
+
+  /// smartos
+  static const smartos = FileIconsData(0xed01);
 
   /// snapcraft
-  static const IconData snapcraft = FileIconsData(0xec06);
+  static const snapcraft = FileIconsData(0xed02);
 
   /// snort
-  static const IconData snort = FileIconsData(0xec07);
+  static const snort = FileIconsData(0xed03);
 
   /// snowpack
-  static const IconData snowpack = FileIconsData(0xec08);
+  static const snowpack = FileIconsData(0xed04);
 
   /// snyk
-  static const IconData snyk = FileIconsData(0xec09);
+  static const snyk = FileIconsData(0xed05);
 
   /// solidarity
-  static const IconData solidarity = FileIconsData(0xec0a);
+  static const solidarity = FileIconsData(0xed06);
 
   /// solidity
-  static const IconData solidity = FileIconsData(0xec0b);
+  static const solidity = FileIconsData(0xed07);
 
   /// sophia
-  static const IconData sophia = FileIconsData(0xec0c);
+  static const sophia = FileIconsData(0xed08);
 
   /// sorbet
-  static const IconData sorbet = FileIconsData(0xec0d);
+  static const sorbet = FileIconsData(0xed09);
 
   /// source
-  static const IconData source = FileIconsData(0xec0e);
+  static const source = FileIconsData(0xed0a);
 
   /// spacemacs
-  static const IconData spacemacs = FileIconsData(0xec0f);
+  static const spacemacs = FileIconsData(0xed0b);
 
   /// spacengine
-  static const IconData spacengine = FileIconsData(0xec10);
+  static const spacengine = FileIconsData(0xed0c);
 
   /// sparc
-  static const IconData sparc = FileIconsData(0xec11);
+  static const sparc = FileIconsData(0xed0d);
 
   /// spray
-  static const IconData spray = FileIconsData(0xec12);
+  static const spray = FileIconsData(0xed0e);
 
   /// sqf
-  static const IconData sqf = FileIconsData(0xec13);
+  static const sqf = FileIconsData(0xed0f);
 
   /// sqlite
-  static const IconData sqlite = FileIconsData(0xec14);
+  static const sqlite = FileIconsData(0xed10);
 
   /// squarespace
-  static const IconData squarespace = FileIconsData(0xec15);
+  static const squarespace = FileIconsData(0xed11);
 
   /// stan
-  static const IconData stan = FileIconsData(0xec16);
+  static const stan = FileIconsData(0xed12);
 
   /// stata
-  static const IconData stata = FileIconsData(0xec17);
+  static const stata = FileIconsData(0xed13);
 
   /// stdlibjs
-  static const IconData stdlibjs = FileIconsData(0xec18);
+  static const stdlibjs = FileIconsData(0xed14);
 
   /// stencil
-  static const IconData stencil = FileIconsData(0xec19);
+  static const stencil = FileIconsData(0xed15);
 
   /// stitches
-  static const IconData stitches = FileIconsData(0xec1a);
+  static const stitches = FileIconsData(0xed16);
 
   /// storybook
-  static const IconData storybook = FileIconsData(0xec1b);
+  static const storybook = FileIconsData(0xed17);
 
   /// storyist
-  static const IconData storyist = FileIconsData(0xec1c);
+  static const storyist = FileIconsData(0xed18);
 
   /// strings
-  static const IconData strings = FileIconsData(0xec1d);
+  static const strings = FileIconsData(0xed19);
 
   /// stylable
-  static const IconData stylable = FileIconsData(0xec1e);
+  static const stylable = FileIconsData(0xed1a);
 
   /// styledcomponents
-  static const IconData styledcomponents = FileIconsData(0xec1f);
+  static const styledcomponents = FileIconsData(0xed1b);
 
   /// stylelint
-  static const IconData stylelint = FileIconsData(0xec20);
+  static const stylelint = FileIconsData(0xed1c);
 
   /// stylishhaskell
-  static const IconData stylishhaskell = FileIconsData(0xec21);
-
-  /// stylus
-  static const IconData stylus = FileIconsData(0xec22);
+  static const stylishhaskell = FileIconsData(0xed1d);
 
   /// stylus_orb
-  static const IconData stylus_orb = FileIconsData(0xec23);
+  static const stylus_orb = FileIconsData(0xed1e);
 
   /// stylus_s
-  static const IconData stylus_s = FileIconsData(0xec24);
+  static const stylus_s = FileIconsData(0xed1f);
+
+  /// stylus
+  static const stylus = FileIconsData(0xed20);
 
   /// sublime
-  static const IconData sublime = FileIconsData(0xec25);
+  static const sublime = FileIconsData(0xed21);
 
   /// supercollider
-  static const IconData supercollider = FileIconsData(0xec26);
+  static const supercollider = FileIconsData(0xed22);
 
   /// svelte
-  static const IconData svelte = FileIconsData(0xec27);
+  static const svelte = FileIconsData(0xed23);
 
   /// svn
-  static const IconData svn = FileIconsData(0xec28);
+  static const svn = FileIconsData(0xed24);
 
   /// swagger
-  static const IconData swagger = FileIconsData(0xec29);
+  static const swagger = FileIconsData(0xed25);
 
   /// systemverilog
-  static const IconData systemverilog = FileIconsData(0xec2a);
+  static const systemverilog = FileIconsData(0xed26);
 
   /// tag
-  static const IconData tag = FileIconsData(0xec2b);
+  static const tag = FileIconsData(0xed27);
 
   /// tailwind
-  static const IconData tailwind = FileIconsData(0xec2c);
+  static const tailwind = FileIconsData(0xed28);
 
   /// tcl
-  static const IconData tcl = FileIconsData(0xec2d);
+  static const tcl = FileIconsData(0xed29);
 
   /// telegram
-  static const IconData telegram = FileIconsData(0xec2e);
+  static const telegram = FileIconsData(0xed2a);
 
   /// templatetoolkit
-  static const IconData templatetoolkit = FileIconsData(0xec2f);
+  static const templatetoolkit = FileIconsData(0xed2b);
 
   /// templeos
-  static const IconData templeos = FileIconsData(0xec30);
+  static const templeos = FileIconsData(0xed2c);
 
   /// terminal
-  static const IconData terminal = FileIconsData(0xec31);
+  static const terminal = FileIconsData(0xed2d);
 
   /// tern
-  static const IconData tern = FileIconsData(0xec32);
+  static const tern = FileIconsData(0xed2e);
 
   /// terraform
-  static const IconData terraform = FileIconsData(0xec33);
+  static const terraform = FileIconsData(0xed2f);
 
   /// terser
-  static const IconData terser = FileIconsData(0xec34);
-
-  /// testcafe
-  static const IconData testcafe = FileIconsData(0xec35);
+  static const terser = FileIconsData(0xed30);
 
   /// test_coffeescript
-  static const IconData test_coffeescript = FileIconsData(0xec36);
+  static const test_coffeescript = FileIconsData(0xed31);
 
   /// test_directory
-  static const IconData test_directory = FileIconsData(0xec37);
+  static const test_directory = FileIconsData(0xed32);
 
   /// test_generic
-  static const IconData test_generic = FileIconsData(0xec38);
+  static const test_generic = FileIconsData(0xed33);
 
   /// test_go
-  static const IconData test_go = FileIconsData(0xec39);
+  static const test_go = FileIconsData(0xed34);
 
   /// test_haskell
-  static const IconData test_haskell = FileIconsData(0xec3a);
+  static const test_haskell = FileIconsData(0xed35);
 
   /// test_js
-  static const IconData test_js = FileIconsData(0xec3b);
+  static const test_js = FileIconsData(0xed36);
 
   /// test_perl
-  static const IconData test_perl = FileIconsData(0xec3c);
+  static const test_perl = FileIconsData(0xed37);
 
   /// test_python
-  static const IconData test_python = FileIconsData(0xec3d);
+  static const test_python = FileIconsData(0xed38);
 
   /// test_react
-  static const IconData test_react = FileIconsData(0xec3e);
+  static const test_react = FileIconsData(0xed39);
 
   /// test_ruby
-  static const IconData test_ruby = FileIconsData(0xec3f);
+  static const test_ruby = FileIconsData(0xed3a);
 
   /// test_rust
-  static const IconData test_rust = FileIconsData(0xec40);
+  static const test_rust = FileIconsData(0xed3b);
 
   /// test_typescript
-  static const IconData test_typescript = FileIconsData(0xec41);
+  static const test_typescript = FileIconsData(0xed3c);
+
+  /// testcafe
+  static const testcafe = FileIconsData(0xed3d);
 
   /// textile
-  static const IconData textile = FileIconsData(0xec42);
+  static const textile = FileIconsData(0xed3e);
 
   /// textmate
-  static const IconData textmate = FileIconsData(0xec43);
+  static const textmate = FileIconsData(0xed3f);
 
   /// tfs
-  static const IconData tfs = FileIconsData(0xec44);
+  static const tfs = FileIconsData(0xed40);
 
   /// thor
-  static const IconData thor = FileIconsData(0xec45);
+  static const thor = FileIconsData(0xed41);
 
   /// tilt
-  static const IconData tilt = FileIconsData(0xec46);
+  static const tilt = FileIconsData(0xed42);
 
   /// tinymce
-  static const IconData tinymce = FileIconsData(0xec47);
+  static const tinymce = FileIconsData(0xed43);
 
   /// tipe
-  static const IconData tipe = FileIconsData(0xec48);
+  static const tipe = FileIconsData(0xed44);
 
-  /// tla
-  static const IconData tla = FileIconsData(0xec49);
+  /// tla+
+  static const tla_plus = FileIconsData(0xed45);
 
   /// tmux
-  static const IconData tmux = FileIconsData(0xec4a);
+  static const tmux = FileIconsData(0xed46);
 
   /// toml
-  static const IconData toml = FileIconsData(0xec4b);
+  static const toml = FileIconsData(0xed47);
 
   /// tortoisesvn
-  static const IconData tortoisesvn = FileIconsData(0xec4c);
+  static const tortoisesvn = FileIconsData(0xed48);
 
   /// totvs
-  static const IconData totvs = FileIconsData(0xec4d);
+  static const totvs = FileIconsData(0xed49);
 
   /// truffle
-  static const IconData truffle = FileIconsData(0xec4e);
-
-  /// tsx
-  static const IconData tsx = FileIconsData(0xec4f);
+  static const truffle = FileIconsData(0xed4a);
 
   /// tsx_alt
-  static const IconData tsx_alt = FileIconsData(0xec50);
+  static const tsx_alt = FileIconsData(0xed4b);
+
+  /// tsx
+  static const tsx = FileIconsData(0xed4c);
 
   /// ttcn_3
-  static const IconData ttcn_3 = FileIconsData(0xec51);
+  static const ttcn_3 = FileIconsData(0xed4d);
 
   /// turing
-  static const IconData turing = FileIconsData(0xec52);
+  static const turing = FileIconsData(0xed4e);
 
   /// twig
-  static const IconData twig = FileIconsData(0xec53);
+  static const twig = FileIconsData(0xed4f);
 
   /// twine
-  static const IconData twine = FileIconsData(0xec54);
+  static const twine = FileIconsData(0xed50);
 
   /// txl
-  static const IconData txl = FileIconsData(0xec55);
+  static const txl = FileIconsData(0xed51);
 
   /// typedoc
-  static const IconData typedoc = FileIconsData(0xec56);
-
-  /// typescript
-  static const IconData typescript = FileIconsData(0xec57);
+  static const typedoc = FileIconsData(0xed52);
 
   /// typescript_alt
-  static const IconData typescript_alt = FileIconsData(0xec58);
+  static const typescript_alt = FileIconsData(0xed53);
+
+  /// typescript
+  static const typescript = FileIconsData(0xed54);
 
   /// typings
-  static const IconData typings = FileIconsData(0xec59);
+  static const typings = FileIconsData(0xed55);
 
   /// ufo
-  static const IconData ufo = FileIconsData(0xec5a);
+  static const ufo = FileIconsData(0xed56);
 
   /// unibeautify
-  static const IconData unibeautify = FileIconsData(0xec5b);
+  static const unibeautify = FileIconsData(0xed57);
 
   /// unicode
-  static const IconData unicode = FileIconsData(0xec5c);
+  static const unicode = FileIconsData(0xed58);
 
   /// uno
-  static const IconData uno = FileIconsData(0xec5d);
+  static const uno = FileIconsData(0xed59);
 
   /// unrealscript
-  static const IconData unrealscript = FileIconsData(0xec5e);
+  static const unrealscript = FileIconsData(0xed5a);
 
   /// urweb
-  static const IconData urweb = FileIconsData(0xec5f);
-
-  /// v
-  static const IconData v = FileIconsData(0xec60);
-
-  /// v8
-  static const IconData v8 = FileIconsData(0xec61);
-
-  /// v8_turbofan
-  static const IconData v8_turbofan = FileIconsData(0xec62);
-
-  /// vagrant
-  static const IconData vagrant = FileIconsData(0xec63);
-
-  /// vala
-  static const IconData vala = FileIconsData(0xec64);
-
-  /// vax
-  static const IconData vax = FileIconsData(0xec65);
-
-  /// vcl
-  static const IconData vcl = FileIconsData(0xec66);
-
-  /// velocity
-  static const IconData velocity = FileIconsData(0xec67);
-
-  /// verilog
-  static const IconData verilog = FileIconsData(0xec68);
-
-  /// vertexshader
-  static const IconData vertexshader = FileIconsData(0xec69);
-
-  /// vhdl
-  static const IconData vhdl = FileIconsData(0xec6a);
-
-  /// video
-  static const IconData video = FileIconsData(0xec6b);
-
-  /// virtualbox
-  static const IconData virtualbox = FileIconsData(0xec6c);
-
-  /// virtualbox_alt
-  static const IconData virtualbox_alt = FileIconsData(0xec6d);
-
-  /// vite
-  static const IconData vite = FileIconsData(0xec6e);
-
-  /// vmware
-  static const IconData vmware = FileIconsData(0xec6f);
+  static const urweb = FileIconsData(0xed5b);
 
   /// v_ray
-  static const IconData v_ray = FileIconsData(0xec70);
+  static const v_ray = FileIconsData(0xed5c);
+
+  /// v
+  static const v = FileIconsData(0xed5d);
+
+  /// v8_turbofan
+  static const v8_turbofan = FileIconsData(0xed5e);
+
+  /// v8
+  static const v8 = FileIconsData(0xed5f);
+
+  /// vagrant
+  static const vagrant = FileIconsData(0xed60);
+
+  /// vala
+  static const vala = FileIconsData(0xed61);
+
+  /// vax
+  static const vax = FileIconsData(0xed62);
+
+  /// vcl
+  static const vcl = FileIconsData(0xed63);
+
+  /// velocity
+  static const velocity = FileIconsData(0xed64);
+
+  /// verilog
+  static const verilog = FileIconsData(0xed65);
+
+  /// vertexshader
+  static const vertexshader = FileIconsData(0xed66);
+
+  /// vhdl
+  static const vhdl = FileIconsData(0xed67);
+
+  /// video
+  static const video = FileIconsData(0xed68);
+
+  /// virtualbox_alt
+  static const virtualbox_alt = FileIconsData(0xed69);
+
+  /// virtualbox
+  static const virtualbox = FileIconsData(0xed6a);
+
+  /// vite
+  static const vite = FileIconsData(0xed6b);
+
+  /// vmware
+  static const vmware = FileIconsData(0xed6c);
 
   /// vscode
-  static const IconData vscode = FileIconsData(0xec71);
+  static const vscode = FileIconsData(0xed6d);
 
   /// vsts
-  static const IconData vsts = FileIconsData(0xec72);
+  static const vsts = FileIconsData(0xed6e);
 
   /// vue
-  static const IconData vue = FileIconsData(0xec73);
+  static const vue = FileIconsData(0xed6f);
 
   /// vyper
-  static const IconData vyper = FileIconsData(0xec74);
+  static const vyper = FileIconsData(0xed70);
 
   /// w3c
-  static const IconData w3c = FileIconsData(0xec75);
+  static const w3c = FileIconsData(0xed71);
 
   /// wallaby
-  static const IconData wallaby = FileIconsData(0xec76);
+  static const wallaby = FileIconsData(0xed72);
 
   /// walt
-  static const IconData walt = FileIconsData(0xec77);
+  static const walt = FileIconsData(0xed73);
 
   /// warcraft_iii
-  static const IconData warcraft_iii = FileIconsData(0xec78);
+  static const warcraft_iii = FileIconsData(0xed74);
 
   /// wasi
-  static const IconData wasi = FileIconsData(0xec79);
+  static const wasi = FileIconsData(0xed75);
 
   /// watchman
-  static const IconData watchman = FileIconsData(0xec7a);
+  static const watchman = FileIconsData(0xed76);
 
   /// wdl
-  static const IconData wdl = FileIconsData(0xec7b);
+  static const wdl = FileIconsData(0xed77);
 
   /// webassembly
-  static const IconData webassembly = FileIconsData(0xec7c);
+  static const webassembly = FileIconsData(0xed78);
 
   /// webgl
-  static const IconData webgl = FileIconsData(0xec7d);
+  static const webgl = FileIconsData(0xed79);
 
   /// webhint
-  static const IconData webhint = FileIconsData(0xec7e);
-
-  /// webpack
-  static const IconData webpack = FileIconsData(0xec7f);
+  static const webhint = FileIconsData(0xed7a);
 
   /// webpack_old
-  static const IconData webpack_old = FileIconsData(0xec80);
+  static const webpack_old = FileIconsData(0xed7b);
+
+  /// webpack
+  static const webpack = FileIconsData(0xed7c);
 
   /// webvtt
-  static const IconData webvtt = FileIconsData(0xec81);
+  static const webvtt = FileIconsData(0xed7d);
 
   /// wenyan
-  static const IconData wenyan = FileIconsData(0xec82);
+  static const wenyan = FileIconsData(0xed7e);
 
   /// wercker
-  static const IconData wercker = FileIconsData(0xec83);
+  static const wercker = FileIconsData(0xed7f);
 
   /// wget
-  static const IconData wget = FileIconsData(0xec84);
+  static const wget = FileIconsData(0xed80);
 
   /// windi
-  static const IconData windi = FileIconsData(0xec85);
+  static const windi = FileIconsData(0xed81);
 
   /// wine
-  static const IconData wine = FileIconsData(0xec86);
+  static const wine = FileIconsData(0xed82);
 
   /// winui
-  static const IconData winui = FileIconsData(0xec87);
+  static const winui = FileIconsData(0xed83);
 
   /// wix
-  static const IconData wix = FileIconsData(0xec88);
+  static const wix = FileIconsData(0xed84);
 
   /// wolfram
-  static const IconData wolfram = FileIconsData(0xec89);
+  static const wolfram = FileIconsData(0xed85);
 
   /// workbox
-  static const IconData workbox = FileIconsData(0xec8a);
+  static const workbox = FileIconsData(0xed86);
 
   /// wurst
-  static const IconData wurst = FileIconsData(0xec8b);
+  static const wurst = FileIconsData(0xed87);
 
   /// x10
-  static const IconData x10 = FileIconsData(0xec8c);
+  static const x10 = FileIconsData(0xed88);
 
   /// xamarin
-  static const IconData xamarin = FileIconsData(0xec8d);
+  static const xamarin = FileIconsData(0xed89);
 
   /// xmake
-  static const IconData xmake = FileIconsData(0xec8e);
+  static const xmake = FileIconsData(0xed8a);
 
   /// xmos
-  static const IconData xmos = FileIconsData(0xec8f);
+  static const xmos = FileIconsData(0xed8b);
 
   /// xpages
-  static const IconData xpages = FileIconsData(0xec90);
+  static const xpages = FileIconsData(0xed8c);
 
   /// xtend
-  static const IconData xtend = FileIconsData(0xec91);
+  static const xtend = FileIconsData(0xed8d);
 
   /// xubuntu
-  static const IconData xubuntu = FileIconsData(0xec92);
-
-  /// yaml
-  static const IconData yaml = FileIconsData(0xec93);
+  static const xubuntu = FileIconsData(0xed8e);
 
   /// yaml_alt1
-  static const IconData yaml_alt1 = FileIconsData(0xec94);
+  static const yaml_alt1 = FileIconsData(0xed8f);
 
   /// yaml_alt2
-  static const IconData yaml_alt2 = FileIconsData(0xec95);
+  static const yaml_alt2 = FileIconsData(0xed90);
 
   /// yaml_alt3
-  static const IconData yaml_alt3 = FileIconsData(0xec96);
+  static const yaml_alt3 = FileIconsData(0xed91);
 
   /// yaml_alt4
-  static const IconData yaml_alt4 = FileIconsData(0xec97);
+  static const yaml_alt4 = FileIconsData(0xed92);
+
+  /// yaml
+  static const yaml = FileIconsData(0xed93);
 
   /// yamllint
-  static const IconData yamllint = FileIconsData(0xec98);
+  static const yamllint = FileIconsData(0xed94);
 
   /// yandex
-  static const IconData yandex = FileIconsData(0xec99);
+  static const yandex = FileIconsData(0xed95);
 
   /// yang
-  static const IconData yang = FileIconsData(0xec9a);
+  static const yang = FileIconsData(0xed96);
 
   /// yara
-  static const IconData yara = FileIconsData(0xec9b);
+  static const yara = FileIconsData(0xed97);
 
   /// yarn
-  static const IconData yarn = FileIconsData(0xec9c);
+  static const yarn = FileIconsData(0xed98);
 
   /// yasm
-  static const IconData yasm = FileIconsData(0xec9d);
+  static const yasm = FileIconsData(0xed99);
 
   /// yorick
-  static const IconData yorick = FileIconsData(0xec9e);
+  static const yorick = FileIconsData(0xed9a);
 
   /// yui
-  static const IconData yui = FileIconsData(0xec9f);
+  static const yui = FileIconsData(0xed9b);
 
   /// zbrush
-  static const IconData zbrush = FileIconsData(0xeca0);
+  static const zbrush = FileIconsData(0xed9c);
 
   /// zeit
-  static const IconData zeit = FileIconsData(0xeca1);
+  static const zeit = FileIconsData(0xed9d);
 
   /// zephir
-  static const IconData zephir = FileIconsData(0xeca2);
+  static const zephir = FileIconsData(0xed9e);
 
   /// zig
-  static const IconData zig = FileIconsData(0xeca3);
+  static const zig = FileIconsData(0xed9f);
 
   /// zilog
-  static const IconData zilog = FileIconsData(0xeca4);
+  static const zilog = FileIconsData(0xeda0);
 
   /// zimpl
-  static const IconData zimpl = FileIconsData(0xeca5);
+  static const zimpl = FileIconsData(0xeda1);
 
   /// zorinos
-  static const IconData zorinos = FileIconsData(0xeca6);
+  static const zorinos = FileIconsData(0xeda2);
 
   /// zork
-  static const IconData zork = FileIconsData(0xeca7);
+  static const zork = FileIconsData(0xeda3);
 }
+
+const FileIconsMapping = {
+  "1c_alt": "0xea01",
+  "1c": "0xea02",
+  "3d_model": "0xea03",
+  "3ds_max": "0xea04",
+  "4d": "0xea05",
+  "a+": "0xea06",
+  "abap": "0xea07",
+  "abif": "0xea08",
+  "acre": "0xea09",
+  "actionscript": "0xea0a",
+  "ada": "0xea0b",
+  "adobe_acrobat": "0xea0c",
+  "adobe_aftereffects": "0xea0d",
+  "adobe_animate": "0xea0e",
+  "adobe_audition": "0xea0f",
+  "adobe_bridge": "0xea10",
+  "adobe_characteranimator": "0xea11",
+  "adobe_creativecloud": "0xea12",
+  "adobe_dimension": "0xea13",
+  "adobe_dreamweaver": "0xea14",
+  "adobe_flash": "0xea15",
+  "adobe_fuse": "0xea16",
+  "adobe_illustrator": "0xea17",
+  "adobe_incopy": "0xea18",
+  "adobe_indesign": "0xea19",
+  "adobe_lightroom": "0xea1a",
+  "adobe_mediaencoder": "0xea1b",
+  "adobe_photoshop": "0xea1c",
+  "adobe_prelude": "0xea1d",
+  "adobe_premiere": "0xea1e",
+  "adobe_premiererush": "0xea1f",
+  "adobe_xd": "0xea20",
+  "adobe": "0xea21",
+  "adonisjs": "0xea22",
+  "aeternity": "0xea23",
+  "affectscript": "0xea24",
+  "affinitydesigner": "0xea25",
+  "agc": "0xea26",
+  "agda": "0xea27",
+  "akka": "0xea28",
+  "alacritty_alt": "0xea29",
+  "alacritty": "0xea2a",
+  "alex": "0xea2b",
+  "alloy": "0xea2c",
+  "alpine_linux": "0xea2d",
+  "amd": "0xea2e",
+  "amigaos": "0xea2f",
+  "ampl": "0xea30",
+  "amusewiki": "0xea31",
+  "analytica": "0xea32",
+  "angelscript": "0xea33",
+  "animestudio": "0xea34",
+  "ansible_alt": "0xea35",
+  "ansible": "0xea36",
+  "antlr": "0xea37",
+  "antwar": "0xea38",
+  "anyscript": "0xea39",
+  "apache_ant": "0xea3a",
+  "api_blueprint": "0xea3b",
+  "apiextractor": "0xea3c",
+  "apl_old": "0xea3d",
+  "apl": "0xea3e",
+  "apollo": "0xea3f",
+  "apple": "0xea40",
+  "appveyor": "0xea41",
+  "arc": "0xea42",
+  "arch_linux": "0xea43",
+  "arduino": "0xea44",
+  "arm": "0xea45",
+  "arttext": "0xea46",
+  "arttext4": "0xea47",
+  "asciidoc": "0xea48",
+  "asciidoctor": "0xea49",
+  "assembly_agc": "0xea4a",
+  "assembly_amd": "0xea4b",
+  "assembly_arm": "0xea4c",
+  "assembly_att": "0xea4d",
+  "assembly_avr": "0xea4e",
+  "assembly_generic": "0xea4f",
+  "assembly_hitachi": "0xea50",
+  "assembly_intel": "0xea51",
+  "assembly_motorola": "0xea52",
+  "assembly_powerpc": "0xea53",
+  "assembly_riscv": "0xea54",
+  "assembly_sparc": "0xea55",
+  "assembly_vax": "0xea56",
+  "assembly_zilog": "0xea57",
+  "asymptote_alt": "0xea58",
+  "asymptote": "0xea59",
+  "atoum": "0xea5a",
+  "ats": "0xea5b",
+  "att": "0xea5c",
+  "audacity": "0xea5d",
+  "augeas": "0xea5e",
+  "aurelia": "0xea5f",
+  "autohotkey": "0xea60",
+  "autoit": "0xea61",
+  "automator": "0xea62",
+  "avr": "0xea63",
+  "avro": "0xea64",
+  "awk": "0xea65",
+  "azure_pipelines": "0xea66",
+  "babel": "0xea67",
+  "ballerina": "0xea68",
+  "bazaar": "0xea69",
+  "bazel_old": "0xea6a",
+  "bazel": "0xea6b",
+  "behat": "0xea6c",
+  "bem": "0xea6d",
+  "bibtex": "0xea6e",
+  "bikeshed": "0xea6f",
+  "biml": "0xea70",
+  "binder": "0xea71",
+  "bintray": "0xea72",
+  "bison": "0xea73",
+  "bithound": "0xea74",
+  "blender": "0xea75",
+  "blitzbasic": "0xea76",
+  "bloc": "0xea77",
+  "bluespec": "0xea78",
+  "bnf": "0xea79",
+  "boo": "0xea7a",
+  "bors": "0xea7b",
+  "bosque": "0xea7c",
+  "brainfuck": "0xea7d",
+  "brakeman": "0xea7e",
+  "bro": "0xea7f",
+  "broccoli": "0xea80",
+  "brotli_old": "0xea81",
+  "brotli": "0xea82",
+  "browserslist": "0xea83",
+  "browsersync": "0xea84",
+  "brunch": "0xea85",
+  "buck": "0xea86",
+  "build_boot": "0xea87",
+  "buildkite": "0xea88",
+  "bundler": "0xea89",
+  "byond": "0xea8a",
+  "c#_script": "0xea8b",
+  "c#": "0xea8c",
+  "c++": "0xea8d",
+  "cabal": "0xea8e",
+  "caddy_old": "0xea8f",
+  "caddy": "0xea90",
+  "caffe": "0xea91",
+  "caffe2": "0xea92",
+  "cairo": "0xea93",
+  "cake": "0xea94",
+  "cakefile": "0xea95",
+  "cakephp_old": "0xea96",
+  "cakephp": "0xea97",
+  "calva": "0xea98",
+  "carthage": "0xea99",
+  "casc": "0xea9a",
+  "cdf": "0xea9b",
+  "ceylon": "0xea9c",
+  "chai": "0xea9d",
+  "chapel": "0xea9e",
+  "chartjs": "0xea9f",
+  "cheetah3d": "0xeaa0",
+  "chef": "0xeaa1",
+  "chocolatey": "0xeaa2",
+  "chuck": "0xeaa3",
+  "circleci": "0xeaa4",
+  "cirru": "0xeaa5",
+  "ckeditor": "0xeaa6",
+  "clarion": "0xeaa7",
+  "clean": "0xeaa8",
+  "click": "0xeaa9",
+  "clips": "0xeaaa",
+  "clojurejs": "0xeaab",
+  "closuretemplate": "0xeaac",
+  "cloudfoundry": "0xeaad",
+  "cmake": "0xeaae",
+  "cnab": "0xeaaf",
+  "cobol": "0xeab0",
+  "cocoapods": "0xeab1",
+  "codacy": "0xeab2",
+  "code_climate": "0xeab3",
+  "codecov": "0xeab4",
+  "codekit": "0xeab5",
+  "codemeta": "0xeab6",
+  "codemirror": "0xeab7",
+  "codeship": "0xeab8",
+  "coldfusion": "0xeab9",
+  "commitizen": "0xeaba",
+  "commitlint": "0xeabb",
+  "common_lisp": "0xeabc",
+  "component_pascal": "0xeabd",
+  "composer": "0xeabe",
+  "conan": "0xeabf",
+  "conda": "0xeac0",
+  "config_coffeescript": "0xeac1",
+  "config_go": "0xeac2",
+  "config_haskell": "0xeac3",
+  "config_js": "0xeac4",
+  "config_perl": "0xeac5",
+  "config_python": "0xeac6",
+  "config_react": "0xeac7",
+  "config_ruby": "0xeac8",
+  "config_rust": "0xeac9",
+  "config_typescript": "0xeaca",
+  "config": "0xeacb",
+  "conll": "0xeacc",
+  "coq": "0xeacd",
+  "cordova": "0xeace",
+  "coreldraw_alt": "0xeacf",
+  "coreldraw": "0xead0",
+  "coveralls": "0xead1",
+  "cpan": "0xead2",
+  "cpcdosc+": "0xead3",
+  "crafttweaker": "0xead4",
+  "creole": "0xead5",
+  "crowdin": "0xead6",
+  "crystal": "0xead7",
+  "csound": "0xead8",
+  "cubit": "0xead9",
+  "cucumber": "0xeada",
+  "cuneiform": "0xeadb",
+  "curl_lang": "0xeadc",
+  "curl": "0xeadd",
+  "curry": "0xeade",
+  "cvs": "0xeadf",
+  "cwl": "0xeae0",
+  "cython": "0xeae1",
+  "d3": "0xeae2",
+  "dafny": "0xeae3",
+  "darcs_patch": "0xeae4",
+  "dashboard": "0xeae5",
+  "dataweave": "0xeae6",
+  "dbase": "0xeae7",
+  "default": "0xeae8",
+  "delphi": "0xeae9",
+  "deno": "0xeaea",
+  "dependabot": "0xeaeb",
+  "devcontainer": "0xeaec",
+  "devicetree": "0xeaed",
+  "dhall": "0xeaee",
+  "dia": "0xeaef",
+  "diff": "0xeaf0",
+  "digdag": "0xeaf1",
+  "dna": "0xeaf2",
+  "docbook": "0xeaf3",
+  "docker": "0xeaf4",
+  "doclets": "0xeaf5",
+  "docpad": "0xeaf6",
+  "docz": "0xeaf7",
+  "dogescript": "0xeaf8",
+  "dom": "0xeaf9",
+  "donejs": "0xeafa",
+  "dosbox_alt": "0xeafb",
+  "dosbox": "0xeafc",
+  "dotenv": "0xeafd",
+  "dotjs": "0xeafe",
+  "doxygen": "0xeaff",
+  "dragonflybsd": "0xeb00",
+  "dragula": "0xeb01",
+  "draw.io": "0xeb02",
+  "drone": "0xeb03",
+  "dub": "0xeb04",
+  "dvc": "0xeb05",
+  "dyalog": "0xeb06",
+  "dylib": "0xeb07",
+  "e": "0xeb08",
+  "eagle": "0xeb09",
+  "easybuild": "0xeb0a",
+  "ec": "0xeb0b",
+  "ecere": "0xeb0c",
+  "eclipse_lang": "0xeb0d",
+  "edge": "0xeb0e",
+  "editorconfig": "0xeb0f",
+  "eiffel": "0xeb10",
+  "ejs": "0xeb11",
+  "electron": "0xeb12",
+  "elementaryos": "0xeb13",
+  "elm": "0xeb14",
+  "emacs": "0xeb15",
+  "ember": "0xeb16",
+  "emberscript": "0xeb17",
+  "ensime": "0xeb18",
+  "eq": "0xeb19",
+  "esdoc": "0xeb1a",
+  "eslint_old": "0xeb1b",
+  "eslint": "0xeb1c",
+  "expo": "0xeb1d",
+  "fabfile": "0xeb1e",
+  "fabric": "0xeb1f",
+  "factor": "0xeb20",
+  "falcon": "0xeb21",
+  "fancy": "0xeb22",
+  "fantom": "0xeb23",
+  "fauna": "0xeb24",
+  "faust": "0xeb25",
+  "fbx": "0xeb26",
+  "fexl": "0xeb27",
+  "ffmpeg": "0xeb28",
+  "fiddle": "0xeb29",
+  "figma": "0xeb2a",
+  "finaldraft": "0xeb2b",
+  "finder": "0xeb2c",
+  "firebase_bolt": "0xeb2d",
+  "firebase": "0xeb2e",
+  "flask": "0xeb2f",
+  "floobits": "0xeb30",
+  "flow": "0xeb31",
+  "flutter": "0xeb32",
+  "flux": "0xeb33",
+  "font_bitmap": "0xeb34",
+  "font_outline": "0xeb35",
+  "font": "0xeb36",
+  "fontforge": "0xeb37",
+  "fork": "0xeb38",
+  "fortherecord": "0xeb39",
+  "fortran": "0xeb3a",
+  "fossa": "0xeb3b",
+  "fossil": "0xeb3c",
+  "fountain": "0xeb3d",
+  "franca": "0xeb3e",
+  "freedesktop": "0xeb3f",
+  "freedos": "0xeb40",
+  "freemarker": "0xeb41",
+  "freemat": "0xeb42",
+  "frege": "0xeb43",
+  "fthtml": "0xeb44",
+  "fuelux": "0xeb45",
+  "fusebox": "0xeb46",
+  "futhark": "0xeb47",
+  "galaxy": "0xeb48",
+  "galen": "0xeb49",
+  "gamemaker": "0xeb4a",
+  "gams": "0xeb4b",
+  "gap": "0xeb4c",
+  "gatsby": "0xeb4d",
+  "gauss": "0xeb4e",
+  "gdb": "0xeb4f",
+  "genshi": "0xeb50",
+  "genstat": "0xeb51",
+  "gentoo": "0xeb52",
+  "gf": "0xeb53",
+  "ghostscript": "0xeb54",
+  "gimp": "0xeb55",
+  "gitlab": "0xeb56",
+  "gitpod": "0xeb57",
+  "glade": "0xeb58",
+  "glide": "0xeb59",
+  "gltf": "0xeb5a",
+  "glyphs": "0xeb5b",
+  "gn": "0xeb5c",
+  "gnu": "0xeb5d",
+  "gnuplot": "0xeb5e",
+  "go_old": "0xeb5f",
+  "go": "0xeb60",
+  "godot": "0xeb61",
+  "golo": "0xeb62",
+  "goreleaser": "0xeb63",
+  "gosu": "0xeb64",
+  "gradle": "0xeb65",
+  "grapher": "0xeb66",
+  "graphite": "0xeb67",
+  "graphql_codegenerator": "0xeb68",
+  "graphql": "0xeb69",
+  "graphviz": "0xeb6a",
+  "gravit_designer": "0xeb6b",
+  "greenkeeper": "0xeb6c",
+  "gridsome": "0xeb6d",
+  "groovy": "0xeb6e",
+  "grunt": "0xeb6f",
+  "gulp": "0xeb70",
+  "hack": "0xeb71",
+  "haml": "0xeb72",
+  "harbour": "0xeb73",
+  "hashicorp": "0xeb74",
+  "haxe": "0xeb75",
+  "haxedevelop": "0xeb76",
+  "helix": "0xeb77",
+  "hewlettpackard": "0xeb78",
+  "hie": "0xeb79",
+  "hitachi": "0xeb7a",
+  "hjson": "0xeb7b",
+  "homebrew": "0xeb7c",
+  "hop": "0xeb7d",
+  "hoplon": "0xeb7e",
+  "houdini": "0xeb7f",
+  "houndci": "0xeb80",
+  "hugo": "0xeb81",
+  "husky": "0xeb82",
+  "hy": "0xeb83",
+  "hygen": "0xeb84",
+  "hyper": "0xeb85",
+  "icomoon": "0xeb86",
+  "icu": "0xeb87",
+  "idl": "0xeb88",
+  "idris": "0xeb89",
+  "igor_pro": "0xeb8a",
+  "illumos": "0xeb8b",
+  "image": "0xeb8c",
+  "imba_alt": "0xeb8d",
+  "imba_old": "0xeb8e",
+  "imba": "0xeb8f",
+  "imgbot": "0xeb90",
+  "influxdata": "0xeb91",
+  "inform7": "0xeb92",
+  "ink": "0xeb93",
+  "inkscape": "0xeb94",
+  "innosetup": "0xeb95",
+  "intel": "0xeb96",
+  "io": "0xeb97",
+  "ioke": "0xeb98",
+  "ionic_project": "0xeb99",
+  "isabelle": "0xeb9a",
+  "istanbul": "0xeb9b",
+  "j": "0xeb9c",
+  "jade": "0xeb9d",
+  "jakefile": "0xeb9e",
+  "janet": "0xeb9f",
+  "jasmine": "0xeba0",
+  "jenkins": "0xeba1",
+  "jest": "0xeba2",
+  "jinja": "0xeba3",
+  "jison": "0xeba4",
+  "jolie": "0xeba5",
+  "jscpd": "0xeba6",
+  "json_1": "0xeba7",
+  "json_2": "0xeba8",
+  "json_ld1": "0xeba9",
+  "json_ld2": "0xebaa",
+  "json5": "0xebab",
+  "jsonnet": "0xebac",
+  "jsx_alt": "0xebad",
+  "jsx_atom": "0xebae",
+  "jsx": "0xebaf",
+  "julia": "0xebb0",
+  "junos": "0xebb1",
+  "jupyter": "0xebb2",
+  "kaitai": "0xebb3",
+  "karma": "0xebb4",
+  "keybase": "0xebb5",
+  "keynote": "0xebb6",
+  "khronos": "0xebb7",
+  "kibo": "0xebb8",
+  "kicad": "0xebb9",
+  "kitchenci": "0xebba",
+  "kivy": "0xebbb",
+  "knime": "0xebbc",
+  "knockout": "0xebbd",
+  "kos": "0xebbe",
+  "kotlin": "0xebbf",
+  "krl": "0xebc0",
+  "kubernetes": "0xebc1",
+  "kusto_alt": "0xebc2",
+  "kusto": "0xebc3",
+  "kx": "0xebc4",
+  "labview": "0xebc5",
+  "laravel": "0xebc6",
+  "lark": "0xebc7",
+  "lasso": "0xebc8",
+  "latex": "0xebc9",
+  "latino": "0xebca",
+  "leaflet": "0xebcb",
+  "lean": "0xebcc",
+  "lefthook_alt": "0xebcd",
+  "lefthook": "0xebce",
+  "leiningen": "0xebcf",
+  "lektor": "0xebd0",
+  "lerna": "0xebd1",
+  "lex_alt": "0xebd2",
+  "lex": "0xebd3",
+  "lfe": "0xebd4",
+  "lgtm": "0xebd5",
+  "libuv": "0xebd6",
+  "lighthouse": "0xebd7",
+  "lightwave": "0xebd8",
+  "lilypond": "0xebd9",
+  "lime": "0xebda",
+  "linqpad": "0xebdb",
+  "lisp": "0xebdc",
+  "livescript": "0xebdd",
+  "llvm": "0xebde",
+  "logtalk": "0xebdf",
+  "lolcode": "0xebe0",
+  "lookml": "0xebe1",
+  "lsl": "0xebe2",
+  "lua": "0xebe3",
+  "macaulay2": "0xebe4",
+  "macvim": "0xebe5",
+  "magit": "0xebe6",
+  "mako": "0xebe7",
+  "manjaro": "0xebe8",
+  "manpage": "0xebe9",
+  "mapbox": "0xebea",
+  "markdownlint": "0xebeb",
+  "marko": "0xebec",
+  "mathematica": "0xebed",
+  "mathjax": "0xebee",
+  "matlab": "0xebef",
+  "matroska": "0xebf0",
+  "max": "0xebf1",
+  "maya": "0xebf2",
+  "mdx": "0xebf3",
+  "mediawiki": "0xebf4",
+  "melpa": "0xebf5",
+  "mercurial": "0xebf6",
+  "mercury": "0xebf7",
+  "mermaid": "0xebf8",
+  "meson_old": "0xebf9",
+  "meson": "0xebfa",
+  "metal": "0xebfb",
+  "metapost": "0xebfc",
+  "meteor": "0xebfd",
+  "microsoft_access": "0xebfe",
+  "microsoft_excel": "0xebff",
+  "microsoft_infopath": "0xec00",
+  "microsoft_lync": "0xec01",
+  "microsoft_onenote": "0xec02",
+  "microsoft_outlook": "0xec03",
+  "microsoft_powerpoint": "0xec04",
+  "microsoft_project": "0xec05",
+  "microsoft_publisher": "0xec06",
+  "microsoft_visio": "0xec07",
+  "microsoft_word": "0xec08",
+  "minecraft": "0xec09",
+  "minizinc": "0xec0a",
+  "mint": "0xec0b",
+  "mirah": "0xec0c",
+  "miranda": "0xec0d",
+  "mirc": "0xec0e",
+  "mixin": "0xec0f",
+  "mjml": "0xec10",
+  "mocha": "0xec11",
+  "modelica": "0xec12",
+  "modernweb": "0xec13",
+  "modo": "0xec14",
+  "modula_2": "0xec15",
+  "modula_3": "0xec16",
+  "moho": "0xec17",
+  "moleculer": "0xec18",
+  "moment_timezone": "0xec19",
+  "moment": "0xec1a",
+  "monkey": "0xec1b",
+  "mono": "0xec1c",
+  "monotone": "0xec1d",
+  "motorola": "0xec1e",
+  "moustache": "0xec1f",
+  "mruby": "0xec20",
+  "ms_dos": "0xec21",
+  "mupad": "0xec22",
+  "nano": "0xec23",
+  "nanoc": "0xec24",
+  "nant": "0xec25",
+  "nasm": "0xec26",
+  "ndepend": "0xec27",
+  "neko": "0xec28",
+  "nemerle": "0xec29",
+  "neo4j": "0xec2a",
+  "neon": "0xec2b",
+  "nessus": "0xec2c",
+  "nestjs": "0xec2d",
+  "netlify": "0xec2e",
+  "netlinx": "0xec2f",
+  "netlogo": "0xec30",
+  "new_relic": "0xec31",
+  "nextflow": "0xec32",
+  "nextjs": "0xec33",
+  "nginx": "0xec34",
+  "ngrx": "0xec35",
+  "nib": "0xec36",
+  "nickle": "0xec37",
+  "nightwatch": "0xec38",
+  "nimble": "0xec39",
+  "nimrod": "0xec3a",
+  "nintendo64": "0xec3b",
+  "nit": "0xec3c",
+  "nix": "0xec3d",
+  "nmap": "0xec3e",
+  "nodemon": "0xec3f",
+  "nokogiri": "0xec40",
+  "nomad": "0xec41",
+  "noon": "0xec42",
+  "normalise": "0xec43",
+  "npm_old": "0xec44",
+  "npm": "0xec45",
+  "nsis_old": "0xec46",
+  "nsis": "0xec47",
+  "nsri_alt": "0xec48",
+  "nsri": "0xec49",
+  "nuclide": "0xec4a",
+  "nuget": "0xec4b",
+  "numpy_old": "0xec4c",
+  "numpy": "0xec4d",
+  "nunjucks": "0xec4e",
+  "nuxt": "0xec4f",
+  "nvidia": "0xec50",
+  "nwscript": "0xec51",
+  "nx": "0xec52",
+  "nxc": "0xec53",
+  "oberon": "0xec54",
+  "objective_j": "0xec55",
+  "ocaml": "0xec56",
+  "octave": "0xec57",
+  "odin": "0xec58",
+  "ogone": "0xec59",
+  "omnigraffle": "0xec5a",
+  "ooc": "0xec5b",
+  "opa": "0xec5c",
+  "openapi": "0xec5d",
+  "openbsd_alt": "0xec5e",
+  "openbsd": "0xec5f",
+  "opencl": "0xec60",
+  "opencv": "0xec61",
+  "openexr": "0xec62",
+  "opengl": "0xec63",
+  "openindiana": "0xec64",
+  "openoffice": "0xec65",
+  "openpolicyagent": "0xec66",
+  "openscad": "0xec67",
+  "opensolaris": "0xec68",
+  "openstack": "0xec69",
+  "openvms": "0xec6a",
+  "openvpn": "0xec6b",
+  "openzfs": "0xec6c",
+  "org_mode": "0xec6d",
+  "os2": "0xec6e",
+  "owl": "0xec6f",
+  "ox": "0xec70",
+  "oxygene": "0xec71",
+  "oz": "0xec72",
+  "p4": "0xec73",
+  "pan": "0xec74",
+  "papyrus": "0xec75",
+  "parrot": "0xec76",
+  "pascal": "0xec77",
+  "patch": "0xec78",
+  "patreon": "0xec79",
+  "pawn": "0xec7a",
+  "pcd": "0xec7b",
+  "pegjs": "0xec7c",
+  "perl6": "0xec7d",
+  "phalcon": "0xec7e",
+  "phoenix": "0xec7f",
+  "photorec": "0xec80",
+  "php": "0xec81",
+  "phpunit": "0xec82",
+  "phraseapp": "0xec83",
+  "pickle": "0xec84",
+  "pico_8": "0xec85",
+  "picolisp": "0xec86",
+  "pike": "0xec87",
+  "pinescript": "0xec88",
+  "pipenv": "0xec89",
+  "pkgsrc": "0xec8a",
+  "platformio": "0xec8b",
+  "pm2": "0xec8c",
+  "pnpm": "0xec8d",
+  "pod": "0xec8e",
+  "pogoscript": "0xec8f",
+  "pointwise": "0xec90",
+  "polymer": "0xec91",
+  "pony": "0xec92",
+  "postcss": "0xec93",
+  "postscript": "0xec94",
+  "pov_ray": "0xec95",
+  "powerbuilder": "0xec96",
+  "powerpc": "0xec97",
+  "powershell": "0xec98",
+  "precision": "0xec99",
+  "precommit": "0xec9a",
+  "prettier": "0xec9b",
+  "prisma": "0xec9c",
+  "processing": "0xec9d",
+  "progress_old": "0xec9e",
+  "progress": "0xec9f",
+  "propeller": "0xeca0",
+  "pros": "0xeca1",
+  "proselint": "0xeca2",
+  "protractor": "0xeca3",
+  "pug_old": "0xeca4",
+  "pug": "0xeca5",
+  "pullapprove": "0xeca6",
+  "puppet": "0xeca7",
+  "pure": "0xeca8",
+  "purebasic": "0xeca9",
+  "purescript": "0xecaa",
+  "pypi": "0xecab",
+  "pyret": "0xecac",
+  "pytest": "0xecad",
+  "pyup": "0xecae",
+  "q#": "0xecaf",
+  "qiskit": "0xecb0",
+  "qlikview": "0xecb1",
+  "qt": "0xecb2",
+  "quasar": "0xecb3",
+  "r": "0xecb4",
+  "racket": "0xecb5",
+  "raml": "0xecb6",
+  "rascal": "0xecb7",
+  "razzle": "0xecb8",
+  "rdata": "0xecb9",
+  "rdoc": "0xecba",
+  "reactos": "0xecbb",
+  "readthedocs": "0xecbc",
+  "realbasic": "0xecbd",
+  "reason": "0xecbe",
+  "reasonstudios_alt": "0xecbf",
+  "reasonstudios": "0xecc0",
+  "rebol": "0xecc1",
+  "red_old": "0xecc2",
+  "red": "0xecc3",
+  "redux": "0xecc4",
+  "reek": "0xecc5",
+  "regex": "0xecc6",
+  "remark": "0xecc7",
+  "renovate": "0xecc8",
+  "rescript": "0xecc9",
+  "restql": "0xecca",
+  "restructuredtext": "0xeccb",
+  "rexx": "0xeccc",
+  "rhino3d": "0xeccd",
+  "ring": "0xecce",
+  "riot_old": "0xeccf",
+  "riot": "0xecd0",
+  "risc_v": "0xecd1",
+  "rmarkdown": "0xecd2",
+  "robotframework_old": "0xecd3",
+  "robotframework": "0xecd4",
+  "robots": "0xecd5",
+  "rollup_old": "0xecd6",
+  "rollup": "0xecd7",
+  "rspec": "0xecd8",
+  "rstudio": "0xecd9",
+  "rsync": "0xecda",
+  "rubocop": "0xecdb",
+  "rubygems": "0xecdc",
+  "sac": "0xecdd",
+  "sage": "0xecde",
+  "sails": "0xecdf",
+  "saltstack": "0xece0",
+  "san": "0xece1",
+  "sandbox": "0xece2",
+  "sas": "0xece3",
+  "sbt": "0xece4",
+  "scheme": "0xece5",
+  "scilab": "0xece6",
+  "scilla": "0xece7",
+  "scratch": "0xece8",
+  "scrutinizer": "0xece9",
+  "self": "0xecea",
+  "semanticrelease": "0xeceb",
+  "sentry": "0xecec",
+  "sequelize": "0xeced",
+  "serverless": "0xecee",
+  "service_fabric": "0xecef",
+  "shadowcljs": "0xecf0",
+  "shellcheck": "0xecf1",
+  "shen": "0xecf2",
+  "shipit": "0xecf3",
+  "shippable": "0xecf4",
+  "shopify": "0xecf5",
+  "shuriken": "0xecf6",
+  "sigils": "0xecf7",
+  "silicongraphics": "0xecf8",
+  "silverstripe": "0xecf9",
+  "sinatra": "0xecfa",
+  "sketch": "0xecfb",
+  "sketchup_layout": "0xecfc",
+  "sketchup_make": "0xecfd",
+  "sketchup_stylebuilder": "0xecfe",
+  "slash": "0xecff",
+  "smartos_alt": "0xed00",
+  "smartos": "0xed01",
+  "snapcraft": "0xed02",
+  "snort": "0xed03",
+  "snowpack": "0xed04",
+  "snyk": "0xed05",
+  "solidarity": "0xed06",
+  "solidity": "0xed07",
+  "sophia": "0xed08",
+  "sorbet": "0xed09",
+  "source": "0xed0a",
+  "spacemacs": "0xed0b",
+  "spacengine": "0xed0c",
+  "sparc": "0xed0d",
+  "spray": "0xed0e",
+  "sqf": "0xed0f",
+  "sqlite": "0xed10",
+  "squarespace": "0xed11",
+  "stan": "0xed12",
+  "stata": "0xed13",
+  "stdlibjs": "0xed14",
+  "stencil": "0xed15",
+  "stitches": "0xed16",
+  "storybook": "0xed17",
+  "storyist": "0xed18",
+  "strings": "0xed19",
+  "stylable": "0xed1a",
+  "styledcomponents": "0xed1b",
+  "stylelint": "0xed1c",
+  "stylishhaskell": "0xed1d",
+  "stylus_orb": "0xed1e",
+  "stylus_s": "0xed1f",
+  "stylus": "0xed20",
+  "sublime": "0xed21",
+  "supercollider": "0xed22",
+  "svelte": "0xed23",
+  "svn": "0xed24",
+  "swagger": "0xed25",
+  "systemverilog": "0xed26",
+  "tag": "0xed27",
+  "tailwind": "0xed28",
+  "tcl": "0xed29",
+  "telegram": "0xed2a",
+  "templatetoolkit": "0xed2b",
+  "templeos": "0xed2c",
+  "terminal": "0xed2d",
+  "tern": "0xed2e",
+  "terraform": "0xed2f",
+  "terser": "0xed30",
+  "test_coffeescript": "0xed31",
+  "test_directory": "0xed32",
+  "test_generic": "0xed33",
+  "test_go": "0xed34",
+  "test_haskell": "0xed35",
+  "test_js": "0xed36",
+  "test_perl": "0xed37",
+  "test_python": "0xed38",
+  "test_react": "0xed39",
+  "test_ruby": "0xed3a",
+  "test_rust": "0xed3b",
+  "test_typescript": "0xed3c",
+  "testcafe": "0xed3d",
+  "textile": "0xed3e",
+  "textmate": "0xed3f",
+  "tfs": "0xed40",
+  "thor": "0xed41",
+  "tilt": "0xed42",
+  "tinymce": "0xed43",
+  "tipe": "0xed44",
+  "tla+": "0xed45",
+  "tmux": "0xed46",
+  "toml": "0xed47",
+  "tortoisesvn": "0xed48",
+  "totvs": "0xed49",
+  "truffle": "0xed4a",
+  "tsx_alt": "0xed4b",
+  "tsx": "0xed4c",
+  "ttcn_3": "0xed4d",
+  "turing": "0xed4e",
+  "twig": "0xed4f",
+  "twine": "0xed50",
+  "txl": "0xed51",
+  "typedoc": "0xed52",
+  "typescript_alt": "0xed53",
+  "typescript": "0xed54",
+  "typings": "0xed55",
+  "ufo": "0xed56",
+  "unibeautify": "0xed57",
+  "unicode": "0xed58",
+  "uno": "0xed59",
+  "unrealscript": "0xed5a",
+  "urweb": "0xed5b",
+  "v_ray": "0xed5c",
+  "v": "0xed5d",
+  "v8_turbofan": "0xed5e",
+  "v8": "0xed5f",
+  "vagrant": "0xed60",
+  "vala": "0xed61",
+  "vax": "0xed62",
+  "vcl": "0xed63",
+  "velocity": "0xed64",
+  "verilog": "0xed65",
+  "vertexshader": "0xed66",
+  "vhdl": "0xed67",
+  "video": "0xed68",
+  "virtualbox_alt": "0xed69",
+  "virtualbox": "0xed6a",
+  "vite": "0xed6b",
+  "vmware": "0xed6c",
+  "vscode": "0xed6d",
+  "vsts": "0xed6e",
+  "vue": "0xed6f",
+  "vyper": "0xed70",
+  "w3c": "0xed71",
+  "wallaby": "0xed72",
+  "walt": "0xed73",
+  "warcraft_iii": "0xed74",
+  "wasi": "0xed75",
+  "watchman": "0xed76",
+  "wdl": "0xed77",
+  "webassembly": "0xed78",
+  "webgl": "0xed79",
+  "webhint": "0xed7a",
+  "webpack_old": "0xed7b",
+  "webpack": "0xed7c",
+  "webvtt": "0xed7d",
+  "wenyan": "0xed7e",
+  "wercker": "0xed7f",
+  "wget": "0xed80",
+  "windi": "0xed81",
+  "wine": "0xed82",
+  "winui": "0xed83",
+  "wix": "0xed84",
+  "wolfram": "0xed85",
+  "workbox": "0xed86",
+  "wurst": "0xed87",
+  "x10": "0xed88",
+  "xamarin": "0xed89",
+  "xmake": "0xed8a",
+  "xmos": "0xed8b",
+  "xpages": "0xed8c",
+  "xtend": "0xed8d",
+  "xubuntu": "0xed8e",
+  "yaml_alt1": "0xed8f",
+  "yaml_alt2": "0xed90",
+  "yaml_alt3": "0xed91",
+  "yaml_alt4": "0xed92",
+  "yaml": "0xed93",
+  "yamllint": "0xed94",
+  "yandex": "0xed95",
+  "yang": "0xed96",
+  "yara": "0xed97",
+  "yarn": "0xed98",
+  "yasm": "0xed99",
+  "yorick": "0xed9a",
+  "yui": "0xed9b",
+  "zbrush": "0xed9c",
+  "zeit": "0xed9d",
+  "zephir": "0xed9e",
+  "zig": "0xed9f",
+  "zilog": "0xeda0",
+  "zimpl": "0xeda1",
+  "zorinos": "0xeda2",
+  "zork": "0xeda3"
+};

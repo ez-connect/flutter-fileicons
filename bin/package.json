@@ -1,0 +1,9 @@
+{
+  "name": "flutter-fileicons",
+  "version": "0.0.1",
+  "description": "",
+  "main": "css-to-dart.js",
+  "dependencies": {
+    "svgtofont": "^3.17.8"
+  }
+}

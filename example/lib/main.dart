@@ -1,5 +1,6 @@
-import 'package:fileicons/fileicons.dart';
 import 'package:flutter/material.dart';
+
+import 'package:fileicons/fileicons.dart';
 
 void main() {
   runApp(const MyApp());
@@ -25,16 +26,17 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(),
+      debugShowCheckedModeBanner: false,
+      home: MyHomePage(),
     );
   }
 }
 
 class MyHomePage extends StatelessWidget {
-  static const _from = 0xe900;
-  static const _to = 0xeca7;
+  final _from = FileIcons.i1c.codePoint;
+  final _to = FileIcons.zork.codePoint;
 
-  const MyHomePage({Key? key}) : super(key: key);
+  MyHomePage({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
