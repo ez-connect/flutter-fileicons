@@ -45,17 +45,18 @@ test:
 
 #: Genereate TTF from SVG
 ttf:
-	mkdir -p bin/tmp
 ifeq ($(wildcard bin/tmp/icons-master),)
+	mkdir -p bin/tmp
 	curl -Lo bin/tmp/icons.zip https://github.com/file-icons/icons/archive/refs/heads/master.zip
 	unzip bin/tmp/icons.zip -d bin/tmp/
 endif
-	node bin/node_modules/svgtofont/lib/cli.js --sources bin/tmp/icons-master/svg --output=bin/tmp/fonts/ --fontName=FileIcons
+#	node bin/node_modules/svgtofont/lib/cli.js --sources bin/tmp/icons-master/svg --output=bin/tmp/fonts/ --fontName=FileIcons
+#	cp bin/tmp/fonts/*.ttf assets/fonts/
 
-# Copy ttf
-	cp bin/tmp/fonts/*.ttf assets/fonts/
+	node bin/woff2-to-ttf.js bin/tmp/icons-master/dist/file-icons.woff2 assets/fonts/FileIcons.ttf
 
 #: Generate source from IcoMoon css
 gen:
-	node bin/css-to-dart.js bin/tmp/fonts/FileIcons.css lib/fileicons.dart
+#	node bin/css-to-dart.js bin/tmp/fonts/FileIcons.css lib/fileicons.dart
+	node bin/css-to-dart.js bin/tmp/icons-master/icons.tsv lib/fileicons.dart
 	@make -s fmt lint

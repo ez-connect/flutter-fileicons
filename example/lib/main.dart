@@ -27,31 +27,35 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
       debugShowCheckedModeBanner: false,
-      home: MyHomePage(),
+      home: const MyHomePage(),
     );
   }
 }
 
 class MyHomePage extends StatelessWidget {
-  final _from = FileIcons.i1c.codePoint;
-  final _to = FileIcons.zork.codePoint;
-
-  MyHomePage({Key? key}) : super(key: key);
+  const MyHomePage({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
+    final items = FileIconsMapping.entries.toList();
     return Scaffold(
       appBar: AppBar(
         title: const Text('Flutter FileIcons'),
       ),
       body: GridView.extent(
-        maxCrossAxisExtent: 72,
-        children: List.generate(_to - _from + 1, (index) {
-          final code = index + _from;
+        maxCrossAxisExtent: 86,
+        childAspectRatio: 0.7,
+        children: List.generate(items.length, (index) {
+          final item = items[index];
           return Column(
             children: [
-              Icon(FileIconsData(code), size: 48),
-              Text(FileIconsData(code).fontPackage ?? ''),
+              Icon(FileIconsData(int.parse(item.value)), size: 64),
+              const SizedBox(height: 8),
+              Text(
+                item.key,
+                textAlign: TextAlign.center,
+                style: const TextStyle(fontSize: 12),
+              ),
             ],
           );
         }),

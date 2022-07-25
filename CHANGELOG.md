@@ -1,3 +1,3 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+- Init v0.0.1 based on [File-Icons@e6e6e6a](https://github.com/file-icons/icons)

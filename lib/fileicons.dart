@@ -8,3736 +8,3732 @@ class FileIconsData extends IconData {
       : super(
           code,
           fontFamily: 'FileIcons',
-          fontPackage: 'file-icons',
+          fontPackage: 'FileIcons',
         );
 }
 
 /// Use with the Icon class to show specific icons.
 class FileIcons {
-  /// 1c_alt
-  static const i1c_alt = FileIconsData(0xea01);
+  /// 1C
+  static const i1c = FileIconsData(0xA5EA);
 
-  /// 1c
-  static const i1c = FileIconsData(0xea02);
+  /// 1C, Alt
+  static const i1c_alt = FileIconsData(0xEA28);
 
-  /// 3d_model
-  static const i3d_model = FileIconsData(0xea03);
+  /// 3D Model
+  static const i3d_model = FileIconsData(0xE9E8);
 
-  /// 3ds_max
-  static const i3ds_max = FileIconsData(0xea04);
+  /// 3DS Max
+  static const i3ds_max = FileIconsData(0xE900);
 
-  /// 4d
-  static const i4d = FileIconsData(0xea05);
+  /// 4D
+  static const i4d = FileIconsData(0xEB73);
 
-  /// a+
-  static const a_plus = FileIconsData(0xea06);
+  /// A+
+  static const a_plus = FileIconsData(0xEB79);
 
-  /// abap
-  static const abap = FileIconsData(0xea07);
+  /// ABAP
+  static const abap = FileIconsData(0xE92B);
 
-  /// abif
-  static const abif = FileIconsData(0xea08);
+  /// ABIF
+  static const abif = FileIconsData(0xEA4E);
 
-  /// acre
-  static const acre = FileIconsData(0xea09);
+  /// Acre
+  static const acre = FileIconsData(0x237A);
 
-  /// actionscript
-  static const actionscript = FileIconsData(0xea0a);
+  /// ActionScript
+  static const actionscript = FileIconsData(0xE92E);
 
-  /// ada
-  static const ada = FileIconsData(0xea0b);
+  /// Ada
+  static const ada = FileIconsData(0xE90B);
 
-  /// adobe_acrobat
-  static const adobe_acrobat = FileIconsData(0xea0c);
+  /// Adobe
+  static const adobe = FileIconsData(0x1D235);
 
-  /// adobe_aftereffects
-  static const adobe_aftereffects = FileIconsData(0xea0d);
+  /// Adobe Acrobat
+  static const adobe_acrobat = FileIconsData(0xEB5F);
 
-  /// adobe_animate
-  static const adobe_animate = FileIconsData(0xea0e);
+  /// Adobe After Effects
+  static const adobe_after_effects = FileIconsData(0xE9F3);
 
-  /// adobe_audition
-  static const adobe_audition = FileIconsData(0xea0f);
+  /// Adobe Animate
+  static const adobe_animate = FileIconsData(0xEB41);
 
-  /// adobe_bridge
-  static const adobe_bridge = FileIconsData(0xea10);
+  /// Adobe Audition
+  static const adobe_audition = FileIconsData(0x3373);
 
-  /// adobe_characteranimator
-  static const adobe_characteranimator = FileIconsData(0xea11);
+  /// Adobe Bridge
+  static const adobe_bridge = FileIconsData(0xEB61);
 
-  /// adobe_creativecloud
-  static const adobe_creativecloud = FileIconsData(0xea12);
+  /// Adobe Character Animator
+  static const adobe_character_animator = FileIconsData(0xEB62);
 
-  /// adobe_dimension
-  static const adobe_dimension = FileIconsData(0xea13);
+  /// Adobe Creative Cloud
+  static const adobe_creative_cloud = FileIconsData(0xEB5E);
 
-  /// adobe_dreamweaver
-  static const adobe_dreamweaver = FileIconsData(0xea14);
+  /// Adobe Dimension
+  static const adobe_dimension = FileIconsData(0xEB63);
 
-  /// adobe_flash
-  static const adobe_flash = FileIconsData(0xea15);
+  /// Adobe Dreamweaver
+  static const adobe_dreamweaver = FileIconsData(0xEB64);
 
-  /// adobe_fuse
-  static const adobe_fuse = FileIconsData(0xea16);
+  /// Adobe Flash
+  static const adobe_flash = FileIconsData(0xEB43);
 
-  /// adobe_illustrator
-  static const adobe_illustrator = FileIconsData(0xea17);
+  /// Adobe Fuse
+  static const adobe_fuse = FileIconsData(0xEB65);
 
-  /// adobe_incopy
-  static const adobe_incopy = FileIconsData(0xea18);
+  /// Adobe Illustrator
+  static const adobe_illustrator = FileIconsData(0xE6B4);
 
-  /// adobe_indesign
-  static const adobe_indesign = FileIconsData(0xea19);
+  /// Adobe InCopy
+  static const adobe_incopy = FileIconsData(0x1F18B);
 
-  /// adobe_lightroom
-  static const adobe_lightroom = FileIconsData(0xea1a);
+  /// Adobe InDesign
+  static const adobe_indesign = FileIconsData(0xE9F4);
 
-  /// adobe_mediaencoder
-  static const adobe_mediaencoder = FileIconsData(0xea1b);
+  /// Adobe Lightroom
+  static const adobe_lightroom = FileIconsData(0xEB67);
 
-  /// adobe_photoshop
-  static const adobe_photoshop = FileIconsData(0xea1c);
+  /// Adobe Media Encoder
+  static const adobe_media_encoder = FileIconsData(0xEB68);
 
-  /// adobe_prelude
-  static const adobe_prelude = FileIconsData(0xea1d);
+  /// Adobe Photoshop
+  static const adobe_photoshop = FileIconsData(0xE6B8);
 
-  /// adobe_premiere
-  static const adobe_premiere = FileIconsData(0xea1e);
+  /// Adobe Prelude
+  static const adobe_prelude = FileIconsData(0xEB69);
 
-  /// adobe_premiererush
-  static const adobe_premiererush = FileIconsData(0xea1f);
+  /// Adobe Premiere
+  static const adobe_premiere = FileIconsData(0xE9F5);
 
-  /// adobe_xd
-  static const adobe_xd = FileIconsData(0xea20);
+  /// Adobe Premiere Rush
+  static const adobe_premiere_rush = FileIconsData(0xEB6A);
 
-  /// adobe
-  static const adobe = FileIconsData(0xea21);
+  /// Adobe XD
+  static const adobe_xd = FileIconsData(0xEB6B);
 
-  /// adonisjs
-  static const adonisjs = FileIconsData(0xea22);
+  /// Aeternity
+  static const aeternity = FileIconsData(0x00E6);
 
-  /// aeternity
-  static const aeternity = FileIconsData(0xea23);
+  /// AffectScript
+  static const affectscript = FileIconsData(0xEB2C);
 
-  /// affectscript
-  static const affectscript = FileIconsData(0xea24);
+  /// AffinityDesigner
+  static const affinitydesigner = FileIconsData(0xEABB);
 
-  /// affinitydesigner
-  static const affinitydesigner = FileIconsData(0xea25);
+  /// Agda
+  static const agda = FileIconsData(0x1315A);
 
-  /// agc
-  static const agc = FileIconsData(0xea26);
+  /// Akka
+  static const akka = FileIconsData(0xEA0E);
 
-  /// agda
-  static const agda = FileIconsData(0xea27);
+  /// Alacritty
+  static const alacritty = FileIconsData(0xEB27);
 
-  /// akka
-  static const akka = FileIconsData(0xea28);
+  /// Alacritty, Alt
+  static const alacritty_alt = FileIconsData(0xEB28);
 
-  /// alacritty_alt
-  static const alacritty_alt = FileIconsData(0xea29);
+  /// Alex
+  static const alex = FileIconsData(0x29CB);
 
-  /// alacritty
-  static const alacritty = FileIconsData(0xea2a);
+  /// Alloy
+  static const alloy = FileIconsData(0xE935);
 
-  /// alex
-  static const alex = FileIconsData(0xea2b);
+  /// Alpine Linux
+  static const alpine_linux = FileIconsData(0xE9FF);
 
-  /// alloy
-  static const alloy = FileIconsData(0xea2c);
+  /// AMD
+  static const amd = FileIconsData(0xEB59);
 
-  /// alpine_linux
-  static const alpine_linux = FileIconsData(0xea2d);
+  /// AmigaOS
+  static const amigaos = FileIconsData(0x26BD);
 
-  /// amd
-  static const amd = FileIconsData(0xea2e);
+  /// AMPL
+  static const ampl = FileIconsData(0xE94E);
 
-  /// amigaos
-  static const amigaos = FileIconsData(0xea2f);
+  /// AmuseWiki
+  static const amusewiki = FileIconsData(0xEB32);
 
-  /// ampl
-  static const ampl = FileIconsData(0xea30);
+  /// Analytica
+  static const analytica = FileIconsData(0xEB7D);
 
-  /// amusewiki
-  static const amusewiki = FileIconsData(0xea31);
+  /// AngelScript
+  static const angelscript = FileIconsData(0xEA5B);
 
-  /// analytica
-  static const analytica = FileIconsData(0xea32);
+  /// AnimeStudio
+  static const animestudio = FileIconsData(0xEAED);
 
-  /// angelscript
-  static const angelscript = FileIconsData(0xea33);
+  /// Ansible
+  static const ansible = FileIconsData(0x24B6);
 
-  /// animestudio
-  static const animestudio = FileIconsData(0xea34);
+  /// Ansible, Alt
+  static const ansible_alt = FileIconsData(0x0061);
 
-  /// ansible_alt
-  static const ansible_alt = FileIconsData(0xea35);
+  /// ANTLR
+  static const antlr = FileIconsData(0xE92C);
 
-  /// ansible
-  static const ansible = FileIconsData(0xea36);
+  /// Antwar
+  static const antwar = FileIconsData(0x2591);
 
-  /// antlr
-  static const antlr = FileIconsData(0xea37);
+  /// AnyScript
+  static const anyscript = FileIconsData(0xEACF);
 
-  /// antwar
-  static const antwar = FileIconsData(0xea38);
+  /// Apache ANT
+  static const apache_ant = FileIconsData(0xE93E);
 
-  /// anyscript
-  static const anyscript = FileIconsData(0xea39);
+  /// API Blueprint
+  static const api_blueprint = FileIconsData(0xE92D);
 
-  /// apache_ant
-  static const apache_ant = FileIconsData(0xea3a);
+  /// API Extractor
+  static const api_extractor = FileIconsData(0xEB99);
 
-  /// api_blueprint
-  static const api_blueprint = FileIconsData(0xea3b);
+  /// APL
+  static const apl = FileIconsData(0x234B);
 
-  /// apiextractor
-  static const apiextractor = FileIconsData(0xea3c);
+  /// APL, Old
+  static const apl_old = FileIconsData(0xE909);
 
-  /// apl_old
-  static const apl_old = FileIconsData(0xea3d);
+  /// Apollo
+  static const apollo = FileIconsData(0x1F110);
 
-  /// apl
-  static const apl = FileIconsData(0xea3e);
+  /// Apollo Guidance Computer (AGC)
+  static const apollo_guidance_computer_agc = FileIconsData(0xEB54);
 
-  /// apollo
-  static const apollo = FileIconsData(0xea3f);
+  /// Apple
+  static const apple = FileIconsData(0xE925);
 
-  /// apple
-  static const apple = FileIconsData(0xea40);
+  /// Appveyor
+  static const appveyor = FileIconsData(0xE923);
 
-  /// appveyor
-  static const appveyor = FileIconsData(0xea41);
+  /// Arc
+  static const arc = FileIconsData(0xE92F);
 
-  /// arc
-  static const arc = FileIconsData(0xea42);
+  /// Arch Linux
+  static const arch_linux = FileIconsData(0x0041);
 
-  /// arch_linux
-  static const arch_linux = FileIconsData(0xea43);
+  /// Arduino
+  static const arduino = FileIconsData(0xE930);
 
-  /// arduino
-  static const arduino = FileIconsData(0xea44);
+  /// ARM
+  static const arm = FileIconsData(0xEB5B);
 
-  /// arm
-  static const arm = FileIconsData(0xea45);
+  /// Art Text
+  static const art_text = FileIconsData(0x24D0);
 
-  /// arttext
-  static const arttext = FileIconsData(0xea46);
+  /// Art Text 4
+  static const art_text_4 = FileIconsData(0x1D5EE);
 
-  /// arttext4
-  static const arttext4 = FileIconsData(0xea47);
+  /// AsciiDoc
+  static const asciidoc = FileIconsData(0xE918);
 
-  /// asciidoc
-  static const asciidoc = FileIconsData(0xea48);
+  /// Asciidoctor
+  static const asciidoctor = FileIconsData(0xEAC7);
 
-  /// asciidoctor
-  static const asciidoctor = FileIconsData(0xea49);
+  /// Assembly, AGC
+  static const assembly_agc = FileIconsData(0xEB53);
 
-  /// assembly_agc
-  static const assembly_agc = FileIconsData(0xea4a);
+  /// Assembly, AMD
+  static const assembly_amd = FileIconsData(0xEB52);
 
-  /// assembly_amd
-  static const assembly_amd = FileIconsData(0xea4b);
+  /// Assembly, ARM
+  static const assembly_arm = FileIconsData(0xEB51);
 
-  /// assembly_arm
-  static const assembly_arm = FileIconsData(0xea4c);
+  /// Assembly, AT&T
+  static const assembly_atnt = FileIconsData(0xEB50);
 
-  /// assembly_att
-  static const assembly_att = FileIconsData(0xea4d);
+  /// Assembly, AVR
+  static const assembly_avr = FileIconsData(0xEB6C);
 
-  /// assembly_avr
-  static const assembly_avr = FileIconsData(0xea4e);
+  /// Assembly, Generic
+  static const assembly_generic = FileIconsData(0xEB4F);
 
-  /// assembly_generic
-  static const assembly_generic = FileIconsData(0xea4f);
+  /// Assembly, Hitachi
+  static const assembly_hitachi = FileIconsData(0xEB60);
 
-  /// assembly_hitachi
-  static const assembly_hitachi = FileIconsData(0xea50);
+  /// Assembly, Intel
+  static const assembly_intel = FileIconsData(0xEB4E);
 
-  /// assembly_intel
-  static const assembly_intel = FileIconsData(0xea51);
+  /// Assembly, Motorola
+  static const assembly_motorola = FileIconsData(0xEB4D);
 
-  /// assembly_motorola
-  static const assembly_motorola = FileIconsData(0xea52);
+  /// Assembly, PPC
+  static const assembly_ppc = FileIconsData(0xEB4C);
 
-  /// assembly_powerpc
-  static const assembly_powerpc = FileIconsData(0xea53);
+  /// Assembly, RISC-V
+  static const assembly_riscv = FileIconsData(0xEB4B);
 
-  /// assembly_riscv
-  static const assembly_riscv = FileIconsData(0xea54);
+  /// Assembly, SPARC
+  static const assembly_sparc = FileIconsData(0xEB4A);
 
-  /// assembly_sparc
-  static const assembly_sparc = FileIconsData(0xea55);
+  /// Assembly, VAX
+  static const assembly_vax = FileIconsData(0xEB48);
 
-  /// assembly_vax
-  static const assembly_vax = FileIconsData(0xea56);
+  /// Assembly, Zilog
+  static const assembly_zilog = FileIconsData(0xEB47);
 
-  /// assembly_zilog
-  static const assembly_zilog = FileIconsData(0xea57);
+  /// Asymptote
+  static const asymptote = FileIconsData(0xEAE5);
 
-  /// asymptote_alt
-  static const asymptote_alt = FileIconsData(0xea58);
+  /// Asymptote, Alt
+  static const asymptote_alt = FileIconsData(0xEAE3);
 
-  /// asymptote
-  static const asymptote = FileIconsData(0xea59);
+  /// Atoum
+  static const atoum = FileIconsData(0x2649);
 
-  /// atoum
-  static const atoum = FileIconsData(0xea5a);
+  /// ATS
+  static const ats = FileIconsData(0xE934);
 
-  /// ats
-  static const ats = FileIconsData(0xea5b);
+  /// AT&T
+  static const atnt = FileIconsData(0xEB55);
 
-  /// att
-  static const att = FileIconsData(0xea5c);
+  /// Audacity
+  static const audacity = FileIconsData(0xE9F9);
 
-  /// audacity
-  static const audacity = FileIconsData(0xea5d);
+  /// Augeas
+  static const augeas = FileIconsData(0xE931);
 
-  /// augeas
-  static const augeas = FileIconsData(0xea5e);
+  /// Aurelia
+  static const aurelia = FileIconsData(0xEA48);
 
-  /// aurelia
-  static const aurelia = FileIconsData(0xea5f);
+  /// AutoHotkey
+  static const autohotkey = FileIconsData(0xE932);
 
-  /// autohotkey
-  static const autohotkey = FileIconsData(0xea60);
+  /// AutoIt
+  static const autoit = FileIconsData(0xE933);
 
-  /// autoit
-  static const autoit = FileIconsData(0xea61);
+  /// Automator
+  static const automator = FileIconsData(0xEBB4);
 
-  /// automator
-  static const automator = FileIconsData(0xea62);
+  /// AVR
+  static const avr = FileIconsData(0xEB6D);
 
-  /// avr
-  static const avr = FileIconsData(0xea63);
+  /// Avro
+  static const avro = FileIconsData(0xEAA3);
 
-  /// avro
-  static const avro = FileIconsData(0xea64);
+  /// Awk
+  static const awk = FileIconsData(0x1F427);
 
-  /// awk
-  static const awk = FileIconsData(0xea65);
+  /// Azure Pipelines
+  static const azure_pipelines = FileIconsData(0x1F680);
 
-  /// azure_pipelines
-  static const azure_pipelines = FileIconsData(0xea66);
+  /// Babel
+  static const babel = FileIconsData(0xE91F);
 
-  /// babel
-  static const babel = FileIconsData(0xea67);
+  /// Ballerina
+  static const ballerina = FileIconsData(0xEAC8);
 
-  /// ballerina
-  static const ballerina = FileIconsData(0xea68);
+  /// Bazaar
+  static const bazaar = FileIconsData(0xEACD);
 
-  /// bazaar
-  static const bazaar = FileIconsData(0xea69);
+  /// Bazel
+  static const bazel = FileIconsData(0xEAD2);
 
-  /// bazel_old
-  static const bazel_old = FileIconsData(0xea6a);
+  /// Bazel, Old
+  static const bazel_old = FileIconsData(0xEA5A);
 
-  /// bazel
-  static const bazel = FileIconsData(0xea6b);
+  /// Behat
+  static const behat = FileIconsData(0xEA89);
 
-  /// behat
-  static const behat = FileIconsData(0xea6c);
+  /// BEM
+  static const bem = FileIconsData(0xEA59);
 
-  /// bem
-  static const bem = FileIconsData(0xea6d);
+  /// BibTeX
+  static const bibtex = FileIconsData(0xE601);
 
-  /// bibtex
-  static const bibtex = FileIconsData(0xea6e);
+  /// Bikeshed
+  static const bikeshed = FileIconsData(0x1F6B2);
 
-  /// bikeshed
-  static const bikeshed = FileIconsData(0xea6f);
+  /// Biml
+  static const biml = FileIconsData(0xEB29);
 
-  /// biml
-  static const biml = FileIconsData(0xea70);
+  /// Binder
+  static const binder = FileIconsData(0xEBA4);
 
-  /// binder
-  static const binder = FileIconsData(0xea71);
+  /// BinTray
+  static const bintray = FileIconsData(0xEA6E);
 
-  /// bintray
-  static const bintray = FileIconsData(0xea72);
+  /// Bison
+  static const bison = FileIconsData(0x1F402);
 
-  /// bison
-  static const bison = FileIconsData(0xea73);
+  /// bitHound
+  static const bithound = FileIconsData(0xEA2A);
 
-  /// bithound
-  static const bithound = FileIconsData(0xea74);
+  /// Blender
+  static const blender = FileIconsData(0xE9FA);
 
-  /// blender
-  static const blender = FileIconsData(0xea75);
+  /// BlitzBASIC
+  static const blitzbasic = FileIconsData(0xEBA5);
 
-  /// blitzbasic
-  static const blitzbasic = FileIconsData(0xea76);
+  /// Bloc
+  static const bloc = FileIconsData(0xEBA3);
 
-  /// bloc
-  static const bloc = FileIconsData(0xea77);
+  /// Bluespec
+  static const bluespec = FileIconsData(0xE93C);
 
-  /// bluespec
-  static const bluespec = FileIconsData(0xea78);
+  /// BNF
+  static const bnf = FileIconsData(0x2A74);
 
-  /// bnf
-  static const bnf = FileIconsData(0xea79);
+  /// Boo
+  static const boo = FileIconsData(0xE939);
 
-  /// boo
-  static const boo = FileIconsData(0xea7a);
+  /// Bors
+  static const bors = FileIconsData(0x1F441);
 
-  /// bors
-  static const bors = FileIconsData(0xea7b);
+  /// Bosque
+  static const bosque = FileIconsData(0xEB96);
 
-  /// bosque
-  static const bosque = FileIconsData(0xea7c);
+  /// Brainfuck
+  static const brainfuck = FileIconsData(0xE93A);
 
-  /// brainfuck
-  static const brainfuck = FileIconsData(0xea7d);
+  /// Brakeman
+  static const brakeman = FileIconsData(0xE9D6);
 
-  /// brakeman
-  static const brakeman = FileIconsData(0xea7e);
+  /// Bro
+  static const bro = FileIconsData(0xE93B);
 
-  /// bro
-  static const bro = FileIconsData(0xea7f);
+  /// Broccoli
+  static const broccoli = FileIconsData(0xE922);
 
-  /// broccoli
-  static const broccoli = FileIconsData(0xea80);
+  /// Brotli
+  static const brotli = FileIconsData(0xEAA2);
 
-  /// brotli_old
-  static const brotli_old = FileIconsData(0xea81);
+  /// Brotli, Old
+  static const brotli_old = FileIconsData(0xEA6C);
 
-  /// brotli
-  static const brotli = FileIconsData(0xea82);
+  /// Browserslist
+  static const browserslist = FileIconsData(0xEA80);
 
-  /// browserslist
-  static const browserslist = FileIconsData(0xea83);
+  /// Browsersync
+  static const browsersync = FileIconsData(0x0062);
 
-  /// browsersync
-  static const browsersync = FileIconsData(0xea84);
+  /// Brunch
+  static const brunch = FileIconsData(0xEA47);
 
-  /// brunch
-  static const brunch = FileIconsData(0xea85);
+  /// Buck
+  static const buck = FileIconsData(0xEA46);
 
-  /// buck
-  static const buck = FileIconsData(0xea86);
+  /// Build Boot
+  static const build_boot = FileIconsData(0xF103);
 
-  /// build_boot
-  static const build_boot = FileIconsData(0xea87);
+  /// Buildkite
+  static const buildkite = FileIconsData(0xEBAD);
 
-  /// buildkite
-  static const buildkite = FileIconsData(0xea88);
+  /// Bundler
+  static const bundler = FileIconsData(0xEA45);
 
-  /// bundler
-  static const bundler = FileIconsData(0xea89);
+  /// BYOND
+  static const byond = FileIconsData(0xE962);
 
-  /// byond
-  static const byond = FileIconsData(0xea8a);
+  /// C#
+  static const c_sharp = FileIconsData(0xEB7B);
 
-  /// c#_script
-  static const c_sharp_script = FileIconsData(0xea8b);
+  /// C++
+  static const c_plus_plus = FileIconsData(0xEB7C);
 
-  /// c#
-  static const c_sharp = FileIconsData(0xea8c);
+  /// C# Script
+  static const c_sharp_script = FileIconsData(0xE9E2);
 
-  /// c++
-  static const c_plus_plus = FileIconsData(0xea8d);
+  /// Cabal
+  static const cabal = FileIconsData(0xE9C2);
 
-  /// cabal
-  static const cabal = FileIconsData(0xea8e);
+  /// Caddy
+  static const caddy = FileIconsData(0x1F512);
 
-  /// caddy_old
-  static const caddy_old = FileIconsData(0xea8f);
+  /// Caddy, Old
+  static const caddy_old = FileIconsData(0xEA58);
 
-  /// caddy
-  static const caddy = FileIconsData(0xea90);
+  /// Caffe
+  static const caffe = FileIconsData(0xEA9A);
 
-  /// caffe
-  static const caffe = FileIconsData(0xea91);
+  /// Caffe2
+  static const caffe2 = FileIconsData(0xEAB6);
 
-  /// caffe2
-  static const caffe2 = FileIconsData(0xea92);
+  /// Cairo
+  static const cairo = FileIconsData(0xEA92);
 
-  /// cairo
-  static const cairo = FileIconsData(0xea93);
+  /// Cake
+  static const cake = FileIconsData(0xE9E3);
 
-  /// cake
-  static const cake = FileIconsData(0xea94);
+  /// Cakefile
+  static const cakefile = FileIconsData(0xE924);
 
-  /// cakefile
-  static const cakefile = FileIconsData(0xea95);
+  /// CakePHP
+  static const cakephp = FileIconsData(0xEA43);
 
-  /// cakephp_old
-  static const cakephp_old = FileIconsData(0xea96);
+  /// CakePHP, Old
+  static const cakephp_old = FileIconsData(0xE9D3);
 
-  /// cakephp
-  static const cakephp = FileIconsData(0xea97);
+  /// Calva
+  static const calva = FileIconsData(0xEBA1);
 
-  /// calva
-  static const calva = FileIconsData(0xea98);
+  /// Carthage
+  static const carthage = FileIconsData(0xEA98);
 
-  /// carthage
-  static const carthage = FileIconsData(0xea99);
+  /// CASC
+  static const casc = FileIconsData(0xEBB6);
 
-  /// casc
-  static const casc = FileIconsData(0xea9a);
+  /// Ceylon
+  static const ceylon = FileIconsData(0xE94F);
 
-  /// cdf
-  static const cdf = FileIconsData(0xea9b);
+  /// Chai
+  static const chai = FileIconsData(0x0063);
 
-  /// ceylon
-  static const ceylon = FileIconsData(0xea9c);
+  /// Chapel
+  static const chapel = FileIconsData(0xE950);
 
-  /// chai
-  static const chai = FileIconsData(0xea9d);
+  /// ChartJS
+  static const chartjs = FileIconsData(0xEA0B);
 
-  /// chapel
-  static const chapel = FileIconsData(0xea9e);
+  /// Cheetah3D
+  static const cheetah3d = FileIconsData(0x1F406);
 
-  /// chartjs
-  static const chartjs = FileIconsData(0xea9f);
+  /// Chef
+  static const chef = FileIconsData(0xEA42);
 
-  /// cheetah3d
-  static const cheetah3d = FileIconsData(0xeaa0);
+  /// Chocolatey
+  static const chocolatey = FileIconsData(0x1F36B);
 
-  /// chef
-  static const chef = FileIconsData(0xeaa1);
+  /// ChucK
+  static const chuck = FileIconsData(0xE943);
 
-  /// chocolatey
-  static const chocolatey = FileIconsData(0xeaa2);
+  /// CircleCI
+  static const circleci = FileIconsData(0xEA12);
 
-  /// chuck
-  static const chuck = FileIconsData(0xeaa3);
+  /// Cirru
+  static const cirru = FileIconsData(0xE951);
 
-  /// circleci
-  static const circleci = FileIconsData(0xeaa4);
+  /// CKEditor
+  static const ckeditor = FileIconsData(0xEA0C);
 
-  /// cirru
-  static const cirru = FileIconsData(0xeaa5);
+  /// Clarion
+  static const clarion = FileIconsData(0xE952);
 
-  /// ckeditor
-  static const ckeditor = FileIconsData(0xeaa6);
+  /// Clean
+  static const clean = FileIconsData(0xE95B);
 
-  /// clarion
-  static const clarion = FileIconsData(0xeaa7);
+  /// Click
+  static const click = FileIconsData(0xE95C);
 
-  /// clean
-  static const clean = FileIconsData(0xeaa8);
+  /// CLIPS
+  static const clips = FileIconsData(0xE940);
 
-  /// click
-  static const click = FileIconsData(0xeaa9);
+  /// ClojureJS
+  static const clojurejs = FileIconsData(0xF104);
 
-  /// clips
-  static const clips = FileIconsData(0xeaaa);
+  /// Closure Template
+  static const closure_template = FileIconsData(0xEA82);
 
-  /// clojurejs
-  static const clojurejs = FileIconsData(0xeaab);
+  /// CloudFoundry
+  static const cloudfoundry = FileIconsData(0xEAD0);
 
-  /// closuretemplate
-  static const closuretemplate = FileIconsData(0xeaac);
+  /// Cmake
+  static const cmake = FileIconsData(0xE93F);
 
-  /// cloudfoundry
-  static const cloudfoundry = FileIconsData(0xeaad);
+  /// CNAB
+  static const cnab = FileIconsData(0xEBB5);
 
-  /// cmake
-  static const cmake = FileIconsData(0xeaae);
+  /// COBOL
+  static const cobol = FileIconsData(0xEA44);
 
-  /// cnab
-  static const cnab = FileIconsData(0xeaaf);
+  /// CocoaPods
+  static const cocoapods = FileIconsData(0xEA97);
 
-  /// cobol
-  static const cobol = FileIconsData(0xeab0);
+  /// Codacy
+  static const codacy = FileIconsData(0xEA8B);
 
-  /// cocoapods
-  static const cocoapods = FileIconsData(0xeab1);
+  /// Code Climate
+  static const code_climate = FileIconsData(0xE9D5);
 
-  /// codacy
-  static const codacy = FileIconsData(0xeab2);
+  /// Codecov
+  static const codecov = FileIconsData(0x2602);
 
-  /// code_climate
-  static const code_climate = FileIconsData(0xeab3);
+  /// CodeKit
+  static const codekit = FileIconsData(0xEA41);
 
-  /// codecov
-  static const codecov = FileIconsData(0xeab4);
+  /// CodeMeta
+  static const codemeta = FileIconsData(0xEB8F);
 
-  /// codekit
-  static const codekit = FileIconsData(0xeab5);
+  /// CodeMirror
+  static const codemirror = FileIconsData(0xEA0D);
 
-  /// codemeta
-  static const codemeta = FileIconsData(0xeab6);
+  /// CodeShip
+  static const codeship = FileIconsData(0xEA6A);
 
-  /// codemirror
-  static const codemirror = FileIconsData(0xeab7);
+  /// ColdFusion
+  static const coldfusion = FileIconsData(0xE929);
 
-  /// codeship
-  static const codeship = FileIconsData(0xeab8);
+  /// Commitizen
+  static const commitizen = FileIconsData(0xEBB3);
 
-  /// coldfusion
-  static const coldfusion = FileIconsData(0xeab9);
+  /// CommitLint
+  static const commitlint = FileIconsData(0x1F191);
 
-  /// commitizen
-  static const commitizen = FileIconsData(0xeaba);
+  /// Common Lisp
+  static const common_lisp = FileIconsData(0xE972);
 
-  /// commitlint
-  static const commitlint = FileIconsData(0xeabb);
+  /// Component Pascal
+  static const component_pascal = FileIconsData(0xE942);
 
-  /// common_lisp
-  static const common_lisp = FileIconsData(0xeabc);
+  /// Composer
+  static const composer = FileIconsData(0xE683);
 
-  /// component_pascal
-  static const component_pascal = FileIconsData(0xeabd);
+  /// Computable Document Format
+  static const computable_document_format = FileIconsData(0xEB46);
 
-  /// composer
-  static const composer = FileIconsData(0xeabe);
+  /// Conan
+  static const conan = FileIconsData(0xEAD1);
 
-  /// conan
-  static const conan = FileIconsData(0xeabf);
+  /// Conda
+  static const conda = FileIconsData(0xEB3C);
 
-  /// conda
-  static const conda = FileIconsData(0xeac0);
+  /// Config
+  static const config = FileIconsData(0xF07C);
 
-  /// config_coffeescript
-  static const config_coffeescript = FileIconsData(0xeac1);
+  /// Config, CoffeeScript
+  static const config_coffeescript = FileIconsData(0xEB18);
 
-  /// config_go
-  static const config_go = FileIconsData(0xeac2);
+  /// Config, Go
+  static const config_go = FileIconsData(0xEB12);
 
-  /// config_haskell
-  static const config_haskell = FileIconsData(0xeac3);
+  /// Config, Haskell
+  static const config_haskell = FileIconsData(0xEB14);
 
-  /// config_js
-  static const config_js = FileIconsData(0xeac4);
+  /// Config, JS
+  static const config_js = FileIconsData(0xEB1A);
 
-  /// config_perl
-  static const config_perl = FileIconsData(0xeac5);
+  /// Config, Perl
+  static const config_perl = FileIconsData(0xEB19);
 
-  /// config_python
-  static const config_python = FileIconsData(0xeac6);
+  /// Config, Python
+  static const config_python = FileIconsData(0xEB15);
 
-  /// config_react
-  static const config_react = FileIconsData(0xeac7);
+  /// Config, React
+  static const config_react = FileIconsData(0xEB16);
 
-  /// config_ruby
-  static const config_ruby = FileIconsData(0xeac8);
+  /// Config, Ruby
+  static const config_ruby = FileIconsData(0xEB17);
 
-  /// config_rust
-  static const config_rust = FileIconsData(0xeac9);
+  /// Config, Rust
+  static const config_rust = FileIconsData(0xEB13);
 
-  /// config_typescript
-  static const config_typescript = FileIconsData(0xeaca);
+  /// Config, TypeScript
+  static const config_typescript = FileIconsData(0xEB1B);
 
-  /// config
-  static const config = FileIconsData(0xeacb);
+  /// CoNLL
+  static const conll = FileIconsData(0xEAA6);
 
-  /// conll
-  static const conll = FileIconsData(0xeacc);
+  /// Coq
+  static const coq = FileIconsData(0xE95F);
 
-  /// coq
-  static const coq = FileIconsData(0xeacd);
+  /// Cordova
+  static const cordova = FileIconsData(0xEA11);
 
-  /// cordova
-  static const cordova = FileIconsData(0xeace);
+  /// CorelDRAW
+  static const coreldraw = FileIconsData(0xEA90);
 
-  /// coreldraw_alt
-  static const coreldraw_alt = FileIconsData(0xeacf);
+  /// CorelDRAW, Alt
+  static const coreldraw_alt = FileIconsData(0xEA91);
 
-  /// coreldraw
-  static const coreldraw = FileIconsData(0xead0);
+  /// Coveralls
+  static const coveralls = FileIconsData(0x272A);
 
-  /// coveralls
-  static const coveralls = FileIconsData(0xead1);
+  /// CPAN
+  static const cpan = FileIconsData(0xEA87);
 
-  /// cpan
-  static const cpan = FileIconsData(0xead2);
+  /// CpcdosC+
+  static const cpcdosc_plus = FileIconsData(0xEB8D);
 
-  /// cpcdosc+
-  static const cpcdosc_plus = FileIconsData(0xead3);
+  /// Craft Tweaker
+  static const craft_tweaker = FileIconsData(0xEB89);
 
-  /// crafttweaker
-  static const crafttweaker = FileIconsData(0xead4);
+  /// Creole
+  static const creole = FileIconsData(0xE95E);
 
-  /// creole
-  static const creole = FileIconsData(0xead5);
+  /// Crowdin
+  static const crowdin = FileIconsData(0xEAD3);
 
-  /// crowdin
-  static const crowdin = FileIconsData(0xead6);
+  /// Crystal
+  static const crystal = FileIconsData(0xE902);
 
-  /// crystal
-  static const crystal = FileIconsData(0xead7);
+  /// CSound
+  static const csound = FileIconsData(0xE9F0);
 
-  /// csound
-  static const csound = FileIconsData(0xead8);
+  /// Cubit
+  static const cubit = FileIconsData(0xEB92);
 
-  /// cubit
-  static const cubit = FileIconsData(0xead9);
+  /// Cucumber
+  static const cucumber = FileIconsData(0xF02B);
 
-  /// cucumber
-  static const cucumber = FileIconsData(0xeada);
+  /// Cuneiform
+  static const cuneiform = FileIconsData(0xEB76);
 
-  /// cuneiform
-  static const cuneiform = FileIconsData(0xeadb);
+  /// Curl (language)
+  static const curl_language = FileIconsData(0xEB7A);
 
-  /// curl_lang
-  static const curl_lang = FileIconsData(0xeadc);
+  /// cURL (program)
+  static const curl_program = FileIconsData(0x002F);
 
-  /// curl
-  static const curl = FileIconsData(0xeadd);
+  /// Curry
+  static const curry = FileIconsData(0xEB78);
 
-  /// curry
-  static const curry = FileIconsData(0xeade);
+  /// CVS
+  static const cvs = FileIconsData(0x1F41F);
 
-  /// cvs
-  static const cvs = FileIconsData(0xeadf);
+  /// CWL
+  static const cwl = FileIconsData(0x29D9);
 
-  /// cwl
-  static const cwl = FileIconsData(0xeae0);
+  /// Cython
+  static const cython = FileIconsData(0xE963);
 
-  /// cython
-  static const cython = FileIconsData(0xeae1);
+  /// D3
+  static const d3 = FileIconsData(0xEA10);
 
-  /// d3
-  static const d3 = FileIconsData(0xeae2);
+  /// Dafny
+  static const dafny = FileIconsData(0xEB8C);
 
-  /// dafny
-  static const dafny = FileIconsData(0xeae3);
+  /// Darcs
+  static const darcs = FileIconsData(0xE964);
 
-  /// darcs_patch
-  static const darcs_patch = FileIconsData(0xeae4);
+  /// Dashboard
+  static const dashboard = FileIconsData(0xF07D);
 
-  /// dashboard
-  static const dashboard = FileIconsData(0xeae5);
+  /// DataWeave
+  static const dataweave = FileIconsData(0xEA99);
 
-  /// dataweave
-  static const dataweave = FileIconsData(0xeae6);
+  /// dBASE
+  static const dbase = FileIconsData(0xE9F1);
 
-  /// dbase
-  static const dbase = FileIconsData(0xeae7);
+  /// Default
+  static const default_icon = FileIconsData(0x1F5CC);
 
-  /// default
-  static const default_icon = FileIconsData(0xeae8);
+  /// Delphi
+  static const delphi = FileIconsData(0xEA40);
 
-  /// delphi
-  static const delphi = FileIconsData(0xeae9);
+  /// Deno
+  static const deno = FileIconsData(0xEAEF);
 
-  /// deno
-  static const deno = FileIconsData(0xeaea);
+  /// Dependabot
+  static const dependabot = FileIconsData(0xEB3E);
 
-  /// dependabot
-  static const dependabot = FileIconsData(0xeaeb);
+  /// DevContainer
+  static const devcontainer = FileIconsData(0xEB83);
 
-  /// devcontainer
-  static const devcontainer = FileIconsData(0xeaec);
+  /// DeviceTree
+  static const devicetree = FileIconsData(0xEA57);
 
-  /// devicetree
-  static const devicetree = FileIconsData(0xeaed);
+  /// Dhall
+  static const dhall = FileIconsData(0x1F58B);
 
-  /// dhall
-  static const dhall = FileIconsData(0xeaee);
+  /// Dia
+  static const dia = FileIconsData(0xEAB5);
 
-  /// dia
-  static const dia = FileIconsData(0xeaef);
+  /// Diff
+  static const diff = FileIconsData(0xE960);
 
-  /// diff
-  static const diff = FileIconsData(0xeaf0);
+  /// Digdag
+  static const digdag = FileIconsData(0xEB03);
 
-  /// digdag
-  static const digdag = FileIconsData(0xeaf1);
+  /// DNA
+  static const dna = FileIconsData(0x2624);
 
-  /// dna
-  static const dna = FileIconsData(0xeaf2);
+  /// DocBook
+  static const docbook = FileIconsData(0x13167);
 
-  /// docbook
-  static const docbook = FileIconsData(0xeaf3);
+  /// Dockerfile
+  static const dockerfile = FileIconsData(0xF106);
 
-  /// docker
-  static const docker = FileIconsData(0xeaf4);
+  /// Doclets
+  static const doclets = FileIconsData(0xEA3F);
 
-  /// doclets
-  static const doclets = FileIconsData(0xeaf5);
+  /// DocPad
+  static const docpad = FileIconsData(0x21B9);
 
-  /// docpad
-  static const docpad = FileIconsData(0xeaf6);
+  /// Docz
+  static const docz = FileIconsData(0xEB21);
 
-  /// docz
-  static const docz = FileIconsData(0xeaf7);
+  /// Dogescript
+  static const dogescript = FileIconsData(0xE946);
 
-  /// dogescript
-  static const dogescript = FileIconsData(0xeaf8);
+  /// DOM
+  static const dom = FileIconsData(0xEA71);
 
-  /// dom
-  static const dom = FileIconsData(0xeaf9);
+  /// DoneJS
+  static const donejs = FileIconsData(0x1F3C1);
 
-  /// donejs
-  static const donejs = FileIconsData(0xeafa);
+  /// DOSBox
+  static const dosbox = FileIconsData(0xEAF2);
 
-  /// dosbox_alt
-  static const dosbox_alt = FileIconsData(0xeafb);
-
-  /// dosbox
-  static const dosbox = FileIconsData(0xeafc);
+  /// DOSBox, Alt
+  static const dosbox_alt = FileIconsData(0xEAF0);
 
   /// dotenv
-  static const dotenv = FileIconsData(0xeafd);
+  static const dotenv = FileIconsData(0xEBB8);
 
-  /// dotjs
-  static const dotjs = FileIconsData(0xeafe);
+  /// doT.js
+  static const dot_js = FileIconsData(0xEB0B);
 
-  /// doxygen
-  static const doxygen = FileIconsData(0xeaff);
+  /// Doxygen
+  static const doxygen = FileIconsData(0xE928);
 
-  /// dragonflybsd
-  static const dragonflybsd = FileIconsData(0xeb00);
+  /// DragonflyBSD
+  static const dragonflybsd = FileIconsData(0xEAFD);
 
-  /// dragula
-  static const dragula = FileIconsData(0xeb01);
+  /// Dragula
+  static const dragula = FileIconsData(0x1F44C);
 
   /// draw.io
-  static const draw_io = FileIconsData(0xeb02);
+  static const draw_io = FileIconsData(0xEB93);
 
-  /// drone
-  static const drone = FileIconsData(0xeb03);
+  /// Drone
+  static const drone = FileIconsData(0xEA3D);
 
-  /// dub
-  static const dub = FileIconsData(0xeb04);
+  /// DUB
+  static const dub = FileIconsData(0xEBA2);
 
-  /// dvc
-  static const dvc = FileIconsData(0xeb05);
+  /// DVC
+  static const dvc = FileIconsData(0xEB98);
 
-  /// dyalog
-  static const dyalog = FileIconsData(0xeb06);
+  /// Dyalog
+  static const dyalog = FileIconsData(0xE90C);
 
-  /// dylib
-  static const dylib = FileIconsData(0xeb07);
+  /// DyLib
+  static const dylib = FileIconsData(0xEA15);
 
-  /// e
-  static const e = FileIconsData(0xeb08);
+  /// E
+  static const e = FileIconsData(0x0045);
 
-  /// eagle
-  static const eagle = FileIconsData(0xeb09);
+  /// Eagle
+  static const eagle = FileIconsData(0xE965);
 
-  /// easybuild
-  static const easybuild = FileIconsData(0xeb0a);
+  /// EasyBuild
+  static const easybuild = FileIconsData(0xEA85);
 
-  /// ec
-  static const ec = FileIconsData(0xeb0b);
+  /// eC
+  static const ec = FileIconsData(0xE9C9);
 
-  /// ecere
-  static const ecere = FileIconsData(0xeb0c);
+  /// Ecere
+  static const ecere = FileIconsData(0xE966);
 
-  /// eclipse_lang
-  static const eclipse_lang = FileIconsData(0xeb0d);
+  /// ECLiPSe (language)
+  static const eclipse_language = FileIconsData(0xEB80);
 
-  /// edge
-  static const edge = FileIconsData(0xeb0e);
+  /// Edge
+  static const edge = FileIconsData(0xEA78);
 
-  /// editorconfig
-  static const editorconfig = FileIconsData(0xeb0f);
+  /// EditorConfig
+  static const editorconfig = FileIconsData(0xEA1B);
 
-  /// eiffel
-  static const eiffel = FileIconsData(0xeb10);
+  /// Eiffel
+  static const eiffel = FileIconsData(0xE967);
 
-  /// ejs
-  static const ejs = FileIconsData(0xeb11);
+  /// EJS
+  static const ejs = FileIconsData(0xEA4B);
 
-  /// electron
-  static const electron = FileIconsData(0xeb12);
+  /// Electron
+  static const electron = FileIconsData(0xEA27);
 
-  /// elementaryos
-  static const elementaryos = FileIconsData(0xeb13);
+  /// ElementaryOS
+  static const elementaryos = FileIconsData(0x24D4);
 
-  /// elm
-  static const elm = FileIconsData(0xeb14);
+  /// Elm
+  static const elm = FileIconsData(0xF102);
 
-  /// emacs
-  static const emacs = FileIconsData(0xeb15);
+  /// Emacs
+  static const emacs = FileIconsData(0xE926);
 
-  /// ember
-  static const ember = FileIconsData(0xeb16);
+  /// Ember
+  static const ember = FileIconsData(0xE61B);
 
-  /// emberscript
-  static const emberscript = FileIconsData(0xeb17);
+  /// EmberScript
+  static const emberscript = FileIconsData(0xE968);
 
-  /// ensime
-  static const ensime = FileIconsData(0xeb18);
+  /// Ensime
+  static const ensime = FileIconsData(0xEAD4);
 
-  /// eq
-  static const eq = FileIconsData(0xeb19);
+  /// EQ
+  static const eq = FileIconsData(0xEA0A);
 
-  /// esdoc
-  static const esdoc = FileIconsData(0xeb1a);
+  /// ESDoc
+  static const esdoc = FileIconsData(0xEA5C);
 
-  /// eslint_old
-  static const eslint_old = FileIconsData(0xeb1b);
+  /// ESLint
+  static const eslint = FileIconsData(0xEA0F);
 
-  /// eslint
-  static const eslint = FileIconsData(0xeb1c);
+  /// ESLint, Old
+  static const eslint_old = FileIconsData(0xE90E);
 
-  /// expo
-  static const expo = FileIconsData(0xeb1d);
+  /// Expo
+  static const expo = FileIconsData(0xEB71);
 
-  /// fabfile
-  static const fabfile = FileIconsData(0xeb1e);
+  /// Fabfile
+  static const fabfile = FileIconsData(0xE94B);
 
-  /// fabric
-  static const fabric = FileIconsData(0xeb1f);
+  /// Fabric
+  static const fabric = FileIconsData(0x1F4DC);
 
-  /// factor
-  static const factor = FileIconsData(0xeb20);
+  /// Factor
+  static const factor = FileIconsData(0xE96A);
 
-  /// falcon
-  static const falcon = FileIconsData(0xeb21);
+  /// Falcon
+  static const falcon = FileIconsData(0xEAE4);
 
-  /// fancy
-  static const fancy = FileIconsData(0xeb22);
+  /// Fancy
+  static const fancy = FileIconsData(0xE96B);
 
-  /// fantom
-  static const fantom = FileIconsData(0xeb23);
+  /// Fantom
+  static const fantom = FileIconsData(0xE96F);
 
-  /// fauna
-  static const fauna = FileIconsData(0xeb24);
+  /// Fauna
+  static const fauna = FileIconsData(0x13168);
 
-  /// faust
-  static const faust = FileIconsData(0xeb25);
+  /// Faust
+  static const faust = FileIconsData(0x22C0);
 
-  /// fbx
-  static const fbx = FileIconsData(0xeb26);
+  /// FBX
+  static const fbx = FileIconsData(0xE9FC);
 
-  /// fexl
-  static const fexl = FileIconsData(0xeb27);
+  /// Fexl
+  static const fexl = FileIconsData(0xEB20);
 
-  /// ffmpeg
-  static const ffmpeg = FileIconsData(0xeb28);
+  /// FFmpeg
+  static const ffmpeg = FileIconsData(0xEA22);
 
-  /// fiddle
-  static const fiddle = FileIconsData(0xeb29);
+  /// Fiddle
+  static const fiddle = FileIconsData(0x24BB);
 
-  /// figma
-  static const figma = FileIconsData(0xeb2a);
+  /// Figma
+  static const figma = FileIconsData(0xEBBA);
 
-  /// finaldraft
-  static const finaldraft = FileIconsData(0xeb2b);
+  /// Final Draft
+  static const final_draft = FileIconsData(0x1D4BB);
 
-  /// finder
-  static const finder = FileIconsData(0xeb2c);
+  /// Finder
+  static const finder = FileIconsData(0xE9E9);
 
-  /// firebase_bolt
-  static const firebase_bolt = FileIconsData(0xeb2d);
+  /// Firebase
+  static const firebase = FileIconsData(0xEA7F);
 
-  /// firebase
-  static const firebase = FileIconsData(0xeb2e);
+  /// Firebase Bolt
+  static const firebase_bolt = FileIconsData(0x26A1);
 
-  /// flask
-  static const flask = FileIconsData(0xeb2f);
+  /// Flask
+  static const flask = FileIconsData(0x1F704);
 
-  /// floobits
-  static const floobits = FileIconsData(0xeb30);
+  /// Floobits
+  static const floobits = FileIconsData(0xEAD5);
 
-  /// flow
-  static const flow = FileIconsData(0xeb31);
+  /// Flow
+  static const flow = FileIconsData(0xE921);
 
-  /// flutter
-  static const flutter = FileIconsData(0xeb32);
+  /// Flutter
+  static const flutter = FileIconsData(0xEAEB);
 
-  /// flux
-  static const flux = FileIconsData(0xeb33);
+  /// Flux
+  static const flux = FileIconsData(0xE969);
 
-  /// font_bitmap
-  static const font_bitmap = FileIconsData(0xeb34);
+  /// Font
+  static const font = FileIconsData(0xE90F);
 
-  /// font_outline
-  static const font_outline = FileIconsData(0xeb35);
+  /// Font, Bitmap
+  static const font_bitmap = FileIconsData(0xEAAB);
 
-  /// font
-  static const font = FileIconsData(0xeb36);
+  /// Font, Outline
+  static const font_outline = FileIconsData(0xEAAA);
 
-  /// fontforge
-  static const fontforge = FileIconsData(0xeb37);
+  /// FontForge
+  static const fontforge = FileIconsData(0xFB00);
 
-  /// fork
-  static const fork = FileIconsData(0xeb38);
+  /// For the Record
+  static const for_the_record = FileIconsData(0x2933);
 
-  /// fortherecord
-  static const fortherecord = FileIconsData(0xeb39);
+  /// Fork
+  static const fork = FileIconsData(0x2442);
 
-  /// fortran
-  static const fortran = FileIconsData(0xeb3a);
+  /// Fortran
+  static const fortran = FileIconsData(0xE90A);
 
-  /// fossa
-  static const fossa = FileIconsData(0xeb3b);
+  /// FOSSA
+  static const fossa = FileIconsData(0xEAC3);
 
-  /// fossil
-  static const fossil = FileIconsData(0xeb3c);
+  /// Fossil
+  static const fossil = FileIconsData(0xEAD6);
 
-  /// fountain
-  static const fountain = FileIconsData(0xeb3d);
+  /// Fountain
+  static const fountain = FileIconsData(0x1F135);
 
-  /// franca
-  static const franca = FileIconsData(0xeb3e);
+  /// Franca
+  static const franca = FileIconsData(0xEA56);
 
-  /// freedesktop
-  static const freedesktop = FileIconsData(0xeb3f);
+  /// FreeDesktop
+  static const freedesktop = FileIconsData(0xEB07);
 
-  /// freedos
-  static const freedos = FileIconsData(0xeb40);
+  /// FreeDOS
+  static const freedos = FileIconsData(0xEAF1);
 
-  /// freemarker
-  static const freemarker = FileIconsData(0xeb41);
+  /// FreeMarker
+  static const freemarker = FileIconsData(0xE970);
 
-  /// freemat
-  static const freemat = FileIconsData(0xeb42);
+  /// FreeMat
+  static const freemat = FileIconsData(0xEB7F);
 
-  /// frege
-  static const frege = FileIconsData(0xeb43);
+  /// Frege
+  static const frege = FileIconsData(0xE96E);
 
-  /// fthtml
-  static const fthtml = FileIconsData(0xeb44);
+  /// ftHTML
+  static const fthtml = FileIconsData(0xEB97);
 
-  /// fuelux
-  static const fuelux = FileIconsData(0xeb45);
+  /// FuelUX
+  static const fuelux = FileIconsData(0xEA09);
 
-  /// fusebox
-  static const fusebox = FileIconsData(0xeb46);
+  /// FuseBox
+  static const fusebox = FileIconsData(0xEAD7);
 
-  /// futhark
-  static const futhark = FileIconsData(0xeb47);
+  /// Futhark
+  static const futhark = FileIconsData(0xEB77);
 
-  /// galaxy
-  static const galaxy = FileIconsData(0xeb48);
+  /// Galaxy
+  static const galaxy = FileIconsData(0xEB74);
 
-  /// galen
-  static const galen = FileIconsData(0xeb49);
+  /// Galen
+  static const galen = FileIconsData(0xEAD8);
 
-  /// gamemaker
-  static const gamemaker = FileIconsData(0xeb4a);
+  /// GameMaker
+  static const gamemaker = FileIconsData(0xE975);
 
-  /// gams
-  static const gams = FileIconsData(0xeb4b);
+  /// GAMS
+  static const gams = FileIconsData(0xE973);
 
-  /// gap
-  static const gap = FileIconsData(0xeb4c);
+  /// GAP
+  static const gap = FileIconsData(0xE971);
 
-  /// gatsby
-  static const gatsby = FileIconsData(0xeb4d);
+  /// Gatsby
+  static const gatsby = FileIconsData(0x24BC);
 
-  /// gauss
-  static const gauss = FileIconsData(0xeb4e);
+  /// GAUSS
+  static const gauss = FileIconsData(0xEB7E);
 
-  /// gdb
-  static const gdb = FileIconsData(0xeb4f);
+  /// GDB
+  static const gdb = FileIconsData(0xEA08);
 
-  /// genshi
-  static const genshi = FileIconsData(0xeb50);
+  /// Genshi
+  static const genshi = FileIconsData(0xE976);
 
-  /// genstat
-  static const genstat = FileIconsData(0xeb51);
+  /// GenStat
+  static const genstat = FileIconsData(0x223F);
 
-  /// gentoo
-  static const gentoo = FileIconsData(0xeb52);
+  /// Gentoo
+  static const gentoo = FileIconsData(0xE96D);
 
-  /// gf
-  static const gf = FileIconsData(0xeb53);
+  /// Ghostscript
+  static const ghostscript = FileIconsData(0xEA8F);
 
-  /// ghostscript
-  static const ghostscript = FileIconsData(0xeb54);
+  /// GIMP
+  static const gimp = FileIconsData(0xEA88);
 
-  /// gimp
-  static const gimp = FileIconsData(0xeb55);
+  /// GitLab
+  static const gitlab = FileIconsData(0xEA3C);
 
-  /// gitlab
-  static const gitlab = FileIconsData(0xeb56);
+  /// Gitpod
+  static const gitpod = FileIconsData(0x1D5A6);
 
-  /// gitpod
-  static const gitpod = FileIconsData(0xeb57);
+  /// Glade
+  static const glade = FileIconsData(0xE938);
 
-  /// glade
-  static const glade = FileIconsData(0xeb58);
+  /// Glide
+  static const glide = FileIconsData(0xEACB);
 
-  /// glide
-  static const glide = FileIconsData(0xeb59);
+  /// glTF
+  static const gltf = FileIconsData(0xEAA7);
 
-  /// gltf
-  static const gltf = FileIconsData(0xeb5a);
+  /// Glyphs
+  static const glyphs = FileIconsData(0x0047);
 
-  /// glyphs
-  static const glyphs = FileIconsData(0xeb5b);
+  /// GN
+  static const gn = FileIconsData(0xEA25);
 
-  /// gn
-  static const gn = FileIconsData(0xeb5c);
+  /// GNU
+  static const gnu = FileIconsData(0xE679);
 
-  /// gnu
-  static const gnu = FileIconsData(0xeb5d);
+  /// Gnuplot
+  static const gnuplot = FileIconsData(0x1F4C8);
 
-  /// gnuplot
-  static const gnuplot = FileIconsData(0xeb5e);
+  /// Go
+  static const go = FileIconsData(0xEAAE);
 
-  /// go_old
-  static const go_old = FileIconsData(0xeb5f);
+  /// Go, Old
+  static const go_old = FileIconsData(0xE624);
 
-  /// go
-  static const go = FileIconsData(0xeb60);
+  /// Godot
+  static const godot = FileIconsData(0xE974);
 
-  /// godot
-  static const godot = FileIconsData(0xeb61);
+  /// Golo
+  static const golo = FileIconsData(0xE979);
 
-  /// golo
-  static const golo = FileIconsData(0xeb62);
+  /// GoReleaser
+  static const goreleaser = FileIconsData(0xEB90);
 
-  /// goreleaser
-  static const goreleaser = FileIconsData(0xeb63);
+  /// Gosu
+  static const gosu = FileIconsData(0xE97A);
 
-  /// gosu
-  static const gosu = FileIconsData(0xeb64);
+  /// Gradle
+  static const gradle = FileIconsData(0xE903);
 
-  /// gradle
-  static const gradle = FileIconsData(0xeb65);
+  /// Grammatical Framework
+  static const grammatical_framework = FileIconsData(0xE978);
 
-  /// grapher
-  static const grapher = FileIconsData(0xeb66);
+  /// Grapher
+  static const grapher = FileIconsData(0x1F4C9);
 
-  /// graphite
-  static const graphite = FileIconsData(0xeb67);
+  /// Graphite
+  static const graphite = FileIconsData(0xEA8A);
 
-  /// graphql_codegenerator
-  static const graphql_codegenerator = FileIconsData(0xeb68);
+  /// GraphQL
+  static const graphql = FileIconsData(0xE97C);
 
-  /// graphql
-  static const graphql = FileIconsData(0xeb69);
+  /// GraphQL Code Generator
+  static const graphql_code_generator = FileIconsData(0xEBAE);
 
-  /// graphviz
-  static const graphviz = FileIconsData(0xeb6a);
+  /// GraphViz
+  static const graphviz = FileIconsData(0xE97D);
 
-  /// gravit_designer
-  static const gravit_designer = FileIconsData(0xeb6b);
+  /// Gravit Designer
+  static const gravit_designer = FileIconsData(0xEB02);
 
-  /// greenkeeper
-  static const greenkeeper = FileIconsData(0xeb6c);
+  /// Greenkeeper
+  static const greenkeeper = FileIconsData(0xEB0C);
 
-  /// gridsome
-  static const gridsome = FileIconsData(0xeb6d);
+  /// Gridsome
+  static const gridsome = FileIconsData(0xEAE7);
 
-  /// groovy
-  static const groovy = FileIconsData(0xeb6e);
+  /// Groovy
+  static const groovy = FileIconsData(0xE904);
 
-  /// grunt
-  static const grunt = FileIconsData(0xeb6f);
+  /// Grunt
+  static const grunt = FileIconsData(0xE611);
 
-  /// gulp
-  static const gulp = FileIconsData(0xeb70);
+  /// Gulp
+  static const gulp = FileIconsData(0xE610);
 
-  /// hack
-  static const hack = FileIconsData(0xeb71);
+  /// Hack
+  static const hack = FileIconsData(0xE9CE);
 
-  /// haml
-  static const haml = FileIconsData(0xeb72);
+  /// Haml
+  static const haml = FileIconsData(0xF15B);
 
-  /// harbour
-  static const harbour = FileIconsData(0xeb73);
+  /// Harbour
+  static const harbour = FileIconsData(0xE97B);
 
-  /// hashicorp
-  static const hashicorp = FileIconsData(0xeb74);
+  /// HashiCorp
+  static const hashicorp = FileIconsData(0xE97E);
 
-  /// haxe
-  static const haxe = FileIconsData(0xeb75);
+  /// Haskell IDE Engine
+  static const haskell_ide_engine = FileIconsData(0xEBAB);
 
-  /// haxedevelop
-  static const haxedevelop = FileIconsData(0xeb76);
+  /// Haxe
+  static const haxe = FileIconsData(0xE907);
 
-  /// helix
-  static const helix = FileIconsData(0xeb77);
+  /// HaxeDevelop
+  static const haxedevelop = FileIconsData(0xEA3B);
 
-  /// hewlettpackard
-  static const hewlettpackard = FileIconsData(0xeb78);
+  /// Helix
+  static const helix = FileIconsData(0x2695);
 
-  /// hie
-  static const hie = FileIconsData(0xeb79);
+  /// Hewlett-Packard
+  static const hewlettpackard = FileIconsData(0x33CB);
 
-  /// hitachi
-  static const hitachi = FileIconsData(0xeb7a);
+  /// Hitachi
+  static const hitachi = FileIconsData(0xEB66);
 
-  /// hjson
-  static const hjson = FileIconsData(0xeb7b);
+  /// HJSON
+  static const hjson = FileIconsData(0xEAC2);
 
-  /// homebrew
-  static const homebrew = FileIconsData(0xeb7c);
+  /// Homebrew
+  static const homebrew = FileIconsData(0x1F37A);
 
-  /// hop
-  static const hop = FileIconsData(0xeb7d);
+  /// Hop
+  static const hop = FileIconsData(0x1F998);
 
-  /// hoplon
-  static const hoplon = FileIconsData(0xeb7e);
+  /// Hoplon
+  static const hoplon = FileIconsData(0xEA4D);
 
-  /// houdini
-  static const houdini = FileIconsData(0xeb7f);
+  /// Houdini
+  static const houdini = FileIconsData(0x1F300);
 
-  /// houndci
-  static const houndci = FileIconsData(0xeb80);
+  /// HoundCI
+  static const houndci = FileIconsData(0xEAAF);
 
-  /// hugo
-  static const hugo = FileIconsData(0xeb81);
+  /// Hugo
+  static const hugo = FileIconsData(0x24BD);
 
-  /// husky
-  static const husky = FileIconsData(0xeb82);
+  /// Husky
+  static const husky = FileIconsData(0x1F436);
 
-  /// hy
-  static const hy = FileIconsData(0xeb83);
+  /// Hy
+  static const hy = FileIconsData(0xE97F);
 
-  /// hygen
-  static const hygen = FileIconsData(0xeb84);
+  /// Hygen
+  static const hygen = FileIconsData(0x1F4C3);
 
-  /// hyper
-  static const hyper = FileIconsData(0xeb85);
+  /// Hyper
+  static const hyper = FileIconsData(0xEB37);
 
-  /// icomoon
-  static const icomoon = FileIconsData(0xeb86);
+  /// IcoMoon
+  static const icomoon = FileIconsData(0xEAEA);
 
-  /// icu
-  static const icu = FileIconsData(0xeb87);
+  /// ICU
+  static const icu = FileIconsData(0xEA23);
 
-  /// idl
-  static const idl = FileIconsData(0xeb88);
+  /// IDL
+  static const idl = FileIconsData(0xE947);
 
-  /// idris
-  static const idris = FileIconsData(0xeb89);
+  /// Idris
+  static const idris = FileIconsData(0xE983);
 
-  /// igor_pro
-  static const igor_pro = FileIconsData(0xeb8a);
+  /// IGOR Pro
+  static const igor_pro = FileIconsData(0xE980);
 
   /// illumos
-  static const illumos = FileIconsData(0xeb8b);
+  static const illumos = FileIconsData(0xEAF4);
 
-  /// image
-  static const image = FileIconsData(0xeb8c);
+  /// Image
+  static const image = FileIconsData(0xF012);
 
-  /// imba_alt
-  static const imba_alt = FileIconsData(0xeb8d);
+  /// Imba
+  static const imba = FileIconsData(0x26FF);
 
-  /// imba_old
-  static const imba_old = FileIconsData(0xeb8e);
+  /// Imba, Alt
+  static const imba_alt = FileIconsData(0xEAE9);
 
-  /// imba
-  static const imba = FileIconsData(0xeb8f);
+  /// Imba, Old
+  static const imba_old = FileIconsData(0x1F4A0);
 
-  /// imgbot
-  static const imgbot = FileIconsData(0xeb90);
+  /// Imgbot
+  static const imgbot = FileIconsData(0xEBBF);
 
-  /// influxdata
-  static const influxdata = FileIconsData(0xeb91);
+  /// InfluxData
+  static const influxdata = FileIconsData(0xEB1F);
 
-  /// inform7
-  static const inform7 = FileIconsData(0xeb92);
+  /// Inform 7
+  static const inform_7 = FileIconsData(0xE984);
 
-  /// ink
-  static const ink = FileIconsData(0xeb93);
+  /// Ink
+  static const ink = FileIconsData(0xEACE);
 
-  /// inkscape
-  static const inkscape = FileIconsData(0xeb94);
+  /// Inkscape
+  static const inkscape = FileIconsData(0xEA8E);
 
-  /// innosetup
-  static const innosetup = FileIconsData(0xeb95);
+  /// Inno Setup
+  static const inno_setup = FileIconsData(0xE985);
 
-  /// intel
-  static const intel = FileIconsData(0xeb96);
+  /// Intel
+  static const intel = FileIconsData(0xEB5A);
 
-  /// io
-  static const io = FileIconsData(0xeb97);
+  /// Io
+  static const io = FileIconsData(0xE981);
 
-  /// ioke
-  static const ioke = FileIconsData(0xeb98);
+  /// Ioke
+  static const ioke = FileIconsData(0xE982);
 
-  /// ionic_project
-  static const ionic_project = FileIconsData(0xeb99);
+  /// Ionic Project
+  static const ionic_project = FileIconsData(0xF14B);
 
-  /// isabelle
-  static const isabelle = FileIconsData(0xeb9a);
+  /// Isabelle
+  static const isabelle = FileIconsData(0xE945);
 
-  /// istanbul
-  static const istanbul = FileIconsData(0xeb9b);
+  /// Istanbul
+  static const istanbul = FileIconsData(0x1F54C);
 
-  /// j
-  static const j = FileIconsData(0xeb9c);
+  /// J
+  static const j = FileIconsData(0xE937);
 
-  /// jade
-  static const jade = FileIconsData(0xeb9d);
+  /// Jade
+  static const jade = FileIconsData(0xE90D);
 
-  /// jakefile
-  static const jakefile = FileIconsData(0xeb9e);
+  /// Jake
+  static const jake = FileIconsData(0xE948);
 
-  /// janet
-  static const janet = FileIconsData(0xeb9f);
+  /// Janet
+  static const janet = FileIconsData(0xEB2A);
 
-  /// jasmine
-  static const jasmine = FileIconsData(0xeba0);
+  /// Jasmine
+  static const jasmine = FileIconsData(0xEA3A);
 
-  /// jenkins
-  static const jenkins = FileIconsData(0xeba1);
+  /// Jenkins
+  static const jenkins = FileIconsData(0xE667);
 
-  /// jest
-  static const jest = FileIconsData(0xeba2);
+  /// Jest
+  static const jest = FileIconsData(0xEA39);
 
-  /// jinja
-  static const jinja = FileIconsData(0xeba3);
+  /// Jinja
+  static const jinja = FileIconsData(0xE944);
 
-  /// jison
-  static const jison = FileIconsData(0xeba4);
+  /// Jison
+  static const jison = FileIconsData(0xEA55);
 
-  /// jolie
-  static const jolie = FileIconsData(0xeba5);
+  /// Jolie
+  static const jolie = FileIconsData(0xEA75);
 
   /// jscpd
-  static const jscpd = FileIconsData(0xeba6);
+  static const jscpd = FileIconsData(0xEB95);
 
-  /// json_1
-  static const json_1 = FileIconsData(0xeba7);
+  /// JSON-1
+  static const json1 = FileIconsData(0xEABE);
 
-  /// json_2
-  static const json_2 = FileIconsData(0xeba8);
+  /// JSON-2
+  static const json2 = FileIconsData(0xEABD);
 
-  /// json_ld1
-  static const json_ld1 = FileIconsData(0xeba9);
+  /// JSON5
+  static const json5 = FileIconsData(0x2478);
 
-  /// json_ld2
-  static const json_ld2 = FileIconsData(0xebaa);
+  /// JSON-LD
+  static const jsonld = FileIconsData(0xE958);
 
-  /// json5
-  static const json5 = FileIconsData(0xebab);
+  /// JSON-LD2
+  static const jsonld2 = FileIconsData(0xE959);
 
-  /// jsonnet
-  static const jsonnet = FileIconsData(0xebac);
+  /// Jsonnet
+  static const jsonnet = FileIconsData(0xEB1E);
 
-  /// jsx_alt
-  static const jsx_alt = FileIconsData(0xebad);
+  /// JSX
+  static const jsx = FileIconsData(0xE9E6);
 
-  /// jsx_atom
-  static const jsx_atom = FileIconsData(0xebae);
+  /// JSX, Alt
+  static const jsx_alt = FileIconsData(0xF101);
 
-  /// jsx
-  static const jsx = FileIconsData(0xebaf);
+  /// JSX, Atom
+  static const jsx_atom = FileIconsData(0xF100);
 
-  /// julia
-  static const julia = FileIconsData(0xebb0);
+  /// Julia
+  static const julia = FileIconsData(0x26EC);
 
-  /// junos
-  static const junos = FileIconsData(0xebb1);
+  /// Junos
+  static const junos = FileIconsData(0xEA81);
 
-  /// jupyter
-  static const jupyter = FileIconsData(0xebb2);
+  /// Jupyter
+  static const jupyter = FileIconsData(0xE987);
 
-  /// kaitai
-  static const kaitai = FileIconsData(0xebb3);
+  /// Kaitai
+  static const kaitai = FileIconsData(0x30AB);
 
-  /// karma
-  static const karma = FileIconsData(0xebb4);
+  /// Karma
+  static const karma = FileIconsData(0xE9CD);
 
-  /// keybase
-  static const keybase = FileIconsData(0xebb5);
+  /// Keybase
+  static const keybase = FileIconsData(0xEAF8);
 
-  /// keynote
-  static const keynote = FileIconsData(0xebb6);
+  /// Keynote
+  static const keynote = FileIconsData(0xE9E5);
 
-  /// khronos
-  static const khronos = FileIconsData(0xebb7);
+  /// Khronos
+  static const khronos = FileIconsData(0xE9F8);
 
-  /// kibo
-  static const kibo = FileIconsData(0xebb8);
+  /// Kibo
+  static const kibo = FileIconsData(0xEBA9);
 
-  /// kicad
-  static const kicad = FileIconsData(0xebb9);
+  /// KiCad
+  static const kicad = FileIconsData(0xEA4C);
 
-  /// kitchenci
-  static const kitchenci = FileIconsData(0xebba);
+  /// KitchenCI
+  static const kitchenci = FileIconsData(0xEA38);
 
-  /// kivy
-  static const kivy = FileIconsData(0xebbb);
+  /// Kivy
+  static const kivy = FileIconsData(0xE901);
 
-  /// knime
-  static const knime = FileIconsData(0xebbc);
+  /// KNIME
+  static const knime = FileIconsData(0xEB75);
 
-  /// knockout
-  static const knockout = FileIconsData(0xebbd);
+  /// Knockout
+  static const knockout = FileIconsData(0x004B);
 
-  /// kos
-  static const kos = FileIconsData(0xebbe);
+  /// kOS
+  static const kos = FileIconsData(0x006B);
 
-  /// kotlin
-  static const kotlin = FileIconsData(0xebbf);
+  /// Kotlin
+  static const kotlin = FileIconsData(0xE989);
 
-  /// krl
-  static const krl = FileIconsData(0xebc0);
+  /// KRL
+  static const krl = FileIconsData(0xE988);
 
-  /// kubernetes
-  static const kubernetes = FileIconsData(0xebc1);
+  /// Kubernetes
+  static const kubernetes = FileIconsData(0x2388);
 
-  /// kusto_alt
-  static const kusto_alt = FileIconsData(0xebc2);
+  /// Kusto
+  static const kusto = FileIconsData(0xEB9A);
 
-  /// kusto
-  static const kusto = FileIconsData(0xebc3);
+  /// Kusto, Alt
+  static const kusto_alt = FileIconsData(0xEB9B);
 
-  /// kx
-  static const kx = FileIconsData(0xebc4);
+  /// Kx
+  static const kx = FileIconsData(0xEA9B);
 
-  /// labview
-  static const labview = FileIconsData(0xebc5);
+  /// LabVIEW
+  static const labview = FileIconsData(0xE98A);
 
-  /// laravel
-  static const laravel = FileIconsData(0xebc6);
+  /// Laravel
+  static const laravel = FileIconsData(0xE63F);
 
-  /// lark
-  static const lark = FileIconsData(0xebc7);
+  /// Lark
+  static const lark = FileIconsData(0x1316B);
 
-  /// lasso
-  static const lasso = FileIconsData(0xebc8);
+  /// Lasso
+  static const lasso = FileIconsData(0xE98C);
 
-  /// latex
-  static const latex = FileIconsData(0xebc9);
+  /// Latino
+  static const latino = FileIconsData(0x1F426);
 
-  /// latino
-  static const latino = FileIconsData(0xebca);
+  /// Leaflet
+  static const leaflet = FileIconsData(0xEA07);
 
-  /// leaflet
-  static const leaflet = FileIconsData(0xebcb);
+  /// Lean
+  static const lean = FileIconsData(0x004C);
 
-  /// lean
-  static const lean = FileIconsData(0xebcc);
+  /// Lefthook
+  static const lefthook = FileIconsData(0xEB8B);
 
-  /// lefthook_alt
-  static const lefthook_alt = FileIconsData(0xebcd);
+  /// Lefthook, Alt
+  static const lefthook_alt = FileIconsData(0x1F44A);
 
-  /// lefthook
-  static const lefthook = FileIconsData(0xebce);
+  /// Leiningen
+  static const leiningen = FileIconsData(0xF105);
 
-  /// leiningen
-  static const leiningen = FileIconsData(0xebcf);
+  /// Lektor
+  static const lektor = FileIconsData(0xEAB9);
 
-  /// lektor
-  static const lektor = FileIconsData(0xebd0);
+  /// Lerna
+  static const lerna = FileIconsData(0xEA37);
 
-  /// lerna
-  static const lerna = FileIconsData(0xebd1);
+  /// Lex
+  static const lex = FileIconsData(0x101EF);
 
-  /// lex_alt
-  static const lex_alt = FileIconsData(0xebd2);
+  /// Lex, Alt
+  static const lex_alt = FileIconsData(0x1316A);
 
-  /// lex
-  static const lex = FileIconsData(0xebd3);
+  /// LFE
+  static const lfe = FileIconsData(0xE94C);
 
-  /// lfe
-  static const lfe = FileIconsData(0xebd4);
-
-  /// lgtm
-  static const lgtm = FileIconsData(0xebd5);
+  /// LGTM
+  static const lgtm = FileIconsData(0x1F435);
 
   /// libuv
-  static const libuv = FileIconsData(0xebd6);
+  static const libuv = FileIconsData(0xEA21);
 
-  /// lighthouse
-  static const lighthouse = FileIconsData(0xebd7);
+  /// Lighthouse
+  static const lighthouse = FileIconsData(0x26EF);
 
-  /// lightwave
-  static const lightwave = FileIconsData(0xebd8);
+  /// LightWave
+  static const lightwave = FileIconsData(0xE9FB);
 
-  /// lilypond
-  static const lilypond = FileIconsData(0xebd9);
+  /// LilyPond
+  static const lilypond = FileIconsData(0x1F4AE);
 
-  /// lime
-  static const lime = FileIconsData(0xebda);
+  /// Lime
+  static const lime = FileIconsData(0xEA36);
 
-  /// linqpad
-  static const linqpad = FileIconsData(0xebdb);
+  /// LINQPad
+  static const linqpad = FileIconsData(0x1D6CC);
 
-  /// lisp
-  static const lisp = FileIconsData(0xebdc);
+  /// Lisp
+  static const lisp = FileIconsData(0xE908);
 
-  /// livescript
-  static const livescript = FileIconsData(0xebdd);
+  /// LiveScript
+  static const livescript = FileIconsData(0xE914);
 
-  /// llvm
-  static const llvm = FileIconsData(0xebde);
+  /// LLVM
+  static const llvm = FileIconsData(0xE91D);
 
-  /// logtalk
-  static const logtalk = FileIconsData(0xebdf);
+  /// Logtalk
+  static const logtalk = FileIconsData(0xE98D);
 
-  /// lolcode
-  static const lolcode = FileIconsData(0xebe0);
+  /// LOLCODE
+  static const lolcode = FileIconsData(0x1F63A);
 
-  /// lookml
-  static const lookml = FileIconsData(0xebe1);
+  /// LookML
+  static const lookml = FileIconsData(0xE98E);
 
-  /// lsl
-  static const lsl = FileIconsData(0xebe2);
+  /// LSL
+  static const lsl = FileIconsData(0xE98B);
 
-  /// lua
-  static const lua = FileIconsData(0xebe3);
+  /// Lua
+  static const lua = FileIconsData(0xE91B);
 
-  /// macaulay2
-  static const macaulay2 = FileIconsData(0xebe4);
+  /// Macaulay2
+  static const macaulay2 = FileIconsData(0x2644);
 
-  /// macvim
-  static const macvim = FileIconsData(0xebe5);
+  /// MacVim
+  static const macvim = FileIconsData(0xEB23);
 
-  /// magit
-  static const magit = FileIconsData(0xebe6);
+  /// Magit
+  static const magit = FileIconsData(0xEB05);
 
-  /// mako
-  static const mako = FileIconsData(0xebe7);
+  /// Mako
+  static const mako = FileIconsData(0xE98F);
 
-  /// manjaro
-  static const manjaro = FileIconsData(0xebe8);
+  /// Manjaro
+  static const manjaro = FileIconsData(0xEB06);
 
-  /// manpage
-  static const manpage = FileIconsData(0xebe9);
+  /// Manpage
+  static const manpage = FileIconsData(0xE936);
 
-  /// mapbox
-  static const mapbox = FileIconsData(0xebea);
+  /// Mapbox
+  static const mapbox = FileIconsData(0xE941);
 
-  /// markdownlint
-  static const markdownlint = FileIconsData(0xebeb);
+  /// MarkdownLint
+  static const markdownlint = FileIconsData(0xF0C9);
 
-  /// marko
-  static const marko = FileIconsData(0xebec);
+  /// Marko
+  static const marko = FileIconsData(0xE920);
 
-  /// mathematica
-  static const mathematica = FileIconsData(0xebed);
+  /// Mathematica
+  static const mathematica = FileIconsData(0xE990);
 
-  /// mathjax
-  static const mathjax = FileIconsData(0xebee);
+  /// MathJax
+  static const mathjax = FileIconsData(0xEA06);
 
-  /// matlab
-  static const matlab = FileIconsData(0xebef);
+  /// MATLAB
+  static const matlab = FileIconsData(0xE991);
 
-  /// matroska
-  static const matroska = FileIconsData(0xebf0);
+  /// Matroska
+  static const matroska = FileIconsData(0x2668);
 
-  /// max
-  static const max = FileIconsData(0xebf1);
+  /// Max
+  static const max = FileIconsData(0xE993);
 
-  /// maya
-  static const maya = FileIconsData(0xebf2);
+  /// Maya
+  static const maya = FileIconsData(0xE9F6);
 
-  /// mdx
-  static const mdx = FileIconsData(0xebf3);
+  /// MDX
+  static const mdx = FileIconsData(0xEAB7);
 
-  /// mediawiki
-  static const mediawiki = FileIconsData(0xebf4);
+  /// MediaWiki
+  static const mediawiki = FileIconsData(0xE954);
 
-  /// melpa
-  static const melpa = FileIconsData(0xebf5);
+  /// MELPA
+  static const melpa = FileIconsData(0x33AB);
 
-  /// mercurial
-  static const mercurial = FileIconsData(0xebf6);
+  /// Mercurial
+  static const mercurial = FileIconsData(0x263F);
 
-  /// mercury
-  static const mercury = FileIconsData(0xebf7);
+  /// Mercury
+  static const mercury = FileIconsData(0xE994);
 
-  /// mermaid
-  static const mermaid = FileIconsData(0xebf8);
+  /// Mermaid
+  static const mermaid = FileIconsData(0xEB84);
 
-  /// meson_old
-  static const meson_old = FileIconsData(0xebf9);
+  /// Meson
+  static const meson = FileIconsData(0xEAFE);
 
-  /// meson
-  static const meson = FileIconsData(0xebfa);
+  /// Meson, Old
+  static const meson_old = FileIconsData(0xEA54);
 
-  /// metal
-  static const metal = FileIconsData(0xebfb);
+  /// Metal
+  static const metal = FileIconsData(0x004D);
 
-  /// metapost
-  static const metapost = FileIconsData(0xebfc);
+  /// MetaPost
+  static const metapost = FileIconsData(0x1D5AC);
 
-  /// meteor
-  static const meteor = FileIconsData(0xebfd);
+  /// Meteor
+  static const meteor = FileIconsData(0xE6A5);
 
-  /// microsoft_access
-  static const microsoft_access = FileIconsData(0xebfe);
+  /// Microsoft Access
+  static const microsoft_access = FileIconsData(0xE9EA);
 
-  /// microsoft_excel
-  static const microsoft_excel = FileIconsData(0xebff);
+  /// Microsoft Excel
+  static const microsoft_excel = FileIconsData(0xE9EE);
 
-  /// microsoft_infopath
-  static const microsoft_infopath = FileIconsData(0xec00);
+  /// Microsoft InfoPath
+  static const microsoft_infopath = FileIconsData(0xEA35);
 
-  /// microsoft_lync
-  static const microsoft_lync = FileIconsData(0xec01);
+  /// Microsoft Lync
+  static const microsoft_lync = FileIconsData(0xEAD9);
 
-  /// microsoft_onenote
-  static const microsoft_onenote = FileIconsData(0xec02);
+  /// Microsoft OneNote
+  static const microsoft_onenote = FileIconsData(0xE9EB);
 
-  /// microsoft_outlook
-  static const microsoft_outlook = FileIconsData(0xec03);
+  /// Microsoft Outlook
+  static const microsoft_outlook = FileIconsData(0xEADA);
 
-  /// microsoft_powerpoint
-  static const microsoft_powerpoint = FileIconsData(0xec04);
+  /// Microsoft PowerPoint
+  static const microsoft_powerpoint = FileIconsData(0xE9EC);
 
-  /// microsoft_project
-  static const microsoft_project = FileIconsData(0xec05);
+  /// Microsoft Project
+  static const microsoft_project = FileIconsData(0xEAE8);
 
-  /// microsoft_publisher
-  static const microsoft_publisher = FileIconsData(0xec06);
+  /// Microsoft Publisher
+  static const microsoft_publisher = FileIconsData(0xEADD);
 
-  /// microsoft_visio
-  static const microsoft_visio = FileIconsData(0xec07);
+  /// Microsoft Visio
+  static const microsoft_visio = FileIconsData(0xEA83);
 
-  /// microsoft_word
-  static const microsoft_word = FileIconsData(0xec08);
+  /// Microsoft Word
+  static const microsoft_word = FileIconsData(0xE9ED);
 
-  /// minecraft
-  static const minecraft = FileIconsData(0xec09);
+  /// Minecraft
+  static const minecraft = FileIconsData(0xE9DC);
 
-  /// minizinc
-  static const minizinc = FileIconsData(0xec0a);
+  /// MiniZinc
+  static const minizinc = FileIconsData(0xEA53);
 
-  /// mint
-  static const mint = FileIconsData(0xec0b);
+  /// Mint
+  static const mint = FileIconsData(0x1F33F);
 
-  /// mirah
-  static const mirah = FileIconsData(0xec0c);
+  /// Mirah
+  static const mirah = FileIconsData(0xE995);
 
-  /// miranda
-  static const miranda = FileIconsData(0xec0d);
+  /// Miranda
+  static const miranda = FileIconsData(0xEA52);
 
-  /// mirc
-  static const mirc = FileIconsData(0xec0e);
+  /// mIRC
+  static const mirc = FileIconsData(0xEB3A);
 
-  /// mixin
-  static const mixin_icon = FileIconsData(0xec0f);
+  /// Mixin
+  static const mixin = FileIconsData(0xEBB9);
 
-  /// mjml
-  static const mjml = FileIconsData(0xec10);
+  /// MJML
+  static const mjml = FileIconsData(0xEA6F);
 
-  /// mocha
-  static const mocha = FileIconsData(0xec11);
+  /// Mocha
+  static const mocha = FileIconsData(0x26FE);
 
-  /// modelica
-  static const modelica = FileIconsData(0xec12);
+  /// Modelica
+  static const modelica = FileIconsData(0xEAFF);
 
-  /// modernweb
-  static const modernweb = FileIconsData(0xec13);
+  /// Modern Web
+  static const modern_web = FileIconsData(0xEB9F);
 
-  /// modo
-  static const modo = FileIconsData(0xec14);
+  /// Modo
+  static const modo = FileIconsData(0xF01F);
 
-  /// modula_2
-  static const modula_2 = FileIconsData(0xec15);
+  /// Modula 2
+  static const modula_2 = FileIconsData(0xE996);
 
-  /// modula_3
-  static const modula_3 = FileIconsData(0xec16);
+  /// Modula-3
+  static const modula3 = FileIconsData(0x2778);
 
-  /// moho
-  static const moho = FileIconsData(0xec17);
+  /// Moho
+  static const moho = FileIconsData(0xEAEE);
 
-  /// moleculer
-  static const moleculer = FileIconsData(0xec18);
+  /// Moleculer
+  static const moleculer = FileIconsData(0xEB0E);
 
-  /// moment_timezone
-  static const moment_timezone = FileIconsData(0xec19);
+  /// Moment
+  static const moment = FileIconsData(0x1F558);
 
-  /// moment
-  static const moment = FileIconsData(0xec1a);
+  /// Moment Timezone
+  static const moment_timezone = FileIconsData(0x1F30D);
 
-  /// monkey
-  static const monkey = FileIconsData(0xec1b);
+  /// Monkey
+  static const monkey = FileIconsData(0xE997);
 
-  /// mono
-  static const mono = FileIconsData(0xec1c);
+  /// Mono
+  static const mono = FileIconsData(0x1F5FF);
 
-  /// monotone
-  static const monotone = FileIconsData(0xec1d);
+  /// Monotone
+  static const monotone = FileIconsData(0x1F400);
 
-  /// motorola
-  static const motorola = FileIconsData(0xec1e);
+  /// Motorola
+  static const motorola = FileIconsData(0x24C2);
 
-  /// moustache
-  static const moustache = FileIconsData(0xec1f);
+  /// Moustache
+  static const moustache = FileIconsData(0xE60F);
 
-  /// mruby
-  static const mruby = FileIconsData(0xec20);
+  /// Mruby
+  static const mruby = FileIconsData(0xEA18);
 
-  /// ms_dos
-  static const ms_dos = FileIconsData(0xec21);
+  /// MS-DOS
+  static const msdos = FileIconsData(0xEAFA);
 
-  /// mupad
-  static const mupad = FileIconsData(0xec22);
+  /// MuPAD
+  static const mupad = FileIconsData(0xE9CA);
 
-  /// nano
-  static const nano = FileIconsData(0xec23);
+  /// Nano
+  static const nano = FileIconsData(0xEA76);
 
-  /// nanoc
-  static const nanoc = FileIconsData(0xec24);
+  /// Nanoc
+  static const nanoc = FileIconsData(0xEA51);
 
-  /// nant
-  static const nant = FileIconsData(0xec25);
+  /// NAnt
+  static const nant = FileIconsData(0xE9E1);
 
-  /// nasm
-  static const nasm = FileIconsData(0xec26);
+  /// NASM
+  static const nasm = FileIconsData(0xEA72);
 
-  /// ndepend
-  static const ndepend = FileIconsData(0xec27);
+  /// NDepend
+  static const ndepend = FileIconsData(0xEAB4);
 
-  /// neko
-  static const neko = FileIconsData(0xec28);
+  /// Neko
+  static const neko = FileIconsData(0xEA05);
 
-  /// nemerle
-  static const nemerle = FileIconsData(0xec29);
+  /// Nemerle
+  static const nemerle = FileIconsData(0x1F985);
 
-  /// neo4j
-  static const neo4j = FileIconsData(0xec2a);
+  /// Neo4J
+  static const neo4j = FileIconsData(0xEAB3);
 
-  /// neon
-  static const neon = FileIconsData(0xec2b);
+  /// NEON
+  static const neon = FileIconsData(0xEB8E);
 
-  /// nessus
-  static const nessus = FileIconsData(0xec2c);
+  /// Nessus
+  static const nessus = FileIconsData(0x23E3);
 
-  /// nestjs
-  static const nestjs = FileIconsData(0xec2d);
+  /// NestJS
+  static const nestjs = FileIconsData(0xEAC9);
 
-  /// netlify
-  static const netlify = FileIconsData(0xec2e);
+  /// Netlify
+  static const netlify = FileIconsData(0xEABF);
 
-  /// netlinx
-  static const netlinx = FileIconsData(0xec2f);
+  /// NetLinx
+  static const netlinx = FileIconsData(0xE99B);
 
-  /// netlogo
-  static const netlogo = FileIconsData(0xec30);
+  /// NetLogo
+  static const netlogo = FileIconsData(0xE99C);
 
-  /// new_relic
-  static const new_relic = FileIconsData(0xec31);
+  /// New Relic
+  static const new_relic = FileIconsData(0xE9D7);
 
-  /// nextflow
-  static const nextflow = FileIconsData(0xec32);
+  /// Nextflow
+  static const nextflow = FileIconsData(0xEAA5);
 
-  /// nextjs
-  static const nextjs = FileIconsData(0xec33);
+  /// NextJS
+  static const nextjs = FileIconsData(0x24C3);
 
   /// nginx
-  static const nginx = FileIconsData(0xec34);
+  static const nginx = FileIconsData(0xF146B);
 
-  /// ngrx
-  static const ngrx = FileIconsData(0xec35);
+  /// NgRx
+  static const ngrx = FileIconsData(0xEBB2);
 
-  /// nib
-  static const nib = FileIconsData(0xec36);
+  /// Nib
+  static const nib = FileIconsData(0x2712);
 
-  /// nickle
-  static const nickle = FileIconsData(0xec37);
+  /// Nickle
+  static const nickle = FileIconsData(0x00A2);
 
-  /// nightwatch
-  static const nightwatch = FileIconsData(0xec38);
+  /// Nightwatch
+  static const nightwatch = FileIconsData(0xEB08);
 
-  /// nimble
-  static const nimble = FileIconsData(0xec39);
+  /// Nimble
+  static const nimble = FileIconsData(0xEB85);
 
-  /// nimrod
-  static const nimrod = FileIconsData(0xec3a);
+  /// Nimrod
+  static const nimrod = FileIconsData(0xE998);
 
-  /// nintendo64
-  static const nintendo64 = FileIconsData(0xec3b);
+  /// Nintendo 64
+  static const nintendo_64 = FileIconsData(0x006E);
 
-  /// nit
-  static const nit = FileIconsData(0xec3c);
+  /// Nit
+  static const nit = FileIconsData(0xE999);
 
-  /// nix
-  static const nix = FileIconsData(0xec3d);
+  /// Nix
+  static const nix = FileIconsData(0xE99A);
 
-  /// nmap
-  static const nmap = FileIconsData(0xec3e);
+  /// Nmap
+  static const nmap = FileIconsData(0xE94D);
 
-  /// nodemon
-  static const nodemon = FileIconsData(0xec3f);
+  /// Nodemon
+  static const nodemon = FileIconsData(0xEA26);
 
-  /// nokogiri
-  static const nokogiri = FileIconsData(0xec40);
+  /// Nokogiri
+  static const nokogiri = FileIconsData(0x92F8);
 
-  /// nomad
-  static const nomad = FileIconsData(0xec41);
+  /// Nomad
+  static const nomad = FileIconsData(0xEA96);
 
-  /// noon
-  static const noon = FileIconsData(0xec42);
+  /// Noon
+  static const noon = FileIconsData(0xEB33);
 
-  /// normalise
-  static const normalise = FileIconsData(0xec43);
+  /// Normalize
+  static const normalize = FileIconsData(0xEA04);
 
-  /// npm_old
-  static const npm_old = FileIconsData(0xec44);
+  /// NPM
+  static const npm = FileIconsData(0xE91C);
 
-  /// npm
-  static const npm = FileIconsData(0xec45);
+  /// NPM, Old
+  static const npm_old = FileIconsData(0xF17B);
 
-  /// nsis_old
-  static const nsis_old = FileIconsData(0xec46);
+  /// NSIS
+  static const nsis = FileIconsData(0xEA1E);
 
-  /// nsis
-  static const nsis = FileIconsData(0xec47);
+  /// NSIS, Old
+  static const nsis_old = FileIconsData(0xE992);
 
-  /// nsri_alt
-  static const nsri_alt = FileIconsData(0xec48);
+  /// NSRI
+  static const nsri = FileIconsData(0xEB2F);
 
-  /// nsri
-  static const nsri = FileIconsData(0xec49);
+  /// NSRI, Alt
+  static const nsri_alt = FileIconsData(0xEB2B);
 
-  /// nuclide
-  static const nuclide = FileIconsData(0xec4a);
+  /// Nuclide
+  static const nuclide = FileIconsData(0xEA34);
 
-  /// nuget
-  static const nuget = FileIconsData(0xec4b);
+  /// NuGet
+  static const nuget = FileIconsData(0xE9D9);
 
-  /// numpy_old
-  static const numpy_old = FileIconsData(0xec4c);
+  /// NumPy
+  static const numpy = FileIconsData(0xEBA8);
 
-  /// numpy
-  static const numpy = FileIconsData(0xec4d);
+  /// NumPy, Old
+  static const numpy_old = FileIconsData(0xE99D);
 
-  /// nunjucks
-  static const nunjucks = FileIconsData(0xec4e);
+  /// Nunjucks
+  static const nunjucks = FileIconsData(0xE953);
 
-  /// nuxt
-  static const nuxt = FileIconsData(0xec4f);
+  /// Nuxt
+  static const nuxt = FileIconsData(0xEACA);
 
-  /// nvidia
-  static const nvidia = FileIconsData(0xec50);
+  /// NVIDIA
+  static const nvidia = FileIconsData(0xE95D);
 
-  /// nwscript
-  static const nwscript = FileIconsData(0xec51);
+  /// NWScript
+  static const nwscript = FileIconsData(0x23FF);
 
-  /// nx
-  static const nx = FileIconsData(0xec52);
+  /// Nx
+  static const nx = FileIconsData(0xEB9C);
 
-  /// nxc
-  static const nxc = FileIconsData(0xec53);
+  /// NXC
+  static const nxc = FileIconsData(0xEA6B);
 
-  /// oberon
-  static const oberon = FileIconsData(0xec54);
+  /// Oberon
+  static const oberon = FileIconsData(0xEB3F);
 
-  /// objective_j
-  static const objective_j = FileIconsData(0xec55);
+  /// Objective-J
+  static const objectivej = FileIconsData(0xE99E);
 
-  /// ocaml
-  static const ocaml = FileIconsData(0xec56);
+  /// OCaml
+  static const ocaml = FileIconsData(0xE91A);
 
-  /// octave
-  static const octave = FileIconsData(0xec57);
+  /// Octave
+  static const octave = FileIconsData(0xEA33);
 
-  /// odin
-  static const odin = FileIconsData(0xec58);
+  /// Odin
+  static const odin = FileIconsData(0xEB36);
 
-  /// ogone
-  static const ogone = FileIconsData(0xec59);
+  /// Ogone
+  static const ogone = FileIconsData(0xEBAA);
 
-  /// omnigraffle
-  static const omnigraffle = FileIconsData(0xec5a);
+  /// OmniGraffle
+  static const omnigraffle = FileIconsData(0xEBAF);
 
-  /// ooc
-  static const ooc = FileIconsData(0xec5b);
+  /// OOC
+  static const ooc = FileIconsData(0xE9CB);
 
-  /// opa
-  static const opa = FileIconsData(0xec5c);
+  /// Opa
+  static const opa = FileIconsData(0x2601);
 
-  /// openapi
-  static const openapi = FileIconsData(0xec5d);
+  /// Open Policy Agent
+  static const open_policy_agent = FileIconsData(0xEB39);
 
-  /// openbsd_alt
-  static const openbsd_alt = FileIconsData(0xec5e);
+  /// OpenAPI
+  static const openapi = FileIconsData(0xEB0A);
 
-  /// openbsd
-  static const openbsd = FileIconsData(0xec5f);
+  /// OpenBSD
+  static const openbsd = FileIconsData(0x1F421);
 
-  /// opencl
-  static const opencl = FileIconsData(0xec60);
+  /// OpenBSD, Alt
+  static const openbsd_alt = FileIconsData(0x1F420);
 
-  /// opencv
-  static const opencv = FileIconsData(0xec61);
+  /// OpenCL
+  static const opencl = FileIconsData(0xE99F);
 
-  /// openexr
-  static const openexr = FileIconsData(0xec62);
+  /// OpenCV
+  static const opencv = FileIconsData(0xEA8D);
 
-  /// opengl
-  static const opengl = FileIconsData(0xec63);
+  /// OpenEXR
+  static const openexr = FileIconsData(0x1F127);
 
-  /// openindiana
-  static const openindiana = FileIconsData(0xec64);
+  /// OpenGL
+  static const opengl = FileIconsData(0xEA7A);
 
-  /// openoffice
-  static const openoffice = FileIconsData(0xec65);
+  /// OpenIndiana
+  static const openindiana = FileIconsData(0x01A3);
 
-  /// openpolicyagent
-  static const openpolicyagent = FileIconsData(0xec66);
+  /// OpenOffice
+  static const openoffice = FileIconsData(0xE9E4);
 
-  /// openscad
-  static const openscad = FileIconsData(0xec67);
+  /// OpensCAD
+  static const openscad = FileIconsData(0xE911);
 
-  /// opensolaris
-  static const opensolaris = FileIconsData(0xec68);
+  /// OpenSolaris
+  static const opensolaris = FileIconsData(0xEAF5);
 
-  /// openstack
-  static const openstack = FileIconsData(0xec69);
+  /// OpenStack
+  static const openstack = FileIconsData(0xEB6F);
 
-  /// openvms
-  static const openvms = FileIconsData(0xec6a);
+  /// OpenVMS
+  static const openvms = FileIconsData(0xEAC6);
 
-  /// openvpn
-  static const openvpn = FileIconsData(0xec6b);
+  /// OpenVPN
+  static const openvpn = FileIconsData(0xEAF3);
 
-  /// openzfs
-  static const openzfs = FileIconsData(0xec6c);
+  /// OpenZFS
+  static const openzfs = FileIconsData(0x1D419);
 
-  /// org_mode
-  static const org_mode = FileIconsData(0xec6d);
+  /// Org-mode
+  static const orgmode = FileIconsData(0xE917);
 
-  /// os2
-  static const os2 = FileIconsData(0xec6e);
+  /// OS2
+  static const os2 = FileIconsData(0xEAF6);
 
-  /// owl
-  static const owl = FileIconsData(0xec6f);
+  /// OWL
+  static const owl = FileIconsData(0xE957);
 
-  /// ox
-  static const ox = FileIconsData(0xec70);
+  /// Ox
+  static const ox = FileIconsData(0xE9A1);
 
-  /// oxygene
-  static const oxygene = FileIconsData(0xec71);
+  /// Oxygene
+  static const oxygene = FileIconsData(0xE9BF);
 
-  /// oz
-  static const oz = FileIconsData(0xec72);
+  /// Oz
+  static const oz = FileIconsData(0xE9BE);
 
-  /// p4
-  static const p4 = FileIconsData(0xec73);
+  /// P4
+  static const p4 = FileIconsData(0xEA50);
 
-  /// pan
-  static const pan = FileIconsData(0xec74);
+  /// Pan
+  static const pan = FileIconsData(0xE9BD);
 
-  /// papyrus
-  static const papyrus = FileIconsData(0xec75);
+  /// Papyrus
+  static const papyrus = FileIconsData(0xE9BC);
 
-  /// parrot
-  static const parrot = FileIconsData(0xec76);
+  /// Parrot
+  static const parrot = FileIconsData(0xE9BB);
 
-  /// pascal
-  static const pascal = FileIconsData(0xec77);
+  /// Pascal
+  static const pascal = FileIconsData(0xE92A);
 
-  /// patch
-  static const patch = FileIconsData(0xec78);
+  /// Patch
+  static const patch = FileIconsData(0xE961);
 
-  /// patreon
-  static const patreon = FileIconsData(0xec79);
+  /// Patreon
+  static const patreon = FileIconsData(0xEB42);
 
-  /// pawn
-  static const pawn = FileIconsData(0xec7a);
+  /// PAWN
+  static const pawn = FileIconsData(0x265F);
 
-  /// pcd
-  static const pcd = FileIconsData(0xec7b);
+  /// PCD
+  static const pcd = FileIconsData(0x26C5);
 
-  /// pegjs
-  static const pegjs = FileIconsData(0xec7c);
+  /// PegJS
+  static const pegjs = FileIconsData(0xEA74);
 
-  /// perl6
-  static const perl6 = FileIconsData(0xec7d);
+  /// Perl6
+  static const perl6 = FileIconsData(0xE96C);
 
-  /// phalcon
-  static const phalcon = FileIconsData(0xec7e);
+  /// Phalcon
+  static const phalcon = FileIconsData(0xE94A);
 
-  /// phoenix
-  static const phoenix = FileIconsData(0xec7f);
+  /// Phoenix
+  static const phoenix = FileIconsData(0xEA5F);
 
-  /// photorec
-  static const photorec = FileIconsData(0xec80);
+  /// PhotoRec
+  static const photorec = FileIconsData(0xEBC0);
 
-  /// php
-  static const php = FileIconsData(0xec81);
+  /// PHP
+  static const php = FileIconsData(0xF147);
 
-  /// phpunit
-  static const phpunit = FileIconsData(0xec82);
+  /// PHPUnit
+  static const phpunit = FileIconsData(0xEA32);
 
-  /// phraseapp
-  static const phraseapp = FileIconsData(0xec83);
+  /// PhraseApp
+  static const phraseapp = FileIconsData(0xEADB);
 
-  /// pickle
-  static const pickle = FileIconsData(0xec84);
+  /// Pickle
+  static const pickle = FileIconsData(0xE9C4);
 
-  /// pico_8
-  static const pico_8 = FileIconsData(0xec85);
+  /// PICO-8
+  static const pico8 = FileIconsData(0xEABC);
 
-  /// picolisp
-  static const picolisp = FileIconsData(0xec86);
+  /// PicoLisp
+  static const picolisp = FileIconsData(0xEB25);
 
-  /// pike
-  static const pike = FileIconsData(0xec87);
+  /// Pike
+  static const pike = FileIconsData(0xE9B9);
 
-  /// pinescript
-  static const pinescript = FileIconsData(0xec88);
+  /// PineScript
+  static const pinescript = FileIconsData(0xEB30);
 
-  /// pipenv
-  static const pipenv = FileIconsData(0xec89);
+  /// Pipenv
+  static const pipenv = FileIconsData(0x1F381);
 
   /// pkgsrc
-  static const pkgsrc = FileIconsData(0xec8a);
+  static const pkgsrc = FileIconsData(0xEAF9);
 
-  /// platformio
-  static const platformio = FileIconsData(0xec8b);
+  /// PlatformIO
+  static const platformio = FileIconsData(0xEA2C);
 
-  /// pm2
-  static const pm2 = FileIconsData(0xec8c);
+  /// PM2
+  static const pm2 = FileIconsData(0x2630);
 
-  /// pnpm
-  static const pnpm = FileIconsData(0xec8d);
+  /// PNPM
+  static const pnpm = FileIconsData(0xEB86);
 
-  /// pod
-  static const pod = FileIconsData(0xec8e);
+  /// Pod
+  static const pod = FileIconsData(0xEA84);
 
-  /// pogoscript
-  static const pogoscript = FileIconsData(0xec8f);
+  /// PogoScript
+  static const pogoscript = FileIconsData(0xE9B8);
 
-  /// pointwise
-  static const pointwise = FileIconsData(0xec90);
+  /// PointWise
+  static const pointwise = FileIconsData(0xE977);
 
-  /// polymer
-  static const polymer = FileIconsData(0xec91);
+  /// Polymer
+  static const polymer = FileIconsData(0xEA2B);
 
-  /// pony
-  static const pony = FileIconsData(0xec92);
+  /// Pony
+  static const pony = FileIconsData(0xE9B7);
 
-  /// postcss
-  static const postcss = FileIconsData(0xec93);
+  /// PostCSS
+  static const postcss = FileIconsData(0xE910);
 
-  /// postscript
-  static const postscript = FileIconsData(0xec94);
+  /// PostScript
+  static const postscript = FileIconsData(0xE955);
 
-  /// pov_ray
-  static const pov_ray = FileIconsData(0xec95);
+  /// POV-Ray
+  static const povray = FileIconsData(0x0050);
 
-  /// powerbuilder
-  static const powerbuilder = FileIconsData(0xec96);
+  /// PowerBuilder
+  static const powerbuilder = FileIconsData(0xEA14);
 
-  /// powerpc
-  static const powerpc = FileIconsData(0xec97);
+  /// PowerPC
+  static const powerpc = FileIconsData(0xEB58);
 
-  /// powershell
-  static const powershell = FileIconsData(0xec98);
+  /// PowerShell
+  static const powershell = FileIconsData(0xE9DA);
 
-  /// precision
-  static const precision = FileIconsData(0xec99);
+  /// Precision
+  static const precision = FileIconsData(0x2295);
 
-  /// precommit
-  static const precommit = FileIconsData(0xec9a);
+  /// Precommit
+  static const precommit = FileIconsData(0xEAC1);
 
-  /// prettier
-  static const prettier = FileIconsData(0xec9b);
+  /// Prettier
+  static const prettier = FileIconsData(0xEAA1);
 
-  /// prisma
-  static const prisma = FileIconsData(0xec9c);
+  /// Prisma
+  static const prisma = FileIconsData(0xEAC5);
 
-  /// processing
-  static const processing = FileIconsData(0xec9d);
+  /// Processing
+  static const processing = FileIconsData(0xE9A0);
 
-  /// progress_old
-  static const progress_old = FileIconsData(0xec9e);
+  /// Progress
+  static const progress = FileIconsData(0xEADC);
 
-  /// progress
-  static const progress = FileIconsData(0xec9f);
+  /// Progress, Old
+  static const progress_old = FileIconsData(0xE9C0);
 
-  /// propeller
-  static const propeller = FileIconsData(0xeca0);
+  /// Propeller
+  static const propeller = FileIconsData(0xE9B5);
 
-  /// pros
-  static const pros = FileIconsData(0xeca1);
+  /// PROS
+  static const pros = FileIconsData(0xEAAD);
 
-  /// proselint
-  static const proselint = FileIconsData(0xeca2);
+  /// Proselint
+  static const proselint = FileIconsData(0xEA6D);
 
-  /// protractor
-  static const protractor = FileIconsData(0xeca3);
+  /// Protractor
+  static const protractor = FileIconsData(0xE9DE);
 
-  /// pug_old
-  static const pug_old = FileIconsData(0xeca4);
+  /// Pug
+  static const pug = FileIconsData(0xEA13);
 
-  /// pug
-  static const pug = FileIconsData(0xeca5);
+  /// Pug, Alt
+  static const pug_alt = FileIconsData(0xE9D0);
 
-  /// pullapprove
-  static const pullapprove = FileIconsData(0xeca6);
+  /// PullApprove
+  static const pullapprove = FileIconsData(0x293E);
 
-  /// puppet
-  static const puppet = FileIconsData(0xeca7);
+  /// Puppet
+  static const puppet = FileIconsData(0xF0C3);
 
-  /// pure
-  static const pure = FileIconsData(0xeca8);
+  /// Pure
+  static const pure = FileIconsData(0x1F4A7);
 
-  /// purebasic
-  static const purebasic = FileIconsData(0xeca9);
+  /// PureBasic
+  static const purebasic = FileIconsData(0x01B5);
 
-  /// purescript
-  static const purescript = FileIconsData(0xecaa);
+  /// PureScript
+  static const purescript = FileIconsData(0xE9B2);
 
-  /// pypi
-  static const pypi = FileIconsData(0xecab);
+  /// PyPi
+  static const pypi = FileIconsData(0xEA94);
 
-  /// pyret
-  static const pyret = FileIconsData(0xecac);
+  /// Pyret
+  static const pyret = FileIconsData(0x2620);
 
   /// pytest
-  static const pytest = FileIconsData(0xecad);
+  static const pytest = FileIconsData(0xEBA6);
 
-  /// pyup
-  static const pyup = FileIconsData(0xecae);
+  /// PyUp
+  static const pyup = FileIconsData(0xEB26);
 
-  /// q#
-  static const q_sharp = FileIconsData(0xecaf);
+  /// Q#
+  static const q_sharp = FileIconsData(0xEB91);
 
-  /// qiskit
-  static const qiskit = FileIconsData(0xecb0);
+  /// Qiskit
+  static const qiskit = FileIconsData(0xEB81);
 
-  /// qlikview
-  static const qlikview = FileIconsData(0xecb1);
+  /// QlikView
+  static const qlikview = FileIconsData(0x1F50D);
 
-  /// qt
-  static const qt = FileIconsData(0xecb2);
+  /// QT
+  static const qt = FileIconsData(0xEB00);
 
-  /// quasar
-  static const quasar = FileIconsData(0xecb3);
+  /// Quasar
+  static const quasar = FileIconsData(0xEACC);
 
-  /// r
-  static const r = FileIconsData(0xecb4);
+  /// R
+  static const r = FileIconsData(0xE905);
 
-  /// racket
-  static const racket = FileIconsData(0xecb5);
+  /// R database
+  static const r_database = FileIconsData(0xEB49);
 
-  /// raml
-  static const raml = FileIconsData(0xecb6);
+  /// Racket
+  static const racket = FileIconsData(0xE9B1);
 
-  /// rascal
-  static const rascal = FileIconsData(0xecb7);
+  /// RAML
+  static const raml = FileIconsData(0xE913);
 
-  /// razzle
-  static const razzle = FileIconsData(0xecb8);
+  /// Rascal
+  static const rascal = FileIconsData(0xEA24);
 
-  /// rdata
-  static const rdata = FileIconsData(0xecb9);
+  /// Razzle
+  static const razzle = FileIconsData(0x0052);
 
-  /// rdoc
-  static const rdoc = FileIconsData(0xecba);
+  /// RDoc
+  static const rdoc = FileIconsData(0xE9B0);
 
-  /// reactos
-  static const reactos = FileIconsData(0xecbb);
+  /// ReactOS
+  static const reactos = FileIconsData(0xEAF7);
 
-  /// readthedocs
-  static const readthedocs = FileIconsData(0xecbc);
+  /// Read the Docs
+  static const read_the_docs = FileIconsData(0x2398);
 
-  /// realbasic
-  static const realbasic = FileIconsData(0xecbd);
+  /// REALbasic
+  static const realbasic = FileIconsData(0xE9AF);
 
-  /// reason
-  static const reason = FileIconsData(0xecbe);
+  /// Reason
+  static const reason = FileIconsData(0xEA1D);
 
-  /// reasonstudios_alt
-  static const reasonstudios_alt = FileIconsData(0xecbf);
+  /// Reason Studios
+  static const reason_studios = FileIconsData(0xEB44);
 
-  /// reasonstudios
-  static const reasonstudios = FileIconsData(0xecc0);
+  /// Reason Studios, Alt
+  static const reason_studios_alt = FileIconsData(0xEB45);
 
-  /// rebol
-  static const rebol = FileIconsData(0xecc1);
+  /// Rebol
+  static const rebol = FileIconsData(0xE9AE);
 
-  /// red_old
-  static const red_old = FileIconsData(0xecc2);
+  /// Red
+  static const red = FileIconsData(0xEAEC);
 
-  /// red
-  static const red = FileIconsData(0xecc3);
+  /// Red, Old
+  static const red_old = FileIconsData(0xE9AD);
 
-  /// redux
-  static const redux = FileIconsData(0xecc4);
+  /// Redux
+  static const redux = FileIconsData(0xEA30);
 
-  /// reek
-  static const reek = FileIconsData(0xecc5);
+  /// Reek
+  static const reek = FileIconsData(0xEAA0);
 
-  /// regex
-  static const regex = FileIconsData(0xecc6);
+  /// RegEx
+  static const regex = FileIconsData(0x002A);
 
-  /// remark
-  static const remark = FileIconsData(0xecc7);
+  /// Remark
+  static const remark = FileIconsData(0xEB1D);
 
-  /// renovate
-  static const renovate = FileIconsData(0xecc8);
+  /// Renovate
+  static const renovate = FileIconsData(0xEB2D);
 
-  /// rescript
-  static const rescript = FileIconsData(0xecc9);
+  /// ReScript
+  static const rescript = FileIconsData(0xEBA7);
 
-  /// restql
-  static const restql = FileIconsData(0xecca);
+  /// restQL
+  static const restql = FileIconsData(0xEBB0);
 
-  /// restructuredtext
-  static const restructuredtext = FileIconsData(0xeccb);
+  /// reStructuredText
+  static const restructuredtext = FileIconsData(0xE9CC);
 
-  /// rexx
-  static const rexx = FileIconsData(0xeccc);
+  /// Rexx
+  static const rexx = FileIconsData(0xEA16);
 
-  /// rhino3d
-  static const rhino3d = FileIconsData(0xeccd);
+  /// Rhino3D
+  static const rhino3d = FileIconsData(0xEA4A);
 
-  /// ring
-  static const ring = FileIconsData(0xecce);
+  /// Ring
+  static const ring = FileIconsData(0x1F48D);
 
-  /// riot_old
-  static const riot_old = FileIconsData(0xeccf);
+  /// Riot
+  static const riot = FileIconsData(0xEB2E);
 
-  /// riot
-  static const riot = FileIconsData(0xecd0);
+  /// Riot, Old
+  static const riot_old = FileIconsData(0xE919);
 
-  /// risc_v
-  static const risc_v = FileIconsData(0xecd1);
+  /// RISC-V
+  static const riscv = FileIconsData(0xEB5D);
 
-  /// rmarkdown
-  static const rmarkdown = FileIconsData(0xecd2);
+  /// Rmarkdown
+  static const rmarkdown = FileIconsData(0x211B);
 
-  /// robotframework_old
-  static const robotframework_old = FileIconsData(0xecd3);
+  /// Robot
+  static const robot = FileIconsData(0xEB0D);
 
-  /// robotframework
-  static const robotframework = FileIconsData(0xecd4);
+  /// Robot, Old
+  static const robot_old = FileIconsData(0xE9AC);
 
-  /// robots
-  static const robots = FileIconsData(0xecd5);
+  /// Robots
+  static const robots = FileIconsData(0x1F916);
 
-  /// rollup_old
-  static const rollup_old = FileIconsData(0xecd6);
+  /// Rollup
+  static const rollup = FileIconsData(0xEA20);
 
-  /// rollup
-  static const rollup = FileIconsData(0xecd7);
+  /// Rollup, Old
+  static const rollup_old = FileIconsData(0xE9FD);
 
-  /// rspec
-  static const rspec = FileIconsData(0xecd8);
+  /// RSpec
+  static const rspec = FileIconsData(0xEA31);
 
-  /// rstudio
-  static const rstudio = FileIconsData(0xecd9);
+  /// RStudio
+  static const rstudio = FileIconsData(0x24C7);
 
   /// rsync
-  static const rsync = FileIconsData(0xecda);
+  static const rsync = FileIconsData(0xEB9E);
 
-  /// rubocop
-  static const rubocop = FileIconsData(0xecdb);
+  /// Rubocop
+  static const rubocop = FileIconsData(0xEADE);
 
-  /// rubygems
-  static const rubygems = FileIconsData(0xecdc);
+  /// RubyGems
+  static const rubygems = FileIconsData(0x1F48E);
 
-  /// sac
-  static const sac = FileIconsData(0xecdd);
+  /// SAC
+  static const sac = FileIconsData(0x203C);
 
-  /// sage
-  static const sage = FileIconsData(0xecde);
+  /// Sage
+  static const sage = FileIconsData(0xE9AB);
 
-  /// sails
-  static const sails = FileIconsData(0xecdf);
+  /// Sails
+  static const sails = FileIconsData(0xEB87);
 
-  /// saltstack
-  static const saltstack = FileIconsData(0xece0);
+  /// SaltStack
+  static const saltstack = FileIconsData(0xE915);
 
-  /// san
-  static const san = FileIconsData(0xece1);
+  /// San
+  static const san = FileIconsData(0xEAE6);
 
-  /// sandbox
-  static const sandbox = FileIconsData(0xece2);
+  /// Sandbox
+  static const sandbox = FileIconsData(0xEBB1);
 
-  /// sas
-  static const sas = FileIconsData(0xece3);
+  /// SAS
+  static const sas = FileIconsData(0xE95A);
 
-  /// sbt
-  static const sbt = FileIconsData(0xece4);
+  /// SBT
+  static const sbt = FileIconsData(0xE9D2);
 
-  /// scheme
-  static const scheme = FileIconsData(0xece5);
+  /// Scheme
+  static const scheme = FileIconsData(0x03BB);
 
-  /// scilab
-  static const scilab = FileIconsData(0xece6);
+  /// Scilab
+  static const scilab = FileIconsData(0xE9A9);
 
-  /// scilla
-  static const scilla = FileIconsData(0xece7);
+  /// Scilla
+  static const scilla = FileIconsData(0xEAE2);
 
-  /// scratch
-  static const scratch = FileIconsData(0xece8);
+  /// Scratch
+  static const scratch = FileIconsData(0x00A7);
 
-  /// scrutinizer
-  static const scrutinizer = FileIconsData(0xece9);
+  /// Scrutinizer
+  static const scrutinizer = FileIconsData(0xE9D4);
 
-  /// self
-  static const self = FileIconsData(0xecea);
+  /// Self
+  static const self = FileIconsData(0xE9A8);
 
-  /// semanticrelease
-  static const semanticrelease = FileIconsData(0xeceb);
+  /// Semantic Release
+  static const semantic_release = FileIconsData(0x1F7CD);
 
-  /// sentry
-  static const sentry = FileIconsData(0xecec);
+  /// Sentry
+  static const sentry = FileIconsData(0xEB1C);
 
-  /// sequelize
-  static const sequelize = FileIconsData(0xeced);
+  /// Sequelize
+  static const sequelize = FileIconsData(0xEA2F);
 
-  /// serverless
-  static const serverless = FileIconsData(0xecee);
+  /// Serverless
+  static const serverless = FileIconsData(0xEAB8);
 
-  /// service_fabric
-  static const service_fabric = FileIconsData(0xecef);
+  /// Service Fabric
+  static const service_fabric = FileIconsData(0xE9DB);
 
-  /// shadowcljs
-  static const shadowcljs = FileIconsData(0xecf0);
+  /// Shadow CLJS
+  static const shadow_cljs = FileIconsData(0xEB88);
 
-  /// shellcheck
-  static const shellcheck = FileIconsData(0xecf1);
+  /// ShellCheck
+  static const shellcheck = FileIconsData(0x1F41A);
 
-  /// shen
-  static const shen = FileIconsData(0xecf2);
+  /// Shen
+  static const shen = FileIconsData(0xE9A7);
 
-  /// shipit
-  static const shipit = FileIconsData(0xecf3);
+  /// Shipit
+  static const shipit = FileIconsData(0x26F5);
 
-  /// shippable
-  static const shippable = FileIconsData(0xecf4);
+  /// Shippable
+  static const shippable = FileIconsData(0xEA2D);
 
-  /// shopify
-  static const shopify = FileIconsData(0xecf5);
+  /// Shopify
+  static const shopify = FileIconsData(0xE9CF);
 
-  /// shuriken
-  static const shuriken = FileIconsData(0xecf6);
+  /// Shuriken
+  static const shuriken = FileIconsData(0x272B);
 
-  /// sigils
-  static const sigils = FileIconsData(0xecf7);
+  /// Sigils
+  static const sigils = FileIconsData(0x1F764);
 
-  /// silicongraphics
-  static const silicongraphics = FileIconsData(0xecf8);
+  /// SiliconGraphics
+  static const silicongraphics = FileIconsData(0x2318);
 
-  /// silverstripe
-  static const silverstripe = FileIconsData(0xecf9);
+  /// SilverStripe
+  static const silverstripe = FileIconsData(0xE800);
 
-  /// sinatra
-  static const sinatra = FileIconsData(0xecfa);
+  /// Sinatra
+  static const sinatra = FileIconsData(0xEA03);
 
-  /// sketch
-  static const sketch = FileIconsData(0xecfb);
+  /// Sketch
+  static const sketch = FileIconsData(0xE927);
 
-  /// sketchup_layout
-  static const sketchup_layout = FileIconsData(0xecfc);
+  /// SketchUp LayOut
+  static const sketchup_layout = FileIconsData(0xEA7C);
 
-  /// sketchup_make
-  static const sketchup_make = FileIconsData(0xecfd);
+  /// SketchUp Make
+  static const sketchup_make = FileIconsData(0xEA7E);
 
-  /// sketchup_stylebuilder
-  static const sketchup_stylebuilder = FileIconsData(0xecfe);
+  /// SketchUp Style Builder
+  static const sketchup_style_builder = FileIconsData(0xEA7D);
 
-  /// slash
-  static const slash = FileIconsData(0xecff);
+  /// Slash
+  static const slash = FileIconsData(0xE9A6);
 
-  /// smartos_alt
-  static const smartos_alt = FileIconsData(0xed00);
+  /// SmartOS
+  static const smartos = FileIconsData(0xEAFC);
 
-  /// smartos
-  static const smartos = FileIconsData(0xed01);
+  /// SmartOS, Alt
+  static const smartos_alt = FileIconsData(0xEAFB);
 
-  /// snapcraft
-  static const snapcraft = FileIconsData(0xed02);
+  /// Snapcraft
+  static const snapcraft = FileIconsData(0xEB09);
 
-  /// snort
-  static const snort = FileIconsData(0xed03);
+  /// Snort
+  static const snort = FileIconsData(0x1F43D);
 
-  /// snowpack
-  static const snowpack = FileIconsData(0xed04);
+  /// Snowpack
+  static const snowpack = FileIconsData(0x1F3D4);
 
-  /// snyk
-  static const snyk = FileIconsData(0xed05);
+  /// Snyk
+  static const snyk = FileIconsData(0xEA1C);
 
-  /// solidarity
-  static const solidarity = FileIconsData(0xed06);
+  /// Solidarity
+  static const solidarity = FileIconsData(0x1D5E6);
 
-  /// solidity
-  static const solidity = FileIconsData(0xed07);
+  /// Solidity
+  static const solidity = FileIconsData(0xEA86);
 
-  /// sophia
-  static const sophia = FileIconsData(0xed08);
+  /// Sophia
+  static const sophia = FileIconsData(0xEB72);
 
-  /// sorbet
-  static const sorbet = FileIconsData(0xed09);
+  /// Sorbet
+  static const sorbet = FileIconsData(0x1F366);
 
-  /// source
-  static const source = FileIconsData(0xed0a);
+  /// Source
+  static const source = FileIconsData(0xEB82);
 
-  /// spacemacs
-  static const spacemacs = FileIconsData(0xed0b);
+  /// Spacemacs
+  static const spacemacs = FileIconsData(0xEAA4);
 
-  /// spacengine
-  static const spacengine = FileIconsData(0xed0c);
+  /// Spacengine
+  static const spacengine = FileIconsData(0x29CF);
 
-  /// sparc
-  static const sparc = FileIconsData(0xed0d);
+  /// SPARC
+  static const sparc = FileIconsData(0xEB57);
 
-  /// spray
-  static const spray = FileIconsData(0xed0e);
+  /// Spray
+  static const spray = FileIconsData(0xEA02);
 
-  /// sqf
-  static const sqf = FileIconsData(0xed0f);
+  /// SQF
+  static const sqf = FileIconsData(0xE9A5);
 
-  /// sqlite
-  static const sqlite = FileIconsData(0xed10);
+  /// SQLite
+  static const sqlite = FileIconsData(0xE9DD);
 
-  /// squarespace
-  static const squarespace = FileIconsData(0xed11);
+  /// Squarespace
+  static const squarespace = FileIconsData(0xEA5E);
 
-  /// stan
-  static const stan = FileIconsData(0xed12);
+  /// Stan
+  static const stan = FileIconsData(0xE9A4);
 
-  /// stata
-  static const stata = FileIconsData(0xed13);
+  /// Stata
+  static const stata = FileIconsData(0xE9A3);
 
-  /// stdlibjs
-  static const stdlibjs = FileIconsData(0xed14);
+  /// StdlibJS
+  static const stdlibjs = FileIconsData(0xEB70);
 
-  /// stencil
-  static const stencil = FileIconsData(0xed15);
+  /// Stencil
+  static const stencil = FileIconsData(0xEA95);
 
-  /// stitches
-  static const stitches = FileIconsData(0xed16);
+  /// Stitches
+  static const stitches = FileIconsData(0xEBA0);
 
-  /// storybook
-  static const storybook = FileIconsData(0xed17);
+  /// Storybook
+  static const storybook = FileIconsData(0xEADF);
 
-  /// storyist
-  static const storyist = FileIconsData(0xed18);
+  /// Storyist
+  static const storyist = FileIconsData(0xE9EF);
 
-  /// strings
-  static const strings = FileIconsData(0xed19);
+  /// Strings
+  static const strings = FileIconsData(0xE9E0);
 
-  /// stylable
-  static const stylable = FileIconsData(0xed1a);
+  /// Stylable
+  static const stylable = FileIconsData(0xEAE0);
 
-  /// styledcomponents
-  static const styledcomponents = FileIconsData(0xed1b);
+  /// StyledComponents
+  static const styledcomponents = FileIconsData(0x1F485);
 
-  /// stylelint
-  static const stylelint = FileIconsData(0xed1c);
+  /// Stylelint
+  static const stylelint = FileIconsData(0xE93D);
 
-  /// stylishhaskell
-  static const stylishhaskell = FileIconsData(0xed1d);
+  /// Stylish Haskell
+  static const stylish_haskell = FileIconsData(0xEB3D);
 
-  /// stylus_orb
-  static const stylus_orb = FileIconsData(0xed1e);
+  /// Stylus
+  static const stylus = FileIconsData(0x0073);
 
-  /// stylus_s
-  static const stylus_s = FileIconsData(0xed1f);
+  /// Stylus, Full
+  static const stylus_full = FileIconsData(0xE9F7);
 
-  /// stylus
-  static const stylus = FileIconsData(0xed20);
+  /// Stylus, Orb
+  static const stylus_orb = FileIconsData(0x0053);
 
-  /// sublime
-  static const sublime = FileIconsData(0xed21);
+  /// Sublime
+  static const sublime = FileIconsData(0xE986);
 
-  /// supercollider
-  static const supercollider = FileIconsData(0xed22);
+  /// SuperCollider
+  static const supercollider = FileIconsData(0xE9A2);
 
-  /// svelte
-  static const svelte = FileIconsData(0xed23);
+  /// Svelte
+  static const svelte = FileIconsData(0x33DC);
 
-  /// svn
-  static const svn = FileIconsData(0xed24);
+  /// SVN
+  static const svn = FileIconsData(0xEA17);
 
-  /// swagger
-  static const swagger = FileIconsData(0xed25);
+  /// Swagger
+  static const swagger = FileIconsData(0xEA29);
 
-  /// systemverilog
-  static const systemverilog = FileIconsData(0xed26);
+  /// SystemVerilog
+  static const systemverilog = FileIconsData(0xE9C3);
 
-  /// tag
-  static const tag = FileIconsData(0xed27);
+  /// Tag
+  static const tag = FileIconsData(0xF015);
 
-  /// tailwind
-  static const tailwind = FileIconsData(0xed28);
+  /// Tailwind
+  static const tailwind = FileIconsData(0x301C);
 
-  /// tcl
-  static const tcl = FileIconsData(0xed29);
+  /// Tcl
+  static const tcl = FileIconsData(0xE956);
 
-  /// telegram
-  static const telegram = FileIconsData(0xed2a);
+  /// Telegram
+  static const telegram = FileIconsData(0x2708);
 
-  /// templatetoolkit
-  static const templatetoolkit = FileIconsData(0xed2b);
+  /// Template Toolkit
+  static const template_toolkit = FileIconsData(0x0054);
 
-  /// templeos
-  static const templeos = FileIconsData(0xed2c);
+  /// TempleOS
+  static const templeos = FileIconsData(0x2696);
 
-  /// terminal
-  static const terminal = FileIconsData(0xed2d);
+  /// Terminal
+  static const terminal = FileIconsData(0xF0C8);
 
-  /// tern
-  static const tern = FileIconsData(0xed2e);
+  /// Tern
+  static const tern = FileIconsData(0x1F54A);
 
-  /// terraform
-  static const terraform = FileIconsData(0xed2f);
+  /// Terraform
+  static const terraform = FileIconsData(0xE916);
 
-  /// terser
-  static const terser = FileIconsData(0xed30);
+  /// Terser
+  static const terser = FileIconsData(0x272C);
 
-  /// test_coffeescript
-  static const test_coffeescript = FileIconsData(0xed31);
+  /// Test, CoffeeScript
+  static const test_coffeescript = FileIconsData(0xEA62);
 
-  /// test_directory
-  static const test_directory = FileIconsData(0xed32);
+  /// Test, Directory
+  static const test_directory = FileIconsData(0xEA60);
 
-  /// test_generic
-  static const test_generic = FileIconsData(0xed33);
+  /// Test, Generic
+  static const test_generic = FileIconsData(0xEA63);
 
-  /// test_go
-  static const test_go = FileIconsData(0xed34);
+  /// Test, Go
+  static const test_go = FileIconsData(0xEB0F);
 
-  /// test_haskell
-  static const test_haskell = FileIconsData(0xed35);
+  /// Test, Haskell
+  static const test_haskell = FileIconsData(0xEB10);
 
-  /// test_js
-  static const test_js = FileIconsData(0xed36);
+  /// Test, JS
+  static const test_js = FileIconsData(0xEA64);
 
-  /// test_perl
-  static const test_perl = FileIconsData(0xed37);
+  /// Test, Perl
+  static const test_perl = FileIconsData(0xEA65);
 
-  /// test_python
-  static const test_python = FileIconsData(0xed38);
+  /// Test, Python
+  static const test_python = FileIconsData(0xEA66);
 
-  /// test_react
-  static const test_react = FileIconsData(0xed39);
+  /// Test, React
+  static const test_react = FileIconsData(0xEA67);
 
-  /// test_ruby
-  static const test_ruby = FileIconsData(0xed3a);
+  /// Test, Ruby
+  static const test_ruby = FileIconsData(0xEA68);
 
-  /// test_rust
-  static const test_rust = FileIconsData(0xed3b);
+  /// Test, Rust
+  static const test_rust = FileIconsData(0xEB11);
 
-  /// test_typescript
-  static const test_typescript = FileIconsData(0xed3c);
+  /// Test, TypeScript
+  static const test_typescript = FileIconsData(0xEA69);
 
-  /// testcafe
-  static const testcafe = FileIconsData(0xed3d);
+  /// TestCafe
+  static const testcafe = FileIconsData(0x2714);
 
-  /// textile
-  static const textile = FileIconsData(0xed3e);
+  /// Tex
+  static const tex = FileIconsData(0xE600);
 
-  /// textmate
-  static const textmate = FileIconsData(0xed3f);
+  /// Textile
+  static const textile = FileIconsData(0x0074);
 
-  /// tfs
-  static const tfs = FileIconsData(0xed40);
+  /// TextMate
+  static const textmate = FileIconsData(0x2122);
 
-  /// thor
-  static const thor = FileIconsData(0xed41);
+  /// TFS
+  static const tfs = FileIconsData(0xEAE1);
 
-  /// tilt
-  static const tilt = FileIconsData(0xed42);
+  /// Thor
+  static const thor = FileIconsData(0xE9D8);
 
-  /// tinymce
-  static const tinymce = FileIconsData(0xed43);
+  /// Tilt
+  static const tilt = FileIconsData(0xEB8A);
 
-  /// tipe
-  static const tipe = FileIconsData(0xed44);
+  /// TinyMCE
+  static const tinymce = FileIconsData(0xEA01);
 
-  /// tla+
-  static const tla_plus = FileIconsData(0xed45);
+  /// Tipe
+  static const tipe = FileIconsData(0xEAA9);
+
+  /// TLA+
+  static const tla_plus = FileIconsData(0xEAB2);
 
   /// tmux
-  static const tmux = FileIconsData(0xed46);
+  static const tmux = FileIconsData(0xEA8C);
 
-  /// toml
-  static const toml = FileIconsData(0xed47);
+  /// TOML
+  static const toml = FileIconsData(0x1F143);
 
-  /// tortoisesvn
-  static const tortoisesvn = FileIconsData(0xed48);
+  /// TortoiseSVN
+  static const tortoisesvn = FileIconsData(0xEA93);
 
-  /// totvs
-  static const totvs = FileIconsData(0xed49);
+  /// TOTVS
+  static const totvs = FileIconsData(0xEB34);
 
-  /// truffle
-  static const truffle = FileIconsData(0xed4a);
+  /// Truffle
+  static const truffle = FileIconsData(0xEB3B);
 
-  /// tsx_alt
-  static const tsx_alt = FileIconsData(0xed4b);
+  /// TSX
+  static const tsx = FileIconsData(0xE9E7);
 
-  /// tsx
-  static const tsx = FileIconsData(0xed4c);
+  /// TSX, Alt
+  static const tsx_alt = FileIconsData(0xE9D1);
 
-  /// ttcn_3
-  static const ttcn_3 = FileIconsData(0xed4d);
+  /// TTCN-3
+  static const ttcn3 = FileIconsData(0x2476);
 
-  /// turing
-  static const turing = FileIconsData(0xed4e);
+  /// Turing
+  static const turing = FileIconsData(0xE9B6);
 
-  /// twig
-  static const twig = FileIconsData(0xed4f);
+  /// Twig
+  static const twig = FileIconsData(0x2E19);
 
-  /// twine
-  static const twine = FileIconsData(0xed50);
+  /// Twine
+  static const twine = FileIconsData(0xEA5D);
 
-  /// txl
-  static const txl = FileIconsData(0xed51);
+  /// TXL
+  static const txl = FileIconsData(0xE9C1);
 
-  /// typedoc
-  static const typedoc = FileIconsData(0xed52);
+  /// TypeDoc
+  static const typedoc = FileIconsData(0xE9FE);
 
-  /// typescript_alt
-  static const typescript_alt = FileIconsData(0xed53);
+  /// TypeScript
+  static const typescript = FileIconsData(0x02A6);
 
-  /// typescript
-  static const typescript = FileIconsData(0xed54);
+  /// TypeScript, Alt
+  static const typescript_alt = FileIconsData(0xE912);
 
-  /// typings
-  static const typings = FileIconsData(0xed55);
+  /// Typings
+  static const typings = FileIconsData(0xE9DF);
 
-  /// ufo
-  static const ufo = FileIconsData(0xed56);
+  /// UFO
+  static const ufo = FileIconsData(0x1F144);
 
-  /// unibeautify
-  static const unibeautify = FileIconsData(0xed57);
+  /// Unibeautify
+  static const unibeautify = FileIconsData(0xEAC4);
 
-  /// unicode
-  static const unicode = FileIconsData(0xed58);
+  /// Unicode
+  static const unicode = FileIconsData(0xEB6E);
 
-  /// uno
-  static const uno = FileIconsData(0xed59);
+  /// UNO
+  static const uno = FileIconsData(0xE9B3);
 
-  /// unrealscript
-  static const unrealscript = FileIconsData(0xed5a);
+  /// UnrealScript
+  static const unrealscript = FileIconsData(0x0075);
 
-  /// urweb
-  static const urweb = FileIconsData(0xed5b);
+  /// UrWeb
+  static const urweb = FileIconsData(0xE9BA);
 
-  /// v_ray
-  static const v_ray = FileIconsData(0xed5c);
+  /// V
+  static const v = FileIconsData(0x0076);
 
-  /// v
-  static const v = FileIconsData(0xed5d);
+  /// V8
+  static const v8 = FileIconsData(0xEA1F);
 
-  /// v8_turbofan
-  static const v8_turbofan = FileIconsData(0xed5e);
+  /// V8, Turbofan
+  static const v8_turbofan = FileIconsData(0xEAAC);
 
-  /// v8
-  static const v8 = FileIconsData(0xed5f);
+  /// Vagrant
+  static const vagrant = FileIconsData(0x0056);
 
-  /// vagrant
-  static const vagrant = FileIconsData(0xed60);
+  /// Vala
+  static const vala = FileIconsData(0x1D4B1);
 
-  /// vala
-  static const vala = FileIconsData(0xed61);
+  /// VAX
+  static const vax = FileIconsData(0xEB5C);
 
-  /// vax
-  static const vax = FileIconsData(0xed62);
+  /// VCL
+  static const vcl = FileIconsData(0xE9B4);
 
-  /// vcl
-  static const vcl = FileIconsData(0xed63);
+  /// Velocity
+  static const velocity = FileIconsData(0x2B94);
 
-  /// velocity
-  static const velocity = FileIconsData(0xed64);
+  /// Verilog
+  static const verilog = FileIconsData(0xE949);
 
-  /// verilog
-  static const verilog = FileIconsData(0xed65);
+  /// VertexShader
+  static const vertexshader = FileIconsData(0xEA79);
 
-  /// vertexshader
-  static const vertexshader = FileIconsData(0xed66);
+  /// VHDL
+  static const vhdl = FileIconsData(0xE9AA);
 
-  /// vhdl
-  static const vhdl = FileIconsData(0xed67);
+  /// Video
+  static const video = FileIconsData(0xF057);
 
-  /// video
-  static const video = FileIconsData(0xed68);
+  /// VirtualBox
+  static const virtualbox = FileIconsData(0xEA3E);
 
-  /// virtualbox_alt
-  static const virtualbox_alt = FileIconsData(0xed69);
+  /// VirtualBox, Alt
+  static const virtualbox_alt = FileIconsData(0xEA2E);
 
-  /// virtualbox
-  static const virtualbox = FileIconsData(0xed6a);
+  /// Vite
+  static const vite = FileIconsData(0x2607);
 
-  /// vite
-  static const vite = FileIconsData(0xed6b);
+  /// VMware
+  static const vmware = FileIconsData(0xEA49);
 
-  /// vmware
-  static const vmware = FileIconsData(0xed6c);
+  /// V-Ray
+  static const vray = FileIconsData(0x24CB);
 
-  /// vscode
-  static const vscode = FileIconsData(0xed6d);
+  /// VSCode
+  static const vscode = FileIconsData(0xEB22);
 
-  /// vsts
-  static const vsts = FileIconsData(0xed6e);
+  /// VSTS
+  static const vsts = FileIconsData(0xEAC0);
 
-  /// vue
-  static const vue = FileIconsData(0xed6f);
+  /// Vue
+  static const vue = FileIconsData(0xE906);
 
-  /// vyper
-  static const vyper = FileIconsData(0xed70);
+  /// Vyper
+  static const vyper = FileIconsData(0xEB31);
 
-  /// w3c
-  static const w3c = FileIconsData(0xed71);
+  /// W3C
+  static const w3c = FileIconsData(0xEBAC);
 
-  /// wallaby
-  static const wallaby = FileIconsData(0xed72);
+  /// Wallaby
+  static const wallaby = FileIconsData(0x231F);
 
-  /// walt
-  static const walt = FileIconsData(0xed73);
+  /// Walt
+  static const walt = FileIconsData(0xEABA);
 
-  /// warcraft_iii
-  static const warcraft_iii = FileIconsData(0xed74);
+  /// Warcraft III
+  static const warcraft_iii = FileIconsData(0x2162);
 
-  /// wasi
-  static const wasi = FileIconsData(0xed75);
+  /// WASI
+  static const wasi = FileIconsData(0xEB40);
 
-  /// watchman
-  static const watchman = FileIconsData(0xed76);
+  /// Watchman
+  static const watchman = FileIconsData(0xEA4F);
 
-  /// wdl
-  static const wdl = FileIconsData(0xed77);
+  /// WDL
+  static const wdl = FileIconsData(0xEAB1);
 
-  /// webassembly
-  static const webassembly = FileIconsData(0xed78);
+  /// WebAssembly
+  static const webassembly = FileIconsData(0xEA70);
 
-  /// webgl
-  static const webgl = FileIconsData(0xed79);
+  /// WebGL
+  static const webgl = FileIconsData(0xEA7B);
 
-  /// webhint
-  static const webhint = FileIconsData(0xed7a);
+  /// Webhint
+  static const webhint = FileIconsData(0xEB35);
 
-  /// webpack_old
-  static const webpack_old = FileIconsData(0xed7b);
+  /// Webpack
+  static const webpack = FileIconsData(0xEA61);
 
-  /// webpack
-  static const webpack = FileIconsData(0xed7c);
+  /// Webpack, Old
+  static const webpack_old = FileIconsData(0xE91E);
 
-  /// webvtt
-  static const webvtt = FileIconsData(0xed7d);
+  /// WebVTT
+  static const webvtt = FileIconsData(0xEB24);
 
-  /// wenyan
-  static const wenyan = FileIconsData(0xed7e);
+  /// Wenyan
+  static const wenyan = FileIconsData(0x8A00);
 
-  /// wercker
-  static const wercker = FileIconsData(0xed7f);
+  /// Wercker
+  static const wercker = FileIconsData(0xEA19);
 
-  /// wget
-  static const wget = FileIconsData(0xed80);
+  /// Wget
+  static const wget = FileIconsData(0xEB38);
 
-  /// windi
-  static const windi = FileIconsData(0xed81);
+  /// Windi CSS
+  static const windi_css = FileIconsData(0x1F4A8);
 
-  /// wine
-  static const wine = FileIconsData(0xed82);
+  /// Wine
+  static const wine = FileIconsData(0x1F377);
 
-  /// winui
-  static const winui = FileIconsData(0xed83);
+  /// WinUI
+  static const winui = FileIconsData(0xEBB7);
 
-  /// wix
-  static const wix = FileIconsData(0xed84);
+  /// WiX
+  static const wix = FileIconsData(0xEAB0);
 
-  /// wolfram
-  static const wolfram = FileIconsData(0xed85);
+  /// Wolfram
+  static const wolfram = FileIconsData(0x1F43A);
 
-  /// workbox
-  static const workbox = FileIconsData(0xed86);
+  /// Workbox
+  static const workbox = FileIconsData(0xEAA8);
 
-  /// wurst
-  static const wurst = FileIconsData(0xed87);
+  /// Wurst
+  static const wurst = FileIconsData(0x1F32D);
 
-  /// x10
-  static const x10 = FileIconsData(0xed88);
+  /// X10
+  static const x10 = FileIconsData(0x2169);
 
-  /// xamarin
-  static const xamarin = FileIconsData(0xed89);
+  /// Xamarin
+  static const xamarin = FileIconsData(0xEA77);
 
   /// xmake
-  static const xmake = FileIconsData(0xed8a);
+  static const xmake = FileIconsData(0xEB94);
 
-  /// xmos
-  static const xmos = FileIconsData(0xed8b);
+  /// XMOS
+  static const xmos = FileIconsData(0x0058);
 
-  /// xpages
-  static const xpages = FileIconsData(0xed8c);
+  /// XPages
+  static const xpages = FileIconsData(0xE9C5);
 
-  /// xtend
-  static const xtend = FileIconsData(0xed8d);
+  /// Xtend
+  static const xtend = FileIconsData(0xE9C6);
 
-  /// xubuntu
-  static const xubuntu = FileIconsData(0xed8e);
+  /// Xubuntu
+  static const xubuntu = FileIconsData(0xEB04);
 
-  /// yaml_alt1
-  static const yaml_alt1 = FileIconsData(0xed8f);
+  /// YAML
+  static const yaml = FileIconsData(0x0079);
 
-  /// yaml_alt2
-  static const yaml_alt2 = FileIconsData(0xed90);
+  /// YAML, Alt 1
+  static const yaml_alt_1 = FileIconsData(0x0059);
 
-  /// yaml_alt3
-  static const yaml_alt3 = FileIconsData(0xed91);
+  /// YAML, Alt 2
+  static const yaml_alt_2 = FileIconsData(0xEA9E);
 
-  /// yaml_alt4
-  static const yaml_alt4 = FileIconsData(0xed92);
+  /// YAML, Alt 3
+  static const yaml_alt_3 = FileIconsData(0xEA9D);
 
-  /// yaml
-  static const yaml = FileIconsData(0xed93);
+  /// YAML, Alt 4
+  static const yaml_alt_4 = FileIconsData(0xEA9C);
 
-  /// yamllint
-  static const yamllint = FileIconsData(0xed94);
+  /// YAMLLint
+  static const yamllint = FileIconsData(0xEB9D);
 
-  /// yandex
-  static const yandex = FileIconsData(0xed95);
+  /// Yandex
+  static const yandex = FileIconsData(0x042F);
 
-  /// yang
-  static const yang = FileIconsData(0xed96);
+  /// YANG
+  static const yang = FileIconsData(0x262F);
 
-  /// yara
-  static const yara = FileIconsData(0xed97);
+  /// YARA
+  static const yara = FileIconsData(0xEA9F);
 
-  /// yarn
-  static const yarn = FileIconsData(0xed98);
+  /// Yarn
+  static const yarn = FileIconsData(0xEA1A);
 
-  /// yasm
-  static const yasm = FileIconsData(0xed99);
+  /// Yasm
+  static const yasm = FileIconsData(0xEA73);
 
-  /// yorick
-  static const yorick = FileIconsData(0xed9a);
+  /// Yorick
+  static const yorick = FileIconsData(0x1F480);
 
-  /// yui
-  static const yui = FileIconsData(0xed9b);
+  /// YUI
+  static const yui = FileIconsData(0xEA00);
 
-  /// zbrush
-  static const zbrush = FileIconsData(0xed9c);
+  /// ZBrush
+  static const zbrush = FileIconsData(0xE9F2);
 
-  /// zeit
-  static const zeit = FileIconsData(0xed9d);
+  /// Zeit
+  static const zeit = FileIconsData(0x25B2);
 
-  /// zephir
-  static const zephir = FileIconsData(0xed9e);
+  /// Zephir
+  static const zephir = FileIconsData(0xE9C7);
 
-  /// zig
-  static const zig = FileIconsData(0xed9f);
+  /// Zig
+  static const zig = FileIconsData(0x007A);
 
-  /// zilog
-  static const zilog = FileIconsData(0xeda0);
+  /// Zilog
+  static const zilog = FileIconsData(0xEB56);
 
-  /// zimpl
-  static const zimpl = FileIconsData(0xeda1);
+  /// Zimpl
+  static const zimpl = FileIconsData(0xE9C8);
 
-  /// zorinos
-  static const zorinos = FileIconsData(0xeda2);
+  /// ZorinOS
+  static const zorinos = FileIconsData(0xEB01);
 
-  /// zork
-  static const zork = FileIconsData(0xeda3);
+  /// Zork
+  static const zork = FileIconsData(0x01B6);
 }
 
 const FileIconsMapping = {
-  "1c_alt": "0xea01",
-  "1c": "0xea02",
-  "3d_model": "0xea03",
-  "3ds_max": "0xea04",
-  "4d": "0xea05",
-  "a+": "0xea06",
-  "abap": "0xea07",
-  "abif": "0xea08",
-  "acre": "0xea09",
-  "actionscript": "0xea0a",
-  "ada": "0xea0b",
-  "adobe_acrobat": "0xea0c",
-  "adobe_aftereffects": "0xea0d",
-  "adobe_animate": "0xea0e",
-  "adobe_audition": "0xea0f",
-  "adobe_bridge": "0xea10",
-  "adobe_characteranimator": "0xea11",
-  "adobe_creativecloud": "0xea12",
-  "adobe_dimension": "0xea13",
-  "adobe_dreamweaver": "0xea14",
-  "adobe_flash": "0xea15",
-  "adobe_fuse": "0xea16",
-  "adobe_illustrator": "0xea17",
-  "adobe_incopy": "0xea18",
-  "adobe_indesign": "0xea19",
-  "adobe_lightroom": "0xea1a",
-  "adobe_mediaencoder": "0xea1b",
-  "adobe_photoshop": "0xea1c",
-  "adobe_prelude": "0xea1d",
-  "adobe_premiere": "0xea1e",
-  "adobe_premiererush": "0xea1f",
-  "adobe_xd": "0xea20",
-  "adobe": "0xea21",
-  "adonisjs": "0xea22",
-  "aeternity": "0xea23",
-  "affectscript": "0xea24",
-  "affinitydesigner": "0xea25",
-  "agc": "0xea26",
-  "agda": "0xea27",
-  "akka": "0xea28",
-  "alacritty_alt": "0xea29",
-  "alacritty": "0xea2a",
-  "alex": "0xea2b",
-  "alloy": "0xea2c",
-  "alpine_linux": "0xea2d",
-  "amd": "0xea2e",
-  "amigaos": "0xea2f",
-  "ampl": "0xea30",
-  "amusewiki": "0xea31",
-  "analytica": "0xea32",
-  "angelscript": "0xea33",
-  "animestudio": "0xea34",
-  "ansible_alt": "0xea35",
-  "ansible": "0xea36",
-  "antlr": "0xea37",
-  "antwar": "0xea38",
-  "anyscript": "0xea39",
-  "apache_ant": "0xea3a",
-  "api_blueprint": "0xea3b",
-  "apiextractor": "0xea3c",
-  "apl_old": "0xea3d",
-  "apl": "0xea3e",
-  "apollo": "0xea3f",
-  "apple": "0xea40",
-  "appveyor": "0xea41",
-  "arc": "0xea42",
-  "arch_linux": "0xea43",
-  "arduino": "0xea44",
-  "arm": "0xea45",
-  "arttext": "0xea46",
-  "arttext4": "0xea47",
-  "asciidoc": "0xea48",
-  "asciidoctor": "0xea49",
-  "assembly_agc": "0xea4a",
-  "assembly_amd": "0xea4b",
-  "assembly_arm": "0xea4c",
-  "assembly_att": "0xea4d",
-  "assembly_avr": "0xea4e",
-  "assembly_generic": "0xea4f",
-  "assembly_hitachi": "0xea50",
-  "assembly_intel": "0xea51",
-  "assembly_motorola": "0xea52",
-  "assembly_powerpc": "0xea53",
-  "assembly_riscv": "0xea54",
-  "assembly_sparc": "0xea55",
-  "assembly_vax": "0xea56",
-  "assembly_zilog": "0xea57",
-  "asymptote_alt": "0xea58",
-  "asymptote": "0xea59",
-  "atoum": "0xea5a",
-  "ats": "0xea5b",
-  "att": "0xea5c",
-  "audacity": "0xea5d",
-  "augeas": "0xea5e",
-  "aurelia": "0xea5f",
-  "autohotkey": "0xea60",
-  "autoit": "0xea61",
-  "automator": "0xea62",
-  "avr": "0xea63",
-  "avro": "0xea64",
-  "awk": "0xea65",
-  "azure_pipelines": "0xea66",
-  "babel": "0xea67",
-  "ballerina": "0xea68",
-  "bazaar": "0xea69",
-  "bazel_old": "0xea6a",
-  "bazel": "0xea6b",
-  "behat": "0xea6c",
-  "bem": "0xea6d",
-  "bibtex": "0xea6e",
-  "bikeshed": "0xea6f",
-  "biml": "0xea70",
-  "binder": "0xea71",
-  "bintray": "0xea72",
-  "bison": "0xea73",
-  "bithound": "0xea74",
-  "blender": "0xea75",
-  "blitzbasic": "0xea76",
-  "bloc": "0xea77",
-  "bluespec": "0xea78",
-  "bnf": "0xea79",
-  "boo": "0xea7a",
-  "bors": "0xea7b",
-  "bosque": "0xea7c",
-  "brainfuck": "0xea7d",
-  "brakeman": "0xea7e",
-  "bro": "0xea7f",
-  "broccoli": "0xea80",
-  "brotli_old": "0xea81",
-  "brotli": "0xea82",
-  "browserslist": "0xea83",
-  "browsersync": "0xea84",
-  "brunch": "0xea85",
-  "buck": "0xea86",
-  "build_boot": "0xea87",
-  "buildkite": "0xea88",
-  "bundler": "0xea89",
-  "byond": "0xea8a",
-  "c#_script": "0xea8b",
-  "c#": "0xea8c",
-  "c++": "0xea8d",
-  "cabal": "0xea8e",
-  "caddy_old": "0xea8f",
-  "caddy": "0xea90",
-  "caffe": "0xea91",
-  "caffe2": "0xea92",
-  "cairo": "0xea93",
-  "cake": "0xea94",
-  "cakefile": "0xea95",
-  "cakephp_old": "0xea96",
-  "cakephp": "0xea97",
-  "calva": "0xea98",
-  "carthage": "0xea99",
-  "casc": "0xea9a",
-  "cdf": "0xea9b",
-  "ceylon": "0xea9c",
-  "chai": "0xea9d",
-  "chapel": "0xea9e",
-  "chartjs": "0xea9f",
-  "cheetah3d": "0xeaa0",
-  "chef": "0xeaa1",
-  "chocolatey": "0xeaa2",
-  "chuck": "0xeaa3",
-  "circleci": "0xeaa4",
-  "cirru": "0xeaa5",
-  "ckeditor": "0xeaa6",
-  "clarion": "0xeaa7",
-  "clean": "0xeaa8",
-  "click": "0xeaa9",
-  "clips": "0xeaaa",
-  "clojurejs": "0xeaab",
-  "closuretemplate": "0xeaac",
-  "cloudfoundry": "0xeaad",
-  "cmake": "0xeaae",
-  "cnab": "0xeaaf",
-  "cobol": "0xeab0",
-  "cocoapods": "0xeab1",
-  "codacy": "0xeab2",
-  "code_climate": "0xeab3",
-  "codecov": "0xeab4",
-  "codekit": "0xeab5",
-  "codemeta": "0xeab6",
-  "codemirror": "0xeab7",
-  "codeship": "0xeab8",
-  "coldfusion": "0xeab9",
-  "commitizen": "0xeaba",
-  "commitlint": "0xeabb",
-  "common_lisp": "0xeabc",
-  "component_pascal": "0xeabd",
-  "composer": "0xeabe",
-  "conan": "0xeabf",
-  "conda": "0xeac0",
-  "config_coffeescript": "0xeac1",
-  "config_go": "0xeac2",
-  "config_haskell": "0xeac3",
-  "config_js": "0xeac4",
-  "config_perl": "0xeac5",
-  "config_python": "0xeac6",
-  "config_react": "0xeac7",
-  "config_ruby": "0xeac8",
-  "config_rust": "0xeac9",
-  "config_typescript": "0xeaca",
-  "config": "0xeacb",
-  "conll": "0xeacc",
-  "coq": "0xeacd",
-  "cordova": "0xeace",
-  "coreldraw_alt": "0xeacf",
-  "coreldraw": "0xead0",
-  "coveralls": "0xead1",
-  "cpan": "0xead2",
-  "cpcdosc+": "0xead3",
-  "crafttweaker": "0xead4",
-  "creole": "0xead5",
-  "crowdin": "0xead6",
-  "crystal": "0xead7",
-  "csound": "0xead8",
-  "cubit": "0xead9",
-  "cucumber": "0xeada",
-  "cuneiform": "0xeadb",
-  "curl_lang": "0xeadc",
-  "curl": "0xeadd",
-  "curry": "0xeade",
-  "cvs": "0xeadf",
-  "cwl": "0xeae0",
-  "cython": "0xeae1",
-  "d3": "0xeae2",
-  "dafny": "0xeae3",
-  "darcs_patch": "0xeae4",
-  "dashboard": "0xeae5",
-  "dataweave": "0xeae6",
-  "dbase": "0xeae7",
-  "default": "0xeae8",
-  "delphi": "0xeae9",
-  "deno": "0xeaea",
-  "dependabot": "0xeaeb",
-  "devcontainer": "0xeaec",
-  "devicetree": "0xeaed",
-  "dhall": "0xeaee",
-  "dia": "0xeaef",
-  "diff": "0xeaf0",
-  "digdag": "0xeaf1",
-  "dna": "0xeaf2",
-  "docbook": "0xeaf3",
-  "docker": "0xeaf4",
-  "doclets": "0xeaf5",
-  "docpad": "0xeaf6",
-  "docz": "0xeaf7",
-  "dogescript": "0xeaf8",
-  "dom": "0xeaf9",
-  "donejs": "0xeafa",
-  "dosbox_alt": "0xeafb",
-  "dosbox": "0xeafc",
-  "dotenv": "0xeafd",
-  "dotjs": "0xeafe",
-  "doxygen": "0xeaff",
-  "dragonflybsd": "0xeb00",
-  "dragula": "0xeb01",
-  "draw.io": "0xeb02",
-  "drone": "0xeb03",
-  "dub": "0xeb04",
-  "dvc": "0xeb05",
-  "dyalog": "0xeb06",
-  "dylib": "0xeb07",
-  "e": "0xeb08",
-  "eagle": "0xeb09",
-  "easybuild": "0xeb0a",
-  "ec": "0xeb0b",
-  "ecere": "0xeb0c",
-  "eclipse_lang": "0xeb0d",
-  "edge": "0xeb0e",
-  "editorconfig": "0xeb0f",
-  "eiffel": "0xeb10",
-  "ejs": "0xeb11",
-  "electron": "0xeb12",
-  "elementaryos": "0xeb13",
-  "elm": "0xeb14",
-  "emacs": "0xeb15",
-  "ember": "0xeb16",
-  "emberscript": "0xeb17",
-  "ensime": "0xeb18",
-  "eq": "0xeb19",
-  "esdoc": "0xeb1a",
-  "eslint_old": "0xeb1b",
-  "eslint": "0xeb1c",
-  "expo": "0xeb1d",
-  "fabfile": "0xeb1e",
-  "fabric": "0xeb1f",
-  "factor": "0xeb20",
-  "falcon": "0xeb21",
-  "fancy": "0xeb22",
-  "fantom": "0xeb23",
-  "fauna": "0xeb24",
-  "faust": "0xeb25",
-  "fbx": "0xeb26",
-  "fexl": "0xeb27",
-  "ffmpeg": "0xeb28",
-  "fiddle": "0xeb29",
-  "figma": "0xeb2a",
-  "finaldraft": "0xeb2b",
-  "finder": "0xeb2c",
-  "firebase_bolt": "0xeb2d",
-  "firebase": "0xeb2e",
-  "flask": "0xeb2f",
-  "floobits": "0xeb30",
-  "flow": "0xeb31",
-  "flutter": "0xeb32",
-  "flux": "0xeb33",
-  "font_bitmap": "0xeb34",
-  "font_outline": "0xeb35",
-  "font": "0xeb36",
-  "fontforge": "0xeb37",
-  "fork": "0xeb38",
-  "fortherecord": "0xeb39",
-  "fortran": "0xeb3a",
-  "fossa": "0xeb3b",
-  "fossil": "0xeb3c",
-  "fountain": "0xeb3d",
-  "franca": "0xeb3e",
-  "freedesktop": "0xeb3f",
-  "freedos": "0xeb40",
-  "freemarker": "0xeb41",
-  "freemat": "0xeb42",
-  "frege": "0xeb43",
-  "fthtml": "0xeb44",
-  "fuelux": "0xeb45",
-  "fusebox": "0xeb46",
-  "futhark": "0xeb47",
-  "galaxy": "0xeb48",
-  "galen": "0xeb49",
-  "gamemaker": "0xeb4a",
-  "gams": "0xeb4b",
-  "gap": "0xeb4c",
-  "gatsby": "0xeb4d",
-  "gauss": "0xeb4e",
-  "gdb": "0xeb4f",
-  "genshi": "0xeb50",
-  "genstat": "0xeb51",
-  "gentoo": "0xeb52",
-  "gf": "0xeb53",
-  "ghostscript": "0xeb54",
-  "gimp": "0xeb55",
-  "gitlab": "0xeb56",
-  "gitpod": "0xeb57",
-  "glade": "0xeb58",
-  "glide": "0xeb59",
-  "gltf": "0xeb5a",
-  "glyphs": "0xeb5b",
-  "gn": "0xeb5c",
-  "gnu": "0xeb5d",
-  "gnuplot": "0xeb5e",
-  "go_old": "0xeb5f",
-  "go": "0xeb60",
-  "godot": "0xeb61",
-  "golo": "0xeb62",
-  "goreleaser": "0xeb63",
-  "gosu": "0xeb64",
-  "gradle": "0xeb65",
-  "grapher": "0xeb66",
-  "graphite": "0xeb67",
-  "graphql_codegenerator": "0xeb68",
-  "graphql": "0xeb69",
-  "graphviz": "0xeb6a",
-  "gravit_designer": "0xeb6b",
-  "greenkeeper": "0xeb6c",
-  "gridsome": "0xeb6d",
-  "groovy": "0xeb6e",
-  "grunt": "0xeb6f",
-  "gulp": "0xeb70",
-  "hack": "0xeb71",
-  "haml": "0xeb72",
-  "harbour": "0xeb73",
-  "hashicorp": "0xeb74",
-  "haxe": "0xeb75",
-  "haxedevelop": "0xeb76",
-  "helix": "0xeb77",
-  "hewlettpackard": "0xeb78",
-  "hie": "0xeb79",
-  "hitachi": "0xeb7a",
-  "hjson": "0xeb7b",
-  "homebrew": "0xeb7c",
-  "hop": "0xeb7d",
-  "hoplon": "0xeb7e",
-  "houdini": "0xeb7f",
-  "houndci": "0xeb80",
-  "hugo": "0xeb81",
-  "husky": "0xeb82",
-  "hy": "0xeb83",
-  "hygen": "0xeb84",
-  "hyper": "0xeb85",
-  "icomoon": "0xeb86",
-  "icu": "0xeb87",
-  "idl": "0xeb88",
-  "idris": "0xeb89",
-  "igor_pro": "0xeb8a",
-  "illumos": "0xeb8b",
-  "image": "0xeb8c",
-  "imba_alt": "0xeb8d",
-  "imba_old": "0xeb8e",
-  "imba": "0xeb8f",
-  "imgbot": "0xeb90",
-  "influxdata": "0xeb91",
-  "inform7": "0xeb92",
-  "ink": "0xeb93",
-  "inkscape": "0xeb94",
-  "innosetup": "0xeb95",
-  "intel": "0xeb96",
-  "io": "0xeb97",
-  "ioke": "0xeb98",
-  "ionic_project": "0xeb99",
-  "isabelle": "0xeb9a",
-  "istanbul": "0xeb9b",
-  "j": "0xeb9c",
-  "jade": "0xeb9d",
-  "jakefile": "0xeb9e",
-  "janet": "0xeb9f",
-  "jasmine": "0xeba0",
-  "jenkins": "0xeba1",
-  "jest": "0xeba2",
-  "jinja": "0xeba3",
-  "jison": "0xeba4",
-  "jolie": "0xeba5",
-  "jscpd": "0xeba6",
-  "json_1": "0xeba7",
-  "json_2": "0xeba8",
-  "json_ld1": "0xeba9",
-  "json_ld2": "0xebaa",
-  "json5": "0xebab",
-  "jsonnet": "0xebac",
-  "jsx_alt": "0xebad",
-  "jsx_atom": "0xebae",
-  "jsx": "0xebaf",
-  "julia": "0xebb0",
-  "junos": "0xebb1",
-  "jupyter": "0xebb2",
-  "kaitai": "0xebb3",
-  "karma": "0xebb4",
-  "keybase": "0xebb5",
-  "keynote": "0xebb6",
-  "khronos": "0xebb7",
-  "kibo": "0xebb8",
-  "kicad": "0xebb9",
-  "kitchenci": "0xebba",
-  "kivy": "0xebbb",
-  "knime": "0xebbc",
-  "knockout": "0xebbd",
-  "kos": "0xebbe",
-  "kotlin": "0xebbf",
-  "krl": "0xebc0",
-  "kubernetes": "0xebc1",
-  "kusto_alt": "0xebc2",
-  "kusto": "0xebc3",
-  "kx": "0xebc4",
-  "labview": "0xebc5",
-  "laravel": "0xebc6",
-  "lark": "0xebc7",
-  "lasso": "0xebc8",
-  "latex": "0xebc9",
-  "latino": "0xebca",
-  "leaflet": "0xebcb",
-  "lean": "0xebcc",
-  "lefthook_alt": "0xebcd",
-  "lefthook": "0xebce",
-  "leiningen": "0xebcf",
-  "lektor": "0xebd0",
-  "lerna": "0xebd1",
-  "lex_alt": "0xebd2",
-  "lex": "0xebd3",
-  "lfe": "0xebd4",
-  "lgtm": "0xebd5",
-  "libuv": "0xebd6",
-  "lighthouse": "0xebd7",
-  "lightwave": "0xebd8",
-  "lilypond": "0xebd9",
-  "lime": "0xebda",
-  "linqpad": "0xebdb",
-  "lisp": "0xebdc",
-  "livescript": "0xebdd",
-  "llvm": "0xebde",
-  "logtalk": "0xebdf",
-  "lolcode": "0xebe0",
-  "lookml": "0xebe1",
-  "lsl": "0xebe2",
-  "lua": "0xebe3",
-  "macaulay2": "0xebe4",
-  "macvim": "0xebe5",
-  "magit": "0xebe6",
-  "mako": "0xebe7",
-  "manjaro": "0xebe8",
-  "manpage": "0xebe9",
-  "mapbox": "0xebea",
-  "markdownlint": "0xebeb",
-  "marko": "0xebec",
-  "mathematica": "0xebed",
-  "mathjax": "0xebee",
-  "matlab": "0xebef",
-  "matroska": "0xebf0",
-  "max": "0xebf1",
-  "maya": "0xebf2",
-  "mdx": "0xebf3",
-  "mediawiki": "0xebf4",
-  "melpa": "0xebf5",
-  "mercurial": "0xebf6",
-  "mercury": "0xebf7",
-  "mermaid": "0xebf8",
-  "meson_old": "0xebf9",
-  "meson": "0xebfa",
-  "metal": "0xebfb",
-  "metapost": "0xebfc",
-  "meteor": "0xebfd",
-  "microsoft_access": "0xebfe",
-  "microsoft_excel": "0xebff",
-  "microsoft_infopath": "0xec00",
-  "microsoft_lync": "0xec01",
-  "microsoft_onenote": "0xec02",
-  "microsoft_outlook": "0xec03",
-  "microsoft_powerpoint": "0xec04",
-  "microsoft_project": "0xec05",
-  "microsoft_publisher": "0xec06",
-  "microsoft_visio": "0xec07",
-  "microsoft_word": "0xec08",
-  "minecraft": "0xec09",
-  "minizinc": "0xec0a",
-  "mint": "0xec0b",
-  "mirah": "0xec0c",
-  "miranda": "0xec0d",
-  "mirc": "0xec0e",
-  "mixin": "0xec0f",
-  "mjml": "0xec10",
-  "mocha": "0xec11",
-  "modelica": "0xec12",
-  "modernweb": "0xec13",
-  "modo": "0xec14",
-  "modula_2": "0xec15",
-  "modula_3": "0xec16",
-  "moho": "0xec17",
-  "moleculer": "0xec18",
-  "moment_timezone": "0xec19",
-  "moment": "0xec1a",
-  "monkey": "0xec1b",
-  "mono": "0xec1c",
-  "monotone": "0xec1d",
-  "motorola": "0xec1e",
-  "moustache": "0xec1f",
-  "mruby": "0xec20",
-  "ms_dos": "0xec21",
-  "mupad": "0xec22",
-  "nano": "0xec23",
-  "nanoc": "0xec24",
-  "nant": "0xec25",
-  "nasm": "0xec26",
-  "ndepend": "0xec27",
-  "neko": "0xec28",
-  "nemerle": "0xec29",
-  "neo4j": "0xec2a",
-  "neon": "0xec2b",
-  "nessus": "0xec2c",
-  "nestjs": "0xec2d",
-  "netlify": "0xec2e",
-  "netlinx": "0xec2f",
-  "netlogo": "0xec30",
-  "new_relic": "0xec31",
-  "nextflow": "0xec32",
-  "nextjs": "0xec33",
-  "nginx": "0xec34",
-  "ngrx": "0xec35",
-  "nib": "0xec36",
-  "nickle": "0xec37",
-  "nightwatch": "0xec38",
-  "nimble": "0xec39",
-  "nimrod": "0xec3a",
-  "nintendo64": "0xec3b",
-  "nit": "0xec3c",
-  "nix": "0xec3d",
-  "nmap": "0xec3e",
-  "nodemon": "0xec3f",
-  "nokogiri": "0xec40",
-  "nomad": "0xec41",
-  "noon": "0xec42",
-  "normalise": "0xec43",
-  "npm_old": "0xec44",
-  "npm": "0xec45",
-  "nsis_old": "0xec46",
-  "nsis": "0xec47",
-  "nsri_alt": "0xec48",
-  "nsri": "0xec49",
-  "nuclide": "0xec4a",
-  "nuget": "0xec4b",
-  "numpy_old": "0xec4c",
-  "numpy": "0xec4d",
-  "nunjucks": "0xec4e",
-  "nuxt": "0xec4f",
-  "nvidia": "0xec50",
-  "nwscript": "0xec51",
-  "nx": "0xec52",
-  "nxc": "0xec53",
-  "oberon": "0xec54",
-  "objective_j": "0xec55",
-  "ocaml": "0xec56",
-  "octave": "0xec57",
-  "odin": "0xec58",
-  "ogone": "0xec59",
-  "omnigraffle": "0xec5a",
-  "ooc": "0xec5b",
-  "opa": "0xec5c",
-  "openapi": "0xec5d",
-  "openbsd_alt": "0xec5e",
-  "openbsd": "0xec5f",
-  "opencl": "0xec60",
-  "opencv": "0xec61",
-  "openexr": "0xec62",
-  "opengl": "0xec63",
-  "openindiana": "0xec64",
-  "openoffice": "0xec65",
-  "openpolicyagent": "0xec66",
-  "openscad": "0xec67",
-  "opensolaris": "0xec68",
-  "openstack": "0xec69",
-  "openvms": "0xec6a",
-  "openvpn": "0xec6b",
-  "openzfs": "0xec6c",
-  "org_mode": "0xec6d",
-  "os2": "0xec6e",
-  "owl": "0xec6f",
-  "ox": "0xec70",
-  "oxygene": "0xec71",
-  "oz": "0xec72",
-  "p4": "0xec73",
-  "pan": "0xec74",
-  "papyrus": "0xec75",
-  "parrot": "0xec76",
-  "pascal": "0xec77",
-  "patch": "0xec78",
-  "patreon": "0xec79",
-  "pawn": "0xec7a",
-  "pcd": "0xec7b",
-  "pegjs": "0xec7c",
-  "perl6": "0xec7d",
-  "phalcon": "0xec7e",
-  "phoenix": "0xec7f",
-  "photorec": "0xec80",
-  "php": "0xec81",
-  "phpunit": "0xec82",
-  "phraseapp": "0xec83",
-  "pickle": "0xec84",
-  "pico_8": "0xec85",
-  "picolisp": "0xec86",
-  "pike": "0xec87",
-  "pinescript": "0xec88",
-  "pipenv": "0xec89",
-  "pkgsrc": "0xec8a",
-  "platformio": "0xec8b",
-  "pm2": "0xec8c",
-  "pnpm": "0xec8d",
-  "pod": "0xec8e",
-  "pogoscript": "0xec8f",
-  "pointwise": "0xec90",
-  "polymer": "0xec91",
-  "pony": "0xec92",
-  "postcss": "0xec93",
-  "postscript": "0xec94",
-  "pov_ray": "0xec95",
-  "powerbuilder": "0xec96",
-  "powerpc": "0xec97",
-  "powershell": "0xec98",
-  "precision": "0xec99",
-  "precommit": "0xec9a",
-  "prettier": "0xec9b",
-  "prisma": "0xec9c",
-  "processing": "0xec9d",
-  "progress_old": "0xec9e",
-  "progress": "0xec9f",
-  "propeller": "0xeca0",
-  "pros": "0xeca1",
-  "proselint": "0xeca2",
-  "protractor": "0xeca3",
-  "pug_old": "0xeca4",
-  "pug": "0xeca5",
-  "pullapprove": "0xeca6",
-  "puppet": "0xeca7",
-  "pure": "0xeca8",
-  "purebasic": "0xeca9",
-  "purescript": "0xecaa",
-  "pypi": "0xecab",
-  "pyret": "0xecac",
-  "pytest": "0xecad",
-  "pyup": "0xecae",
-  "q#": "0xecaf",
-  "qiskit": "0xecb0",
-  "qlikview": "0xecb1",
-  "qt": "0xecb2",
-  "quasar": "0xecb3",
-  "r": "0xecb4",
-  "racket": "0xecb5",
-  "raml": "0xecb6",
-  "rascal": "0xecb7",
-  "razzle": "0xecb8",
-  "rdata": "0xecb9",
-  "rdoc": "0xecba",
-  "reactos": "0xecbb",
-  "readthedocs": "0xecbc",
-  "realbasic": "0xecbd",
-  "reason": "0xecbe",
-  "reasonstudios_alt": "0xecbf",
-  "reasonstudios": "0xecc0",
-  "rebol": "0xecc1",
-  "red_old": "0xecc2",
-  "red": "0xecc3",
-  "redux": "0xecc4",
-  "reek": "0xecc5",
-  "regex": "0xecc6",
-  "remark": "0xecc7",
-  "renovate": "0xecc8",
-  "rescript": "0xecc9",
-  "restql": "0xecca",
-  "restructuredtext": "0xeccb",
-  "rexx": "0xeccc",
-  "rhino3d": "0xeccd",
-  "ring": "0xecce",
-  "riot_old": "0xeccf",
-  "riot": "0xecd0",
-  "risc_v": "0xecd1",
-  "rmarkdown": "0xecd2",
-  "robotframework_old": "0xecd3",
-  "robotframework": "0xecd4",
-  "robots": "0xecd5",
-  "rollup_old": "0xecd6",
-  "rollup": "0xecd7",
-  "rspec": "0xecd8",
-  "rstudio": "0xecd9",
-  "rsync": "0xecda",
-  "rubocop": "0xecdb",
-  "rubygems": "0xecdc",
-  "sac": "0xecdd",
-  "sage": "0xecde",
-  "sails": "0xecdf",
-  "saltstack": "0xece0",
-  "san": "0xece1",
-  "sandbox": "0xece2",
-  "sas": "0xece3",
-  "sbt": "0xece4",
-  "scheme": "0xece5",
-  "scilab": "0xece6",
-  "scilla": "0xece7",
-  "scratch": "0xece8",
-  "scrutinizer": "0xece9",
-  "self": "0xecea",
-  "semanticrelease": "0xeceb",
-  "sentry": "0xecec",
-  "sequelize": "0xeced",
-  "serverless": "0xecee",
-  "service_fabric": "0xecef",
-  "shadowcljs": "0xecf0",
-  "shellcheck": "0xecf1",
-  "shen": "0xecf2",
-  "shipit": "0xecf3",
-  "shippable": "0xecf4",
-  "shopify": "0xecf5",
-  "shuriken": "0xecf6",
-  "sigils": "0xecf7",
-  "silicongraphics": "0xecf8",
-  "silverstripe": "0xecf9",
-  "sinatra": "0xecfa",
-  "sketch": "0xecfb",
-  "sketchup_layout": "0xecfc",
-  "sketchup_make": "0xecfd",
-  "sketchup_stylebuilder": "0xecfe",
-  "slash": "0xecff",
-  "smartos_alt": "0xed00",
-  "smartos": "0xed01",
-  "snapcraft": "0xed02",
-  "snort": "0xed03",
-  "snowpack": "0xed04",
-  "snyk": "0xed05",
-  "solidarity": "0xed06",
-  "solidity": "0xed07",
-  "sophia": "0xed08",
-  "sorbet": "0xed09",
-  "source": "0xed0a",
-  "spacemacs": "0xed0b",
-  "spacengine": "0xed0c",
-  "sparc": "0xed0d",
-  "spray": "0xed0e",
-  "sqf": "0xed0f",
-  "sqlite": "0xed10",
-  "squarespace": "0xed11",
-  "stan": "0xed12",
-  "stata": "0xed13",
-  "stdlibjs": "0xed14",
-  "stencil": "0xed15",
-  "stitches": "0xed16",
-  "storybook": "0xed17",
-  "storyist": "0xed18",
-  "strings": "0xed19",
-  "stylable": "0xed1a",
-  "styledcomponents": "0xed1b",
-  "stylelint": "0xed1c",
-  "stylishhaskell": "0xed1d",
-  "stylus_orb": "0xed1e",
-  "stylus_s": "0xed1f",
-  "stylus": "0xed20",
-  "sublime": "0xed21",
-  "supercollider": "0xed22",
-  "svelte": "0xed23",
-  "svn": "0xed24",
-  "swagger": "0xed25",
-  "systemverilog": "0xed26",
-  "tag": "0xed27",
-  "tailwind": "0xed28",
-  "tcl": "0xed29",
-  "telegram": "0xed2a",
-  "templatetoolkit": "0xed2b",
-  "templeos": "0xed2c",
-  "terminal": "0xed2d",
-  "tern": "0xed2e",
-  "terraform": "0xed2f",
-  "terser": "0xed30",
-  "test_coffeescript": "0xed31",
-  "test_directory": "0xed32",
-  "test_generic": "0xed33",
-  "test_go": "0xed34",
-  "test_haskell": "0xed35",
-  "test_js": "0xed36",
-  "test_perl": "0xed37",
-  "test_python": "0xed38",
-  "test_react": "0xed39",
-  "test_ruby": "0xed3a",
-  "test_rust": "0xed3b",
-  "test_typescript": "0xed3c",
-  "testcafe": "0xed3d",
-  "textile": "0xed3e",
-  "textmate": "0xed3f",
-  "tfs": "0xed40",
-  "thor": "0xed41",
-  "tilt": "0xed42",
-  "tinymce": "0xed43",
-  "tipe": "0xed44",
-  "tla+": "0xed45",
-  "tmux": "0xed46",
-  "toml": "0xed47",
-  "tortoisesvn": "0xed48",
-  "totvs": "0xed49",
-  "truffle": "0xed4a",
-  "tsx_alt": "0xed4b",
-  "tsx": "0xed4c",
-  "ttcn_3": "0xed4d",
-  "turing": "0xed4e",
-  "twig": "0xed4f",
-  "twine": "0xed50",
-  "txl": "0xed51",
-  "typedoc": "0xed52",
-  "typescript_alt": "0xed53",
-  "typescript": "0xed54",
-  "typings": "0xed55",
-  "ufo": "0xed56",
-  "unibeautify": "0xed57",
-  "unicode": "0xed58",
-  "uno": "0xed59",
-  "unrealscript": "0xed5a",
-  "urweb": "0xed5b",
-  "v_ray": "0xed5c",
-  "v": "0xed5d",
-  "v8_turbofan": "0xed5e",
-  "v8": "0xed5f",
-  "vagrant": "0xed60",
-  "vala": "0xed61",
-  "vax": "0xed62",
-  "vcl": "0xed63",
-  "velocity": "0xed64",
-  "verilog": "0xed65",
-  "vertexshader": "0xed66",
-  "vhdl": "0xed67",
-  "video": "0xed68",
-  "virtualbox_alt": "0xed69",
-  "virtualbox": "0xed6a",
-  "vite": "0xed6b",
-  "vmware": "0xed6c",
-  "vscode": "0xed6d",
-  "vsts": "0xed6e",
-  "vue": "0xed6f",
-  "vyper": "0xed70",
-  "w3c": "0xed71",
-  "wallaby": "0xed72",
-  "walt": "0xed73",
-  "warcraft_iii": "0xed74",
-  "wasi": "0xed75",
-  "watchman": "0xed76",
-  "wdl": "0xed77",
-  "webassembly": "0xed78",
-  "webgl": "0xed79",
-  "webhint": "0xed7a",
-  "webpack_old": "0xed7b",
-  "webpack": "0xed7c",
-  "webvtt": "0xed7d",
-  "wenyan": "0xed7e",
-  "wercker": "0xed7f",
-  "wget": "0xed80",
-  "windi": "0xed81",
-  "wine": "0xed82",
-  "winui": "0xed83",
-  "wix": "0xed84",
-  "wolfram": "0xed85",
-  "workbox": "0xed86",
-  "wurst": "0xed87",
-  "x10": "0xed88",
-  "xamarin": "0xed89",
-  "xmake": "0xed8a",
-  "xmos": "0xed8b",
-  "xpages": "0xed8c",
-  "xtend": "0xed8d",
-  "xubuntu": "0xed8e",
-  "yaml_alt1": "0xed8f",
-  "yaml_alt2": "0xed90",
-  "yaml_alt3": "0xed91",
-  "yaml_alt4": "0xed92",
-  "yaml": "0xed93",
-  "yamllint": "0xed94",
-  "yandex": "0xed95",
-  "yang": "0xed96",
-  "yara": "0xed97",
-  "yarn": "0xed98",
-  "yasm": "0xed99",
-  "yorick": "0xed9a",
-  "yui": "0xed9b",
-  "zbrush": "0xed9c",
-  "zeit": "0xed9d",
-  "zephir": "0xed9e",
-  "zig": "0xed9f",
-  "zilog": "0xeda0",
-  "zimpl": "0xeda1",
-  "zorinos": "0xeda2",
-  "zork": "0xeda3"
+  "1C": "0xA5EA",
+  "1C, Alt": "0xEA28",
+  "3D Model": "0xE9E8",
+  "3DS Max": "0xE900",
+  "4D": "0xEB73",
+  "A+": "0xEB79",
+  "ABAP": "0xE92B",
+  "ABIF": "0xEA4E",
+  "Acre": "0x237A",
+  "ActionScript": "0xE92E",
+  "Ada": "0xE90B",
+  "Adobe": "0x1D235",
+  "Adobe Acrobat": "0xEB5F",
+  "Adobe After Effects": "0xE9F3",
+  "Adobe Animate": "0xEB41",
+  "Adobe Audition": "0x3373",
+  "Adobe Bridge": "0xEB61",
+  "Adobe Character Animator": "0xEB62",
+  "Adobe Creative Cloud": "0xEB5E",
+  "Adobe Dimension": "0xEB63",
+  "Adobe Dreamweaver": "0xEB64",
+  "Adobe Flash": "0xEB43",
+  "Adobe Fuse": "0xEB65",
+  "Adobe Illustrator": "0xE6B4",
+  "Adobe InCopy": "0x1F18B",
+  "Adobe InDesign": "0xE9F4",
+  "Adobe Lightroom": "0xEB67",
+  "Adobe Media Encoder": "0xEB68",
+  "Adobe Photoshop": "0xE6B8",
+  "Adobe Prelude": "0xEB69",
+  "Adobe Premiere": "0xE9F5",
+  "Adobe Premiere Rush": "0xEB6A",
+  "Adobe XD": "0xEB6B",
+  "Aeternity": "0x00E6",
+  "AffectScript": "0xEB2C",
+  "AffinityDesigner": "0xEABB",
+  "Agda": "0x1315A",
+  "Akka": "0xEA0E",
+  "Alacritty": "0xEB27",
+  "Alacritty, Alt": "0xEB28",
+  "Alex": "0x29CB",
+  "Alloy": "0xE935",
+  "Alpine Linux": "0xE9FF",
+  "AMD": "0xEB59",
+  "AmigaOS": "0x26BD",
+  "AMPL": "0xE94E",
+  "AmuseWiki": "0xEB32",
+  "Analytica": "0xEB7D",
+  "AngelScript": "0xEA5B",
+  "AnimeStudio": "0xEAED",
+  "Ansible": "0x24B6",
+  "Ansible, Alt": "0x0061",
+  "ANTLR": "0xE92C",
+  "Antwar": "0x2591",
+  "AnyScript": "0xEACF",
+  "Apache ANT": "0xE93E",
+  "API Blueprint": "0xE92D",
+  "API Extractor": "0xEB99",
+  "APL": "0x234B",
+  "APL, Old": "0xE909",
+  "Apollo": "0x1F110",
+  "Apollo Guidance Computer (AGC)": "0xEB54",
+  "Apple": "0xE925",
+  "Appveyor": "0xE923",
+  "Arc": "0xE92F",
+  "Arch Linux": "0x0041",
+  "Arduino": "0xE930",
+  "ARM": "0xEB5B",
+  "Art Text": "0x24D0",
+  "Art Text 4": "0x1D5EE",
+  "AsciiDoc": "0xE918",
+  "Asciidoctor": "0xEAC7",
+  "Assembly, AGC": "0xEB53",
+  "Assembly, AMD": "0xEB52",
+  "Assembly, ARM": "0xEB51",
+  "Assembly, AT&T": "0xEB50",
+  "Assembly, AVR": "0xEB6C",
+  "Assembly, Generic": "0xEB4F",
+  "Assembly, Hitachi": "0xEB60",
+  "Assembly, Intel": "0xEB4E",
+  "Assembly, Motorola": "0xEB4D",
+  "Assembly, PPC": "0xEB4C",
+  "Assembly, RISC-V": "0xEB4B",
+  "Assembly, SPARC": "0xEB4A",
+  "Assembly, VAX": "0xEB48",
+  "Assembly, Zilog": "0xEB47",
+  "Asymptote": "0xEAE5",
+  "Asymptote, Alt": "0xEAE3",
+  "Atoum": "0x2649",
+  "ATS": "0xE934",
+  "AT&T": "0xEB55",
+  "Audacity": "0xE9F9",
+  "Augeas": "0xE931",
+  "Aurelia": "0xEA48",
+  "AutoHotkey": "0xE932",
+  "AutoIt": "0xE933",
+  "Automator": "0xEBB4",
+  "AVR": "0xEB6D",
+  "Avro": "0xEAA3",
+  "Awk": "0x1F427",
+  "Azure Pipelines": "0x1F680",
+  "Babel": "0xE91F",
+  "Ballerina": "0xEAC8",
+  "Bazaar": "0xEACD",
+  "Bazel": "0xEAD2",
+  "Bazel, Old": "0xEA5A",
+  "Behat": "0xEA89",
+  "BEM": "0xEA59",
+  "BibTeX": "0xE601",
+  "Bikeshed": "0x1F6B2",
+  "Biml": "0xEB29",
+  "Binder": "0xEBA4",
+  "BinTray": "0xEA6E",
+  "Bison": "0x1F402",
+  "bitHound": "0xEA2A",
+  "Blender": "0xE9FA",
+  "BlitzBASIC": "0xEBA5",
+  "Bloc": "0xEBA3",
+  "Bluespec": "0xE93C",
+  "BNF": "0x2A74",
+  "Boo": "0xE939",
+  "Bors": "0x1F441",
+  "Bosque": "0xEB96",
+  "Brainfuck": "0xE93A",
+  "Brakeman": "0xE9D6",
+  "Bro": "0xE93B",
+  "Broccoli": "0xE922",
+  "Brotli": "0xEAA2",
+  "Brotli, Old": "0xEA6C",
+  "Browserslist": "0xEA80",
+  "Browsersync": "0x0062",
+  "Brunch": "0xEA47",
+  "Buck": "0xEA46",
+  "Build Boot": "0xF103",
+  "Buildkite": "0xEBAD",
+  "Bundler": "0xEA45",
+  "BYOND": "0xE962",
+  "C#": "0xEB7B",
+  "C++": "0xEB7C",
+  "C# Script": "0xE9E2",
+  "Cabal": "0xE9C2",
+  "Caddy": "0x1F512",
+  "Caddy, Old": "0xEA58",
+  "Caffe": "0xEA9A",
+  "Caffe2": "0xEAB6",
+  "Cairo": "0xEA92",
+  "Cake": "0xE9E3",
+  "Cakefile": "0xE924",
+  "CakePHP": "0xEA43",
+  "CakePHP, Old": "0xE9D3",
+  "Calva": "0xEBA1",
+  "Carthage": "0xEA98",
+  "CASC": "0xEBB6",
+  "Ceylon": "0xE94F",
+  "Chai": "0x0063",
+  "Chapel": "0xE950",
+  "ChartJS": "0xEA0B",
+  "Cheetah3D": "0x1F406",
+  "Chef": "0xEA42",
+  "Chocolatey": "0x1F36B",
+  "ChucK": "0xE943",
+  "CircleCI": "0xEA12",
+  "Cirru": "0xE951",
+  "CKEditor": "0xEA0C",
+  "Clarion": "0xE952",
+  "Clean": "0xE95B",
+  "Click": "0xE95C",
+  "CLIPS": "0xE940",
+  "ClojureJS": "0xF104",
+  "Closure Template": "0xEA82",
+  "CloudFoundry": "0xEAD0",
+  "Cmake": "0xE93F",
+  "CNAB": "0xEBB5",
+  "COBOL": "0xEA44",
+  "CocoaPods": "0xEA97",
+  "Codacy": "0xEA8B",
+  "Code Climate": "0xE9D5",
+  "Codecov": "0x2602",
+  "CodeKit": "0xEA41",
+  "CodeMeta": "0xEB8F",
+  "CodeMirror": "0xEA0D",
+  "CodeShip": "0xEA6A",
+  "ColdFusion": "0xE929",
+  "Commitizen": "0xEBB3",
+  "CommitLint": "0x1F191",
+  "Common Lisp": "0xE972",
+  "Component Pascal": "0xE942",
+  "Composer": "0xE683",
+  "Computable Document Format": "0xEB46",
+  "Conan": "0xEAD1",
+  "Conda": "0xEB3C",
+  "Config": "0xF07C",
+  "Config, CoffeeScript": "0xEB18",
+  "Config, Go": "0xEB12",
+  "Config, Haskell": "0xEB14",
+  "Config, JS": "0xEB1A",
+  "Config, Perl": "0xEB19",
+  "Config, Python": "0xEB15",
+  "Config, React": "0xEB16",
+  "Config, Ruby": "0xEB17",
+  "Config, Rust": "0xEB13",
+  "Config, TypeScript": "0xEB1B",
+  "CoNLL": "0xEAA6",
+  "Coq": "0xE95F",
+  "Cordova": "0xEA11",
+  "CorelDRAW": "0xEA90",
+  "CorelDRAW, Alt": "0xEA91",
+  "Coveralls": "0x272A",
+  "CPAN": "0xEA87",
+  "CpcdosC+": "0xEB8D",
+  "Craft Tweaker": "0xEB89",
+  "Creole": "0xE95E",
+  "Crowdin": "0xEAD3",
+  "Crystal": "0xE902",
+  "CSound": "0xE9F0",
+  "Cubit": "0xEB92",
+  "Cucumber": "0xF02B",
+  "Cuneiform": "0xEB76",
+  "Curl (language)": "0xEB7A",
+  "cURL (program)": "0x002F",
+  "Curry": "0xEB78",
+  "CVS": "0x1F41F",
+  "CWL": "0x29D9",
+  "Cython": "0xE963",
+  "D3": "0xEA10",
+  "Dafny": "0xEB8C",
+  "Darcs": "0xE964",
+  "Dashboard": "0xF07D",
+  "DataWeave": "0xEA99",
+  "dBASE": "0xE9F1",
+  "Default": "0x1F5CC",
+  "Delphi": "0xEA40",
+  "Deno": "0xEAEF",
+  "Dependabot": "0xEB3E",
+  "DevContainer": "0xEB83",
+  "DeviceTree": "0xEA57",
+  "Dhall": "0x1F58B",
+  "Dia": "0xEAB5",
+  "Diff": "0xE960",
+  "Digdag": "0xEB03",
+  "DNA": "0x2624",
+  "DocBook": "0x13167",
+  "Dockerfile": "0xF106",
+  "Doclets": "0xEA3F",
+  "DocPad": "0x21B9",
+  "Docz": "0xEB21",
+  "Dogescript": "0xE946",
+  "DOM": "0xEA71",
+  "DoneJS": "0x1F3C1",
+  "DOSBox": "0xEAF2",
+  "DOSBox, Alt": "0xEAF0",
+  "dotenv": "0xEBB8",
+  "doT.js": "0xEB0B",
+  "Doxygen": "0xE928",
+  "DragonflyBSD": "0xEAFD",
+  "Dragula": "0x1F44C",
+  "draw.io": "0xEB93",
+  "Drone": "0xEA3D",
+  "DUB": "0xEBA2",
+  "DVC": "0xEB98",
+  "Dyalog": "0xE90C",
+  "DyLib": "0xEA15",
+  "E": "0x0045",
+  "Eagle": "0xE965",
+  "EasyBuild": "0xEA85",
+  "eC": "0xE9C9",
+  "Ecere": "0xE966",
+  "ECLiPSe (language)": "0xEB80",
+  "Edge": "0xEA78",
+  "EditorConfig": "0xEA1B",
+  "Eiffel": "0xE967",
+  "EJS": "0xEA4B",
+  "Electron": "0xEA27",
+  "ElementaryOS": "0x24D4",
+  "Elm": "0xF102",
+  "Emacs": "0xE926",
+  "Ember": "0xE61B",
+  "EmberScript": "0xE968",
+  "Ensime": "0xEAD4",
+  "EQ": "0xEA0A",
+  "ESDoc": "0xEA5C",
+  "ESLint": "0xEA0F",
+  "ESLint, Old": "0xE90E",
+  "Expo": "0xEB71",
+  "Fabfile": "0xE94B",
+  "Fabric": "0x1F4DC",
+  "Factor": "0xE96A",
+  "Falcon": "0xEAE4",
+  "Fancy": "0xE96B",
+  "Fantom": "0xE96F",
+  "Fauna": "0x13168",
+  "Faust": "0x22C0",
+  "FBX": "0xE9FC",
+  "Fexl": "0xEB20",
+  "FFmpeg": "0xEA22",
+  "Fiddle": "0x24BB",
+  "Figma": "0xEBBA",
+  "Final Draft": "0x1D4BB",
+  "Finder": "0xE9E9",
+  "Firebase": "0xEA7F",
+  "Firebase Bolt": "0x26A1",
+  "Flask": "0x1F704",
+  "Floobits": "0xEAD5",
+  "Flow": "0xE921",
+  "Flutter": "0xEAEB",
+  "Flux": "0xE969",
+  "Font": "0xE90F",
+  "Font, Bitmap": "0xEAAB",
+  "Font, Outline": "0xEAAA",
+  "FontForge": "0xFB00",
+  "For the Record": "0x2933",
+  "Fork": "0x2442",
+  "Fortran": "0xE90A",
+  "FOSSA": "0xEAC3",
+  "Fossil": "0xEAD6",
+  "Fountain": "0x1F135",
+  "Franca": "0xEA56",
+  "FreeDesktop": "0xEB07",
+  "FreeDOS": "0xEAF1",
+  "FreeMarker": "0xE970",
+  "FreeMat": "0xEB7F",
+  "Frege": "0xE96E",
+  "ftHTML": "0xEB97",
+  "FuelUX": "0xEA09",
+  "FuseBox": "0xEAD7",
+  "Futhark": "0xEB77",
+  "Galaxy": "0xEB74",
+  "Galen": "0xEAD8",
+  "GameMaker": "0xE975",
+  "GAMS": "0xE973",
+  "GAP": "0xE971",
+  "Gatsby": "0x24BC",
+  "GAUSS": "0xEB7E",
+  "GDB": "0xEA08",
+  "Genshi": "0xE976",
+  "GenStat": "0x223F",
+  "Gentoo": "0xE96D",
+  "Ghostscript": "0xEA8F",
+  "GIMP": "0xEA88",
+  "GitLab": "0xEA3C",
+  "Gitpod": "0x1D5A6",
+  "Glade": "0xE938",
+  "Glide": "0xEACB",
+  "glTF": "0xEAA7",
+  "Glyphs": "0x0047",
+  "GN": "0xEA25",
+  "GNU": "0xE679",
+  "Gnuplot": "0x1F4C8",
+  "Go": "0xEAAE",
+  "Go, Old": "0xE624",
+  "Godot": "0xE974",
+  "Golo": "0xE979",
+  "GoReleaser": "0xEB90",
+  "Gosu": "0xE97A",
+  "Gradle": "0xE903",
+  "Grammatical Framework": "0xE978",
+  "Grapher": "0x1F4C9",
+  "Graphite": "0xEA8A",
+  "GraphQL": "0xE97C",
+  "GraphQL Code Generator": "0xEBAE",
+  "GraphViz": "0xE97D",
+  "Gravit Designer": "0xEB02",
+  "Greenkeeper": "0xEB0C",
+  "Gridsome": "0xEAE7",
+  "Groovy": "0xE904",
+  "Grunt": "0xE611",
+  "Gulp": "0xE610",
+  "Hack": "0xE9CE",
+  "Haml": "0xF15B",
+  "Harbour": "0xE97B",
+  "HashiCorp": "0xE97E",
+  "Haskell IDE Engine": "0xEBAB",
+  "Haxe": "0xE907",
+  "HaxeDevelop": "0xEA3B",
+  "Helix": "0x2695",
+  "Hewlett-Packard": "0x33CB",
+  "Hitachi": "0xEB66",
+  "HJSON": "0xEAC2",
+  "Homebrew": "0x1F37A",
+  "Hop": "0x1F998",
+  "Hoplon": "0xEA4D",
+  "Houdini": "0x1F300",
+  "HoundCI": "0xEAAF",
+  "Hugo": "0x24BD",
+  "Husky": "0x1F436",
+  "Hy": "0xE97F",
+  "Hygen": "0x1F4C3",
+  "Hyper": "0xEB37",
+  "IcoMoon": "0xEAEA",
+  "ICU": "0xEA23",
+  "IDL": "0xE947",
+  "Idris": "0xE983",
+  "IGOR Pro": "0xE980",
+  "illumos": "0xEAF4",
+  "Image": "0xF012",
+  "Imba": "0x26FF",
+  "Imba, Alt": "0xEAE9",
+  "Imba, Old": "0x1F4A0",
+  "Imgbot": "0xEBBF",
+  "InfluxData": "0xEB1F",
+  "Inform 7": "0xE984",
+  "Ink": "0xEACE",
+  "Inkscape": "0xEA8E",
+  "Inno Setup": "0xE985",
+  "Intel": "0xEB5A",
+  "Io": "0xE981",
+  "Ioke": "0xE982",
+  "Ionic Project": "0xF14B",
+  "Isabelle": "0xE945",
+  "Istanbul": "0x1F54C",
+  "J": "0xE937",
+  "Jade": "0xE90D",
+  "Jake": "0xE948",
+  "Janet": "0xEB2A",
+  "Jasmine": "0xEA3A",
+  "Jenkins": "0xE667",
+  "Jest": "0xEA39",
+  "Jinja": "0xE944",
+  "Jison": "0xEA55",
+  "Jolie": "0xEA75",
+  "jscpd": "0xEB95",
+  "JSON-1": "0xEABE",
+  "JSON-2": "0xEABD",
+  "JSON5": "0x2478",
+  "JSON-LD": "0xE958",
+  "JSON-LD2": "0xE959",
+  "Jsonnet": "0xEB1E",
+  "JSX": "0xE9E6",
+  "JSX, Alt": "0xF101",
+  "JSX, Atom": "0xF100",
+  "Julia": "0x26EC",
+  "Junos": "0xEA81",
+  "Jupyter": "0xE987",
+  "Kaitai": "0x30AB",
+  "Karma": "0xE9CD",
+  "Keybase": "0xEAF8",
+  "Keynote": "0xE9E5",
+  "Khronos": "0xE9F8",
+  "Kibo": "0xEBA9",
+  "KiCad": "0xEA4C",
+  "KitchenCI": "0xEA38",
+  "Kivy": "0xE901",
+  "KNIME": "0xEB75",
+  "Knockout": "0x004B",
+  "kOS": "0x006B",
+  "Kotlin": "0xE989",
+  "KRL": "0xE988",
+  "Kubernetes": "0x2388",
+  "Kusto": "0xEB9A",
+  "Kusto, Alt": "0xEB9B",
+  "Kx": "0xEA9B",
+  "LabVIEW": "0xE98A",
+  "Laravel": "0xE63F",
+  "Lark": "0x1316B",
+  "Lasso": "0xE98C",
+  "Latino": "0x1F426",
+  "Leaflet": "0xEA07",
+  "Lean": "0x004C",
+  "Lefthook": "0xEB8B",
+  "Lefthook, Alt": "0x1F44A",
+  "Leiningen": "0xF105",
+  "Lektor": "0xEAB9",
+  "Lerna": "0xEA37",
+  "Lex": "0x101EF",
+  "Lex, Alt": "0x1316A",
+  "LFE": "0xE94C",
+  "LGTM": "0x1F435",
+  "libuv": "0xEA21",
+  "Lighthouse": "0x26EF",
+  "LightWave": "0xE9FB",
+  "LilyPond": "0x1F4AE",
+  "Lime": "0xEA36",
+  "LINQPad": "0x1D6CC",
+  "Lisp": "0xE908",
+  "LiveScript": "0xE914",
+  "LLVM": "0xE91D",
+  "Logtalk": "0xE98D",
+  "LOLCODE": "0x1F63A",
+  "LookML": "0xE98E",
+  "LSL": "0xE98B",
+  "Lua": "0xE91B",
+  "Macaulay2": "0x2644",
+  "MacVim": "0xEB23",
+  "Magit": "0xEB05",
+  "Mako": "0xE98F",
+  "Manjaro": "0xEB06",
+  "Manpage": "0xE936",
+  "Mapbox": "0xE941",
+  "MarkdownLint": "0xF0C9",
+  "Marko": "0xE920",
+  "Mathematica": "0xE990",
+  "MathJax": "0xEA06",
+  "MATLAB": "0xE991",
+  "Matroska": "0x2668",
+  "Max": "0xE993",
+  "Maya": "0xE9F6",
+  "MDX": "0xEAB7",
+  "MediaWiki": "0xE954",
+  "MELPA": "0x33AB",
+  "Mercurial": "0x263F",
+  "Mercury": "0xE994",
+  "Mermaid": "0xEB84",
+  "Meson": "0xEAFE",
+  "Meson, Old": "0xEA54",
+  "Metal": "0x004D",
+  "MetaPost": "0x1D5AC",
+  "Meteor": "0xE6A5",
+  "Microsoft Access": "0xE9EA",
+  "Microsoft Excel": "0xE9EE",
+  "Microsoft InfoPath": "0xEA35",
+  "Microsoft Lync": "0xEAD9",
+  "Microsoft OneNote": "0xE9EB",
+  "Microsoft Outlook": "0xEADA",
+  "Microsoft PowerPoint": "0xE9EC",
+  "Microsoft Project": "0xEAE8",
+  "Microsoft Publisher": "0xEADD",
+  "Microsoft Visio": "0xEA83",
+  "Microsoft Word": "0xE9ED",
+  "Minecraft": "0xE9DC",
+  "MiniZinc": "0xEA53",
+  "Mint": "0x1F33F",
+  "Mirah": "0xE995",
+  "Miranda": "0xEA52",
+  "mIRC": "0xEB3A",
+  "Mixin": "0xEBB9",
+  "MJML": "0xEA6F",
+  "Mocha": "0x26FE",
+  "Modelica": "0xEAFF",
+  "Modern Web": "0xEB9F",
+  "Modo": "0xF01F",
+  "Modula 2": "0xE996",
+  "Modula-3": "0x2778",
+  "Moho": "0xEAEE",
+  "Moleculer": "0xEB0E",
+  "Moment": "0x1F558",
+  "Moment Timezone": "0x1F30D",
+  "Monkey": "0xE997",
+  "Mono": "0x1F5FF",
+  "Monotone": "0x1F400",
+  "Motorola": "0x24C2",
+  "Moustache": "0xE60F",
+  "Mruby": "0xEA18",
+  "MS-DOS": "0xEAFA",
+  "MuPAD": "0xE9CA",
+  "Nano": "0xEA76",
+  "Nanoc": "0xEA51",
+  "NAnt": "0xE9E1",
+  "NASM": "0xEA72",
+  "NDepend": "0xEAB4",
+  "Neko": "0xEA05",
+  "Nemerle": "0x1F985",
+  "Neo4J": "0xEAB3",
+  "NEON": "0xEB8E",
+  "Nessus": "0x23E3",
+  "NestJS": "0xEAC9",
+  "Netlify": "0xEABF",
+  "NetLinx": "0xE99B",
+  "NetLogo": "0xE99C",
+  "New Relic": "0xE9D7",
+  "Nextflow": "0xEAA5",
+  "NextJS": "0x24C3",
+  "nginx": "0xF146B",
+  "NgRx": "0xEBB2",
+  "Nib": "0x2712",
+  "Nickle": "0x00A2",
+  "Nightwatch": "0xEB08",
+  "Nimble": "0xEB85",
+  "Nimrod": "0xE998",
+  "Nintendo 64": "0x006E",
+  "Nit": "0xE999",
+  "Nix": "0xE99A",
+  "Nmap": "0xE94D",
+  "Nodemon": "0xEA26",
+  "Nokogiri": "0x92F8",
+  "Nomad": "0xEA96",
+  "Noon": "0xEB33",
+  "Normalize": "0xEA04",
+  "NPM": "0xE91C",
+  "NPM, Old": "0xF17B",
+  "NSIS": "0xEA1E",
+  "NSIS, Old": "0xE992",
+  "NSRI": "0xEB2F",
+  "NSRI, Alt": "0xEB2B",
+  "Nuclide": "0xEA34",
+  "NuGet": "0xE9D9",
+  "NumPy": "0xEBA8",
+  "NumPy, Old": "0xE99D",
+  "Nunjucks": "0xE953",
+  "Nuxt": "0xEACA",
+  "NVIDIA": "0xE95D",
+  "NWScript": "0x23FF",
+  "Nx": "0xEB9C",
+  "NXC": "0xEA6B",
+  "Oberon": "0xEB3F",
+  "Objective-J": "0xE99E",
+  "OCaml": "0xE91A",
+  "Octave": "0xEA33",
+  "Odin": "0xEB36",
+  "Ogone": "0xEBAA",
+  "OmniGraffle": "0xEBAF",
+  "OOC": "0xE9CB",
+  "Opa": "0x2601",
+  "Open Policy Agent": "0xEB39",
+  "OpenAPI": "0xEB0A",
+  "OpenBSD": "0x1F421",
+  "OpenBSD, Alt": "0x1F420",
+  "OpenCL": "0xE99F",
+  "OpenCV": "0xEA8D",
+  "OpenEXR": "0x1F127",
+  "OpenGL": "0xEA7A",
+  "OpenIndiana": "0x01A3",
+  "OpenOffice": "0xE9E4",
+  "OpensCAD": "0xE911",
+  "OpenSolaris": "0xEAF5",
+  "OpenStack": "0xEB6F",
+  "OpenVMS": "0xEAC6",
+  "OpenVPN": "0xEAF3",
+  "OpenZFS": "0x1D419",
+  "Org-mode": "0xE917",
+  "OS2": "0xEAF6",
+  "OWL": "0xE957",
+  "Ox": "0xE9A1",
+  "Oxygene": "0xE9BF",
+  "Oz": "0xE9BE",
+  "P4": "0xEA50",
+  "Pan": "0xE9BD",
+  "Papyrus": "0xE9BC",
+  "Parrot": "0xE9BB",
+  "Pascal": "0xE92A",
+  "Patch": "0xE961",
+  "Patreon": "0xEB42",
+  "PAWN": "0x265F",
+  "PCD": "0x26C5",
+  "PegJS": "0xEA74",
+  "Perl6": "0xE96C",
+  "Phalcon": "0xE94A",
+  "Phoenix": "0xEA5F",
+  "PhotoRec": "0xEBC0",
+  "PHP": "0xF147",
+  "PHPUnit": "0xEA32",
+  "PhraseApp": "0xEADB",
+  "Pickle": "0xE9C4",
+  "PICO-8": "0xEABC",
+  "PicoLisp": "0xEB25",
+  "Pike": "0xE9B9",
+  "PineScript": "0xEB30",
+  "Pipenv": "0x1F381",
+  "pkgsrc": "0xEAF9",
+  "PlatformIO": "0xEA2C",
+  "PM2": "0x2630",
+  "PNPM": "0xEB86",
+  "Pod": "0xEA84",
+  "PogoScript": "0xE9B8",
+  "PointWise": "0xE977",
+  "Polymer": "0xEA2B",
+  "Pony": "0xE9B7",
+  "PostCSS": "0xE910",
+  "PostScript": "0xE955",
+  "POV-Ray": "0x0050",
+  "PowerBuilder": "0xEA14",
+  "PowerPC": "0xEB58",
+  "PowerShell": "0xE9DA",
+  "Precision": "0x2295",
+  "Precommit": "0xEAC1",
+  "Prettier": "0xEAA1",
+  "Prisma": "0xEAC5",
+  "Processing": "0xE9A0",
+  "Progress": "0xEADC",
+  "Progress, Old": "0xE9C0",
+  "Propeller": "0xE9B5",
+  "PROS": "0xEAAD",
+  "Proselint": "0xEA6D",
+  "Protractor": "0xE9DE",
+  "Pug": "0xEA13",
+  "Pug, Alt": "0xE9D0",
+  "PullApprove": "0x293E",
+  "Puppet": "0xF0C3",
+  "Pure": "0x1F4A7",
+  "PureBasic": "0x01B5",
+  "PureScript": "0xE9B2",
+  "PyPi": "0xEA94",
+  "Pyret": "0x2620",
+  "pytest": "0xEBA6",
+  "PyUp": "0xEB26",
+  "Q#": "0xEB91",
+  "Qiskit": "0xEB81",
+  "QlikView": "0x1F50D",
+  "QT": "0xEB00",
+  "Quasar": "0xEACC",
+  "R": "0xE905",
+  "R database": "0xEB49",
+  "Racket": "0xE9B1",
+  "RAML": "0xE913",
+  "Rascal": "0xEA24",
+  "Razzle": "0x0052",
+  "RDoc": "0xE9B0",
+  "ReactOS": "0xEAF7",
+  "Read the Docs": "0x2398",
+  "REALbasic": "0xE9AF",
+  "Reason": "0xEA1D",
+  "Reason Studios": "0xEB44",
+  "Reason Studios, Alt": "0xEB45",
+  "Rebol": "0xE9AE",
+  "Red": "0xEAEC",
+  "Red, Old": "0xE9AD",
+  "Redux": "0xEA30",
+  "Reek": "0xEAA0",
+  "RegEx": "0x002A",
+  "Remark": "0xEB1D",
+  "Renovate": "0xEB2D",
+  "ReScript": "0xEBA7",
+  "restQL": "0xEBB0",
+  "reStructuredText": "0xE9CC",
+  "Rexx": "0xEA16",
+  "Rhino3D": "0xEA4A",
+  "Ring": "0x1F48D",
+  "Riot": "0xEB2E",
+  "Riot, Old": "0xE919",
+  "RISC-V": "0xEB5D",
+  "Rmarkdown": "0x211B",
+  "Robot": "0xEB0D",
+  "Robot, Old": "0xE9AC",
+  "Robots": "0x1F916",
+  "Rollup": "0xEA20",
+  "Rollup, Old": "0xE9FD",
+  "RSpec": "0xEA31",
+  "RStudio": "0x24C7",
+  "rsync": "0xEB9E",
+  "Rubocop": "0xEADE",
+  "RubyGems": "0x1F48E",
+  "SAC": "0x203C",
+  "Sage": "0xE9AB",
+  "Sails": "0xEB87",
+  "SaltStack": "0xE915",
+  "San": "0xEAE6",
+  "Sandbox": "0xEBB1",
+  "SAS": "0xE95A",
+  "SBT": "0xE9D2",
+  "Scheme": "0x03BB",
+  "Scilab": "0xE9A9",
+  "Scilla": "0xEAE2",
+  "Scratch": "0x00A7",
+  "Scrutinizer": "0xE9D4",
+  "Self": "0xE9A8",
+  "Semantic Release": "0x1F7CD",
+  "Sentry": "0xEB1C",
+  "Sequelize": "0xEA2F",
+  "Serverless": "0xEAB8",
+  "Service Fabric": "0xE9DB",
+  "Shadow CLJS": "0xEB88",
+  "ShellCheck": "0x1F41A",
+  "Shen": "0xE9A7",
+  "Shipit": "0x26F5",
+  "Shippable": "0xEA2D",
+  "Shopify": "0xE9CF",
+  "Shuriken": "0x272B",
+  "Sigils": "0x1F764",
+  "SiliconGraphics": "0x2318",
+  "SilverStripe": "0xE800",
+  "Sinatra": "0xEA03",
+  "Sketch": "0xE927",
+  "SketchUp LayOut": "0xEA7C",
+  "SketchUp Make": "0xEA7E",
+  "SketchUp Style Builder": "0xEA7D",
+  "Slash": "0xE9A6",
+  "SmartOS": "0xEAFC",
+  "SmartOS, Alt": "0xEAFB",
+  "Snapcraft": "0xEB09",
+  "Snort": "0x1F43D",
+  "Snowpack": "0x1F3D4",
+  "Snyk": "0xEA1C",
+  "Solidarity": "0x1D5E6",
+  "Solidity": "0xEA86",
+  "Sophia": "0xEB72",
+  "Sorbet": "0x1F366",
+  "Source": "0xEB82",
+  "Spacemacs": "0xEAA4",
+  "Spacengine": "0x29CF",
+  "SPARC": "0xEB57",
+  "Spray": "0xEA02",
+  "SQF": "0xE9A5",
+  "SQLite": "0xE9DD",
+  "Squarespace": "0xEA5E",
+  "Stan": "0xE9A4",
+  "Stata": "0xE9A3",
+  "StdlibJS": "0xEB70",
+  "Stencil": "0xEA95",
+  "Stitches": "0xEBA0",
+  "Storybook": "0xEADF",
+  "Storyist": "0xE9EF",
+  "Strings": "0xE9E0",
+  "Stylable": "0xEAE0",
+  "StyledComponents": "0x1F485",
+  "Stylelint": "0xE93D",
+  "Stylish Haskell": "0xEB3D",
+  "Stylus": "0x0073",
+  "Stylus, Full": "0xE9F7",
+  "Stylus, Orb": "0x0053",
+  "Sublime": "0xE986",
+  "SuperCollider": "0xE9A2",
+  "Svelte": "0x33DC",
+  "SVN": "0xEA17",
+  "Swagger": "0xEA29",
+  "SystemVerilog": "0xE9C3",
+  "Tag": "0xF015",
+  "Tailwind": "0x301C",
+  "Tcl": "0xE956",
+  "Telegram": "0x2708",
+  "Template Toolkit": "0x0054",
+  "TempleOS": "0x2696",
+  "Terminal": "0xF0C8",
+  "Tern": "0x1F54A",
+  "Terraform": "0xE916",
+  "Terser": "0x272C",
+  "Test, CoffeeScript": "0xEA62",
+  "Test, Directory": "0xEA60",
+  "Test, Generic": "0xEA63",
+  "Test, Go": "0xEB0F",
+  "Test, Haskell": "0xEB10",
+  "Test, JS": "0xEA64",
+  "Test, Perl": "0xEA65",
+  "Test, Python": "0xEA66",
+  "Test, React": "0xEA67",
+  "Test, Ruby": "0xEA68",
+  "Test, Rust": "0xEB11",
+  "Test, TypeScript": "0xEA69",
+  "TestCafe": "0x2714",
+  "Tex": "0xE600",
+  "Textile": "0x0074",
+  "TextMate": "0x2122",
+  "TFS": "0xEAE1",
+  "Thor": "0xE9D8",
+  "Tilt": "0xEB8A",
+  "TinyMCE": "0xEA01",
+  "Tipe": "0xEAA9",
+  "TLA+": "0xEAB2",
+  "tmux": "0xEA8C",
+  "TOML": "0x1F143",
+  "TortoiseSVN": "0xEA93",
+  "TOTVS": "0xEB34",
+  "Truffle": "0xEB3B",
+  "TSX": "0xE9E7",
+  "TSX, Alt": "0xE9D1",
+  "TTCN-3": "0x2476",
+  "Turing": "0xE9B6",
+  "Twig": "0x2E19",
+  "Twine": "0xEA5D",
+  "TXL": "0xE9C1",
+  "TypeDoc": "0xE9FE",
+  "TypeScript": "0x02A6",
+  "TypeScript, Alt": "0xE912",
+  "Typings": "0xE9DF",
+  "UFO": "0x1F144",
+  "Unibeautify": "0xEAC4",
+  "Unicode": "0xEB6E",
+  "UNO": "0xE9B3",
+  "UnrealScript": "0x0075",
+  "UrWeb": "0xE9BA",
+  "V": "0x0076",
+  "V8": "0xEA1F",
+  "V8, Turbofan": "0xEAAC",
+  "Vagrant": "0x0056",
+  "Vala": "0x1D4B1",
+  "VAX": "0xEB5C",
+  "VCL": "0xE9B4",
+  "Velocity": "0x2B94",
+  "Verilog": "0xE949",
+  "VertexShader": "0xEA79",
+  "VHDL": "0xE9AA",
+  "Video": "0xF057",
+  "VirtualBox": "0xEA3E",
+  "VirtualBox, Alt": "0xEA2E",
+  "Vite": "0x2607",
+  "VMware": "0xEA49",
+  "V-Ray": "0x24CB",
+  "VSCode": "0xEB22",
+  "VSTS": "0xEAC0",
+  "Vue": "0xE906",
+  "Vyper": "0xEB31",
+  "W3C": "0xEBAC",
+  "Wallaby": "0x231F",
+  "Walt": "0xEABA",
+  "Warcraft III": "0x2162",
+  "WASI": "0xEB40",
+  "Watchman": "0xEA4F",
+  "WDL": "0xEAB1",
+  "WebAssembly": "0xEA70",
+  "WebGL": "0xEA7B",
+  "Webhint": "0xEB35",
+  "Webpack": "0xEA61",
+  "Webpack, Old": "0xE91E",
+  "WebVTT": "0xEB24",
+  "Wenyan": "0x8A00",
+  "Wercker": "0xEA19",
+  "Wget": "0xEB38",
+  "Windi CSS": "0x1F4A8",
+  "Wine": "0x1F377",
+  "WinUI": "0xEBB7",
+  "WiX": "0xEAB0",
+  "Wolfram": "0x1F43A",
+  "Workbox": "0xEAA8",
+  "Wurst": "0x1F32D",
+  "X10": "0x2169",
+  "Xamarin": "0xEA77",
+  "xmake": "0xEB94",
+  "XMOS": "0x0058",
+  "XPages": "0xE9C5",
+  "Xtend": "0xE9C6",
+  "Xubuntu": "0xEB04",
+  "YAML": "0x0079",
+  "YAML, Alt 1": "0x0059",
+  "YAML, Alt 2": "0xEA9E",
+  "YAML, Alt 3": "0xEA9D",
+  "YAML, Alt 4": "0xEA9C",
+  "YAMLLint": "0xEB9D",
+  "Yandex": "0x042F",
+  "YANG": "0x262F",
+  "YARA": "0xEA9F",
+  "Yarn": "0xEA1A",
+  "Yasm": "0xEA73",
+  "Yorick": "0x1F480",
+  "YUI": "0xEA00",
+  "ZBrush": "0xE9F2",
+  "Zeit": "0x25B2",
+  "Zephir": "0xE9C7",
+  "Zig": "0x007A",
+  "Zilog": "0xEB56",
+  "Zimpl": "0xE9C8",
+  "ZorinOS": "0xEB01",
+  "Zork": "0x01B6"
 };
